@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -9,11 +10,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const { previous, next } = data
 
   return (
-    <Layout location={location} title={siteTitle}>
-      <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
-      />
+    <Layout location={location} title={siteTitle} data={data}>
       <article
         className="blog-post"
         itemScope
@@ -21,7 +18,6 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -78,8 +74,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
-        description
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
@@ -96,6 +90,17 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
+      }
+    }
+    allMarkdownRemark(sort: { fields: [frontmatter___index], order: ASC }) {
+      nodes {
+        excerpt
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+        }
       }
     }
   }
