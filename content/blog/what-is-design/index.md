@@ -4,11 +4,8 @@ index: 300
 date: "2020"
 ---
 
-Wow! I love blogging so much already.
+**[Can't Unsee](https://cantunsee.space/)**とは、文字幅・画像サイズなど微妙な違いを見つけ、どちらが良いデザインか簡単に何か学べるクイズ形式のサイトです。`Tutorial`,` Easy`,`Medium `,`Hard`の 4 段階で構成されています。
+なぜそのデザインが良いのか悪いのか、解説もしっかり読みましょう。
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
-
-Yeah, I didn't either.
+全問正解するまで取り組みましょう！  
+全問正解したらスクリーンショットを Study Diary に載せ、感想を書いてみてください。

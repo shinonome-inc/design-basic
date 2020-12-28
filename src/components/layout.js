@@ -5,7 +5,7 @@ import DesignTitle from "../assets/design-title.svg"
 
 import DesignTitleSmall from "../assets/design-title-small.svg"
 
-const Layout = ({ location, children }) => {
+const Layout = ({ location, children, nav }) => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -71,6 +71,7 @@ const Layout = ({ location, children }) => {
           </ol>
         </aside>
       </div>
+      {nav && nav}
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}

@@ -32,7 +32,7 @@
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --fontFamily-serif: "Merriweather", "Georgia", Cambria, "Times New Roman",
     Times, serif;
-  --font-body: var(--fontFamily-serif);
+  --font-body: var(--fontFamily-sans);
   --font-heading: var(--fontFamily-sans);
   --fontWeight-normal: 400;
   --fontWeight-medium: 500;
@@ -174,7 +174,7 @@ ol {
   margin-right: var(--spacing-0);
   padding: var(--spacing-0);
   margin-bottom: var(--spacing-8);
-  list-style-position: outside;
+  list-style-position: inside;
   list-style-image: none;
 }
 
@@ -258,6 +258,7 @@ a:focus {
 
 .main-wrapper main {
   max-width: 60%;
+  margin-right: 40px;
 }
 
 .global-header {
@@ -297,12 +298,20 @@ a:focus {
 }
 
 .blog-post header h1 {
-  margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
+  margin: var(--spacing-0) var(--spacing-0) var(--spacing-10) var(--spacing-0);
 }
 
 .blog-post header p {
   font-size: var(--fontSize-2);
   font-family: var(--font-heading);
+}
+
+.blog-post-nav {
+  padding: 0 40px;
+}
+
+.blog-post-nav hr {
+  margin-bottom: var(--spacing-6);
 }
 
 .blog-post-nav ul {
