@@ -25,5 +25,8 @@ Shinonome のチームに招待をするので@akane さんに Figma の登録�
 4. 複製したものを Design Course Tutorial (Username)のように自分の名前をつけて rename
 5. 複製したものをダブルクリックして中身を見る
 6. 画像のように ▽ をクリックして Move to Project から Drafts を選択
+7. 右上の`Share`ボタンから`Anyone with link`を選択
 
-![Move To Project](./moveToProject.png)
+| Move to Project                         | Anyone with link             |
+| --------------------------------------- | ---------------------------- |
+| ![Move To Project](./moveToProject.png) | ![To Review](./toReview.png) |
