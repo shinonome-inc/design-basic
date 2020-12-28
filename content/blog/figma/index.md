@@ -27,6 +27,6 @@ Shinonome のチームに招待をするので@akane さんに Figma の登録�
 6. 画像のように ▽ をクリックして Move to Project から Drafts を選択
 7. 右上の`Share`ボタンから`Anyone with link`を選択
 
-| Move to Project                         | Anyone with link             |
-| --------------------------------------- | ---------------------------- |
-| ![Move To Project](./moveToProject.png) | ![To Review](./toReview.png) |
+| Move to Project                                    | Anyone with link                        |
+| -------------------------------------------------- | --------------------------------------- |
+| ![Move To Project](../../assets/moveToProject.png) | ![To Review](../../assets/toReview.png) |

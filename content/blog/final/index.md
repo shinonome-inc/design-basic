@@ -7,14 +7,27 @@ date: "2020"
 ### 課題
 
 最終課題は Play Ground で実際に請け負ったプロジェクトを使った模擬案件形式です。  
-３つのプロジェクトから好きなものを選びましょう。  
-最終的に@tane さんが点数をつけ、90 点以上取った時点でデザインコース修了となります。  
-画面遷移図は Design Course Tutorial (Username) の`最終課題--画面遷移図`と書かれたページで、デザインは`最終課題--デザイン`と書かれたページで制作しましょう。  
-ページを分けたい場合はわかりやすい名前であればいくらでもページを分けて構いません。
+３つのプロジェクトから好きなものを選びましょう。
 
 - [Dawn]()
 - [mymentor]()
 - [ski]()
+
+### Project Template を複製しましょう。
+
+実際に Web デザインを作る際に使っている Project Template を使って制作しましょう。
+
+1. Figma を開いて左側のサイドバーから shinonome をクリック
+2. Projects をクリック
+3. Project Template を右クリックして複製
+4. 複製したものを Project Template (Username) (Project Name)のように rename
+5. 複製したものをダブルクリックして中身を見る
+6. 画像のように ▽ をクリックして Move to Project から Drafts を選択
+7. 右上の`Share`ボタンから`Anyone with link`を選択
+
+| Move to Project                                    | Anyone with link                        |
+| -------------------------------------------------- | --------------------------------------- |
+| ![Move To Project](../../assets/moveToProject.png) | ![To Review](../../assets/toReview.png) |
 
 ### ポイント
 
@@ -31,6 +44,10 @@ date: "2020"
 </pre>
 </details>
 
+### ゴール
+
+最終的に@tane さんが点数をつけ、90 点以上取った時点でデザインコース修了となります。
+
 ### 解答ができたら
 
 1. この章で学んだことを Study Diary に書き、今回学んだ部分にチェックをつける。
@@ -42,4 +59,4 @@ date: "2020"
 | ----------------------------------------------------- | ----------------------------------------------- |
 | ![Copy Link To Page](../../assets/copyLinkToPage.png) | ![Please Review](../../assets/pleaseReview.png) |
 
-**※shinonome チームの Design Course Tutorial を編集しないように気をつけてください！万が一してしまった場合は気づいたらすぐに教えてください！**
+**※shinonome チームの Project Template を編集しないように気をつけてください！万が一してしまった場合は気づいたらすぐに教えてください！**
