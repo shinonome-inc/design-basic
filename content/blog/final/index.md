@@ -1,34 +1,32 @@
 ---
-title: Atomic Design
-index: 720
+title: 最終課題
+index: 900
 date: "2020"
 ---
 
-### Atomic Design とは？
+### 課題
 
-Atomic Design(アトミックデザイン)とは、画面を構成する要素を、`Atoms(原子）`,`Molecules（分子）`,`Organisms(有機体）`,`Templates(テンプレート）`,`Pages(ページ）`の 5 つの階層に分け、最終的な UI と UI の基礎となるデザインシステムを同時に作成する設計方法です。
+最終課題は Play Ground で実際に請け負ったプロジェクトを使った模擬案件形式です。  
+３つのプロジェクトから好きなものを選びましょう。  
+最終的に@tane さんが点数をつけ、90 点以上取った時点でデザインコース修了となります。  
+画面遷移図は Design Course Tutorial (Username) の`最終課題--画面遷移図`と書かれたページで、デザインは`最終課題--デザイン`と書かれたページで制作しましょう。  
+ページを分けたい場合はわかりやすい名前であればいくらでもページを分けて構いません。
 
-### 利点
+- [Dawn]()
+- [mymentor]()
+- [ski]()
 
-- 機能やコンポーネント単位で考えることで、デバイスやページの概念に縛られず、動的にデザインできること。
+### ポイント
 
-### 例
-
-以下の画像が instagram を Atomic Design 化 したものです。
-
-![instagram](./instagram.png)
-
-### Atomic Design トレース課題
-
-今回の課題では、前回画面遷移図を作った[デモサイト](https://demo.tcd-theme.com/tcd063/)のトップページのデザインを Atomic Design 化してもらいます。  
-Design Course Tutorial (Username) の`Atomic Design`と書かれたページで制作しましょう。
+1. 仕様書からコンセプトを自分で定義し、クライアントの求めるデザインを作れるか
+2. コーディングをするエンジニアに伝わりやすい Atomic Design で実装できているか
 
 <details>
 <summary>レビューを依頼するタイミング</summary>
 <pre>
 <code>
-ヘッダー
-フッター
+画面遷移図を作り終えた時
+トップページを完成させた時
 </code>
 </pre>
 </details>
