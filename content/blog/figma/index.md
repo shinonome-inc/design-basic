@@ -1,6 +1,7 @@
 ---
 title: Figmaに慣れてみよう！
 index: 500
+date: "2020"
 ---
 
 Wow! I love blogging so much already.

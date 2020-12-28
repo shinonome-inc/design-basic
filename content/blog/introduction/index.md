@@ -1,6 +1,7 @@
 ---
 title: 課題を始めましょう！
 index: 100
+date: "2020"
 ---
 
 This is my first post on my new fake blog! How exciting!

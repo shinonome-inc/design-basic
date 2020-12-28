@@ -1,6 +1,7 @@
 ---
 title: いいデザインって何だろう？
 index: 300
+date: "2020"
 ---
 
 Wow! I love blogging so much already.
