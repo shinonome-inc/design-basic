@@ -1,7 +1,24 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { Link, graphql, useStaticQuery } from "gatsby"
 
-const Layout = ({ location, title, children, data }) => {
+const Layout = ({ location, title, children }) => {
+  const data = useStaticQuery(
+    graphql`
+      query {
+        allMarkdownRemark(sort: { fields: [frontmatter___index], order: ASC }) {
+          nodes {
+            excerpt
+            fields {
+              slug
+            }
+            frontmatter {
+              title
+            }
+          }
+        }
+      }
+    `
+  )
   const posts = data.allMarkdownRemark.nodes
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
@@ -60,24 +77,3 @@ const Layout = ({ location, title, children, data }) => {
 }
 
 export default Layout
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___index], order: ASC }) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          title
-        }
-      }
-    }
-  }
-`
