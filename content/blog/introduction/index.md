@@ -1,8 +1,6 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
-index: 50
+title: 課題を始めましょう！
+index: 100
 ---
 
 This is my first post on my new fake blog! How exciting!

@@ -24,30 +24,32 @@ const Layout = ({ location, title, children, data }) => {
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header}</header>
-      <main>{children}</main>
-      <aside>
-        <ol style={{ listStyle: `none` }}>
-          {posts.map(post => {
-            const title = post.frontmatter.title || post.fields.slug
+      <div className="main-wrapper">
+        <main>{children}</main>
+        <aside>
+          <ol style={{ listStyle: `none` }}>
+            {posts.map(post => {
+              const title = post.frontmatter.title || post.fields.slug
 
-            return (
-              <li key={post.fields.slug}>
-                <article
-                  className="post-list-item"
-                  itemScope
-                  itemType="http://schema.org/Article"
-                >
-                  <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h2>
-                </article>
-              </li>
-            )
-          })}
-        </ol>
-      </aside>
+              return (
+                <li key={post.fields.slug}>
+                  <article
+                    className="post-list-item"
+                    itemScope
+                    itemType="http://schema.org/Article"
+                  >
+                    <h5>
+                      <Link to={post.fields.slug} itemProp="url">
+                        <span itemProp="headline">{title}</span>
+                      </Link>
+                    </h5>
+                  </article>
+                </li>
+              )
+            })}
+          </ol>
+        </aside>
+      </div>
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
