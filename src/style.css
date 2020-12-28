@@ -243,7 +243,11 @@ a:focus {
 
 .global-wrapper {
   margin: var(--spacing-0) auto;
-  padding: var(--spacing-10) var(--spacing-5);
+  padding: var(--spacing-6) var(--spacing-5);
+}
+
+.logo {
+  height: 56px;
 }
 
 .main-wrapper {

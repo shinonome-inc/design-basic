@@ -1,7 +1,11 @@
 import React from "react"
 import { Link, graphql, useStaticQuery } from "gatsby"
 
-const Layout = ({ location, title, children }) => {
+import DesignTitle from "../assets/design-title.svg"
+
+import DesignTitleSmall from "../assets/design-title-small.svg"
+
+const Layout = ({ location, children }) => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -26,14 +30,14 @@ const Layout = ({ location, title, children }) => {
 
   if (isRootPath) {
     header = (
-      <h1 className="main-heading">
-        <Link to="/">{title}</Link>
-      </h1>
+      <Link to="/">
+        <img className="logo" src={DesignTitle} alt="test" />
+      </Link>
     )
   } else {
     header = (
       <Link className="header-link-home" to="/">
-        {title}
+        <img className="logo" src={DesignTitleSmall} alt="test" />
       </Link>
     )
   }

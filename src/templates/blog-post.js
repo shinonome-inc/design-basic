@@ -5,11 +5,10 @@ import Layout from "../components/layout"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
 
   return (
-    <Layout location={location} title={siteTitle} data={data}>
+    <Layout location={location} data={data}>
       <article
         className="blog-post"
         itemScope
