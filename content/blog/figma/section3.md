@@ -1,11 +1,11 @@
 ---
-title: 基本操作
-index: 510
+title: プロパティパネルの操作
+index: 530
 date: "2020"
 ---
 
-**[chot design](https://chot.design/figma-beginner/)**の`2.Figma の基本操作`の章を読みながら実際に手を動かしてみましょう。  
-前のページで複製した Design Course Tutorial (Username) の`2.Figma の基本操作について`と書かれたページに今回の課題が用意されています。
+**[chot design](https://chot.design/figma-beginner/)**の`4.プロパティパネルの操作`の章を読みながら実際に手を動かしてみましょう。  
+前のページで複製した Design Course Tutorial (Username) の`4.プロパティパネルの操作について`と書かれたページに今回の課題が用意されています。
 
 ### 解答ができたら
 
