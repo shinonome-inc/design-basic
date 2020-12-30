@@ -257,7 +257,7 @@ a:focus {
 }
 
 .main-wrapper main {
-  max-width: 60%;
+  width: 60%;
   margin-right: 40px;
 }
 
