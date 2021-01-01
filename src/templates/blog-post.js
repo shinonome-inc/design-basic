@@ -2,6 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
@@ -39,6 +40,7 @@ const BlogPostTemplate = ({ data, location }) => {
 
   return (
     <Layout location={location} data={data} nav={nav}>
+      <SEO title="Design Basic" />
       <article
         className="blog-post"
         itemScope

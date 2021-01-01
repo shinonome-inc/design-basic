@@ -10,7 +10,7 @@ const BlogIndex = ({ data, location }) => {
   if (posts.length === 0) {
     return (
       <Layout location={location} data={data}>
-        <SEO title="All posts" />
+        <SEO title="Design Basic" />
         <p>課題はまだありません。</p>
       </Layout>
     )
@@ -18,7 +18,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} data={data}>
-      <SEO title="All posts" />
+      <SEO title="Design Basic" />
     </Layout>
   )
 }
