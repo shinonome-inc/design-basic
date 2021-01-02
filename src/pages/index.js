@@ -3,21 +3,22 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Device from "../assets/device.svg"
 
 const BlogIndex = ({ data, location }) => {
-  const posts = data.allMarkdownRemark.nodes
-
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} data={data}>
-        <SEO title="Design Basic" />
-        <p>課題はまだありません。</p>
-      </Layout>
-    )
-  }
-
+  const top = (
+    <div className="top-wrapper">
+      <div className="top">
+        <h1>デザインとは知性の可視化である。</h1>
+        <div className="content">
+          <p>Design is intelligence made visible. by Alina Wheeler</p>
+          <img src={Device} />
+        </div>
+      </div>
+    </div>
+  )
   return (
-    <Layout location={location} data={data}>
+    <Layout location={location} data={data} top={top}>
       <SEO title="Design Basic" />
     </Layout>
   )

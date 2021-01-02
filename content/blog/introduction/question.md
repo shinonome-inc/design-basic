@@ -7,7 +7,7 @@ date: "2020"
 ### わからないことがあった時
 
 - 課題のやり方がわからないなど教材に関することは講師まで Slack の`:dev_design`のスタンプを押して教えてください。
-- 考えすぎず考えましょう。質問するタイミングは教材をよく読んで+10 分調べた時です。  
+- 考えすぎず考えましょう。質問するタイミングは教材をよく読んで+15 分調べた時です。  
   [参考記事](https://qiita.com/seki_uk/items/4001423b3cd3db0dada7)  
   まずは[質問ページ](https://github.com/shinonome-inc/design-basic/issues?q=is%3Aissue+label%3AQuestion+)に自分の疑問点が載っていないか確認しましょう。
 

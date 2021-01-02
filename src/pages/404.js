@@ -7,9 +7,9 @@ import SEO from "../components/seo"
 const NotFoundPage = ({ data, location }) => {
   return (
     <Layout location={location} data={data}>
-      <SEO title="404: Not Found" />
-      <h1>404: Not Found</h1>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+      <SEO title="Not Found" />
+      <h1>404 Page Not Found</h1>
+      <p>このページは存在しません。</p>
     </Layout>
   )
 }
