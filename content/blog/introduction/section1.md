@@ -10,6 +10,8 @@ date: "2020"
 ### デザイン例を探す
 
 - [dribbble](https://dribbble.com/)
+- [uplabs](https://www.uplabs.com/)
+- [pinterest](https://www.pinterest.jp/)
 
 ### 画像素材
 

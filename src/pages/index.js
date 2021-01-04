@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Device from "../assets/device.svg"
+import Device from "../assets/device.png"
 
 const BlogIndex = ({ data, location }) => {
   const top = (

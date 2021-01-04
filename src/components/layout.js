@@ -27,7 +27,38 @@ const Layout = ({ location, children, nav, top }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
   let header
-  let aside
+  let content
+  let aside = (
+    <aside>
+      <ol style={{ listStyle: `none` }}>
+        <p>課題一覧</p>
+        {posts.map((post, index) => {
+          const title = post.frontmatter.title || post.fields.slug
+
+          return (
+            <>
+              <li key={post.fields.slug} style={{ margin: `16px 0` }}>
+                <article
+                  className="post-list-item"
+                  itemScope
+                  itemType="http://schema.org/Article"
+                >
+                  <p>
+                    <Link to={post.fields.slug} itemProp="url">
+                      <span itemProp="headline">{`${
+                        index + 1
+                      }. ${title}`}</span>
+                    </Link>
+                  </p>
+                </article>
+              </li>
+              <hr />
+            </>
+          )
+        })}
+      </ol>
+    </aside>
+  )
 
   if (isRootPath) {
     header = (
@@ -38,31 +69,20 @@ const Layout = ({ location, children, nav, top }) => {
       </header>
     )
 
-    aside = (
-      <aside>
-        <ol style={{ listStyle: `none` }}>
-          <p>課題一覧</p>
-          {posts.map(post => {
-            const title = post.frontmatter.title || post.fields.slug
-
-            return (
-              <li key={post.fields.slug}>
-                <article
-                  className="post-list-item"
-                  itemScope
-                  itemType="http://schema.org/Article"
-                >
-                  <p>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </p>
-                </article>
-              </li>
-            )
-          })}
-        </ol>
-      </aside>
+    content = (
+      <>
+        <section id="task">
+          <div className="content">
+            <h1>さあ、始めましょう</h1>
+            <p>
+              デザインコースではたくさんの課題があります。コースを修了するにはやり通す覚悟と粘り強さが求められます。
+              <br />
+              諦めずに丁寧に取り組みましょう。
+            </p>
+          </div>
+          {aside}
+        </section>
+      </>
     )
   } else {
     header = (
@@ -72,32 +92,6 @@ const Layout = ({ location, children, nav, top }) => {
         </Link>
       </header>
     )
-
-    aside = (
-      <aside>
-        <ol style={{ listStyle: `none` }}>
-          {posts.map(post => {
-            const title = post.frontmatter.title || post.fields.slug
-
-            return (
-              <li key={post.fields.slug}>
-                <article
-                  className="post-list-item"
-                  itemScope
-                  itemType="http://schema.org/Article"
-                >
-                  <p>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </p>
-                </article>
-              </li>
-            )
-          })}
-        </ol>
-      </aside>
-    )
   }
 
   return (
@@ -106,8 +100,9 @@ const Layout = ({ location, children, nav, top }) => {
       {top && top}
       <div className="main-wrapper">
         <main>{children}</main>
-        {aside}
+        {!isRootPath && aside}
       </div>
+      {isRootPath && content}
       {nav && nav}
       <footer>© {new Date().getFullYear()} Shinonome, inc.</footer>
     </div>

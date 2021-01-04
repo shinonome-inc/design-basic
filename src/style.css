@@ -159,6 +159,17 @@ p > a {
   color: inherit;
 }
 
+p > a:hover {
+  color: var(--color-primary);
+}
+
+:not(pre) > code[class*="language-"] {
+  padding: 4px 8px !important;
+  margin: 0 4px;
+  color: #8235d6;
+  background-color: #f7f7f7 !important;
+}
+
 /* Prose */
 
 p {
@@ -256,6 +267,7 @@ a:focus {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  margin-bottom: var(--spacing-10);
 }
 
 .top {
@@ -357,6 +369,22 @@ a:focus {
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
+}
+
+h1.title {
+  -webkit-text-stroke: 1px var(--color-text-light);
+  color: transparent;
+  text-shadow: 2px 2px 0 var(--color-primary);
+}
+
+section#task {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+section#task .content {
+  margin-right: var(--spacing-4);
 }
 
 /* Media queries */
