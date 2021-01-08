@@ -30,8 +30,8 @@ const Layout = ({ location, children, nav, top }) => {
   let content
   let aside = (
     <aside>
-      <ol style={{ listStyle: `none` }}>
-        <p>課題一覧</p>
+      <p>課題一覧</p>
+      <ol style={{ listStyle: `none` }} className="aside-inner">
         {posts.map((post, index) => {
           const title = post.frontmatter.title || post.fields.slug
 

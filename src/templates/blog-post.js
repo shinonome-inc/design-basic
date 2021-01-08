@@ -22,15 +22,19 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <li>
           {previous && (
-            <Link to={previous.fields.slug} rel="prev">
-              ← {previous.frontmatter.title}
+            <Link
+              to={previous.fields.slug}
+              rel="prev"
+              className="nav-link prev"
+            >
+              ← <span>{previous.frontmatter.title}</span>
             </Link>
           )}
         </li>
         <li>
           {next && (
-            <Link to={next.fields.slug} rel="next">
-              {next.frontmatter.title} →
+            <Link to={next.fields.slug} rel="next" className="nav-link next">
+              <span>{next.frontmatter.title}</span> →
             </Link>
           )}
         </li>

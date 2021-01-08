@@ -26,3 +26,11 @@ date: "2020"
 ### アイコン素材
 
 - [Font Awesome](https://fontawesome.com/icons?d=gallery)
+- [Feather](https://feathericons.com/)
+- [Forge Icons](https://icons.theforgesmith.com/)
+- [Tabler Icons](https://tablericons.com/)
+- [Unicons icon library](https://iconscout.com/unicons/explore/line)
+
+### 配色
+
+- [配色難民と化した新人デザイナーに捧ぐ。本当に役立つ配色サービスまとめ](https://liginc.co.jp/399974)

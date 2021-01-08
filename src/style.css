@@ -60,6 +60,7 @@
   --color-heading: #1a202c;
   --color-heading-black: black;
   --color-accent: #d1dce5;
+  --color-text-green: #00e4c5;
 }
 
 /* HTML elements */
@@ -364,7 +365,41 @@ a:focus {
 }
 
 .blog-post-nav ul {
-  margin: var(--spacing-0);
+  margin-top: var(--spacing-8);
+}
+
+.blog-post-nav .nav-link {
+  text-decoration: none;
+  color: var(--color-text);
+  padding: var(--spacing-8) var(--spacing-0);
+}
+
+.blog-post-nav .nav-link span {
+  position: relative;
+}
+
+.blog-post-nav .nav-link span::before {
+  content: "";
+  background-color: var(--color-text-green);
+  position: absolute;
+  top: calc(50% - 20px);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  z-index: -1;
+  transition: 0.1s;
+}
+
+.blog-post-nav .nav-link:hover span::before {
+  transform: scale(1.2);
+}
+
+.blog-post-nav .nav-link.prev span::before {
+  right: -12px;
+}
+
+.blog-post-nav .nav-link.next span::before {
+  left: -12px;
 }
 
 .gatsby-highlight {
@@ -374,7 +409,7 @@ a:focus {
 h1.title {
   -webkit-text-stroke: 1px var(--color-text-light);
   color: transparent;
-  text-shadow: 2px 2px #00e4c5;
+  text-shadow: 2px 2px var(--color-text-green);
 }
 
 section#task {
@@ -385,6 +420,14 @@ section#task {
 
 section#task .content {
   margin-right: var(--spacing-4);
+}
+
+aside {
+  max-height: 70vh;
+  overflow: scroll;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #f7f7f7;
 }
 
 /* Media queries */
