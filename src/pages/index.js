@@ -9,11 +9,8 @@ const BlogIndex = ({ data, location }) => {
   const top = (
     <div className="top-wrapper">
       <div className="top">
-        <h1>デザインとは知性の可視化である。</h1>
-        <div className="content">
-          <p>Design is intelligence made visible. by Alina Wheeler</p>
-          <img src={Device} />
-        </div>
+        <h1>Design is intelligence made visible. </h1>
+        <img src={Device} />
       </div>
     </div>
   )

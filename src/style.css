@@ -267,23 +267,21 @@ a:focus {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
   margin-bottom: var(--spacing-10);
 }
 
 .top {
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-direction: column;
 }
 
-.top .content {
-  display: flex;
-  margin-top: var(--spacing-2);
-}
-
-.content p {
-  margin-top: var(--spacing-4);
+.top h1::after {
+  content: "by Alina Wheeler";
+  font-weight: normal;
+  font-size: var(--fontSize-root);
+  margin-left: var(--spacing-2);
 }
 
 .top img {
