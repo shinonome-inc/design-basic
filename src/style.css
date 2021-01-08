@@ -374,7 +374,7 @@ a:focus {
 h1.title {
   -webkit-text-stroke: 1px var(--color-text-light);
   color: transparent;
-  text-shadow: 2px 2px 0 var(--color-primary);
+  text-shadow: 2px 2px #00e4c5;
 }
 
 section#task {
