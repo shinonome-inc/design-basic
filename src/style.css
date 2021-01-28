@@ -44,7 +44,7 @@
   --lineHeight-none: 1;
   --lineHeight-tight: 1.1;
   --lineHeight-normal: 1.5;
-  --lineHeight-relaxed: 1.625;
+  --lineHeight-relaxed: 2;
   /* 1.200 Minor Third Type Scale */
   --fontSize-0: 0.833rem;
   --fontSize-1: 1rem;
@@ -72,7 +72,7 @@
 }
 
 html {
-  line-height: var(--lineHeight-normal);
+  line-height: var(--lineHeight-relaxed);
   font-size: var(--fontSize-root);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -425,7 +425,7 @@ aside {
   overflow: scroll;
   padding: 20px;
   border-radius: 12px;
-  background-color: #f5fff7;
+  background-color: #f6f4ff;
 }
 
 /* Media queries */
