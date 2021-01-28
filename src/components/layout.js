@@ -29,35 +29,34 @@ const Layout = ({ location, children, nav, top }) => {
   let header
   let content
   let aside = (
-    <aside>
+    <>
       <p>課題一覧</p>
-      <ol style={{ listStyle: `none` }} className="aside-inner">
-        {posts.map((post, index) => {
-          const title = post.frontmatter.title || post.fields.slug
+      <aside>
+        <ol style={{ listStyle: `none` }} className="aside-inner">
+          {posts.map((post, index) => {
+            const title = post.frontmatter.title || post.fields.slug
 
-          return (
-            <>
+            return (
               <li key={post.fields.slug} style={{ margin: `16px 0` }}>
                 <article
                   className="post-list-item"
                   itemScope
                   itemType="http://schema.org/Article"
                 >
-                  <p>
+                  <h4>
                     <Link to={post.fields.slug} itemProp="url">
                       <span itemProp="headline">{`${
                         index + 1
                       }. ${title}`}</span>
                     </Link>
-                  </p>
+                  </h4>
                 </article>
               </li>
-              <hr />
-            </>
-          )
-        })}
-      </ol>
-    </aside>
+            )
+          })}
+        </ol>
+      </aside>
+    </>
   )
 
   if (isRootPath) {
@@ -71,17 +70,15 @@ const Layout = ({ location, children, nav, top }) => {
 
     content = (
       <>
-        <section id="task">
-          <div className="content">
-            <h1>さあ、始めましょう</h1>
-            <p>
-              デザインコースではたくさんの課題があります。コースを修了するにはやり通す覚悟と粘り強さが求められます。
-              <br />
-              諦めずに丁寧に取り組みましょう。
-            </p>
-          </div>
-          {aside}
-        </section>
+        <div className="content">
+          <h1>さあ、始めましょう</h1>
+          <p>
+            デザインコースではたくさんの課題があります。コースを修了するにはやり通す覚悟と粘り強さが求められます。
+            <br />
+            諦めずに丁寧に取り組みましょう。
+          </p>
+        </div>
+        {aside}
       </>
     )
   } else {
@@ -99,10 +96,11 @@ const Layout = ({ location, children, nav, top }) => {
       {header}
       {top && top}
       <div className="main-wrapper">
-        <main>{children}</main>
-        {!isRootPath && aside}
+        <main>
+          {children}
+          {isRootPath && content}
+        </main>
       </div>
-      {isRootPath && content}
       {nav && nav}
       <footer>© {new Date().getFullYear()} Shinonome, inc.</footer>
     </div>
