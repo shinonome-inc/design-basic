@@ -10,7 +10,7 @@ const BlogIndex = ({ data, location }) => {
     <div className="top-wrapper">
       <div className="top">
         <h1>Design is intelligence made visible. </h1>
-        <img src={Device} />
+        <img src={Device} alt="device" />
       </div>
     </div>
   )
