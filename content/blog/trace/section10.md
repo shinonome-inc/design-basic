@@ -2,6 +2,7 @@
 title: フッターを作る
 index: 765
 date: "2020"
+labels: ["trace"]
 ---
 
 ### Atomic Design トレース課題

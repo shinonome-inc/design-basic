@@ -2,6 +2,7 @@
 title: カードを作る
 index: 745
 date: "2020"
+labels: ["trace"]
 ---
 
 ### Atomic Design トレース課題

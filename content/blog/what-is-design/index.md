@@ -2,6 +2,7 @@
 title: いいデザインって何だろう？
 index: 300
 date: "2020"
+labels: ["trace"]
 ---
 
 **[Can't Unsee](https://cantunsee.space/)**とは、文字幅・画像サイズなど微妙な違いを見つけ、どちらが良いデザインか簡単に何か学べるクイズ形式のサイトです。`Tutorial`,` Easy`,`Medium `,`Hard`の 4 段階で構成されています。

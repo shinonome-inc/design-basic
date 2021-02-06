@@ -2,6 +2,7 @@
 title: Figmaを使ってみる
 index: 500
 date: "2020"
+labels: ["figma"]
 ---
 
 ## この章で学ぶこと

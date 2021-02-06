@@ -2,6 +2,7 @@
 title: Figma の基本操作 2
 index: 512
 date: "2020"
+labels: ["figma"]
 ---
 
 ## ページ・フレーム・オブジェクトの作成

@@ -2,6 +2,7 @@
 title: カフェ紹介を作る
 index: 740
 date: "2020"
+labels: ["trace"]
 ---
 
 ### Atomic Design トレース課題

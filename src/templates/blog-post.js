@@ -83,6 +83,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        labels
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
@@ -91,6 +92,7 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
+        labels
       }
     }
     next: markdownRemark(id: { eq: $nextPostId }) {
@@ -99,6 +101,7 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
+        labels
       }
     }
     allMarkdownRemark(sort: { fields: [frontmatter___index], order: ASC }) {
@@ -109,6 +112,7 @@ export const pageQuery = graphql`
         }
         frontmatter {
           title
+          labels
         }
       }
     }

@@ -2,6 +2,7 @@
 title: プランを作る
 index: 755
 date: "2020"
+labels: ["trace"]
 ---
 
 ### Atomic Design トレース課題

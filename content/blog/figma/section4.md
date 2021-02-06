@@ -2,6 +2,7 @@
 title: プロトタイピング
 index: 540
 date: "2020"
+labels: ["figma"]
 ---
 
 **[chot design](https://chot.design/figma-beginner/)**の`5.プロトタイピング`の章を読みながら実際に手を動かしてみましょう。  

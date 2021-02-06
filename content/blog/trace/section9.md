@@ -2,6 +2,7 @@
 title: フロアスペースを作る
 index: 760
 date: "2020"
+labels: ["trace"]
 ---
 
 ### Atomic Design トレース課題

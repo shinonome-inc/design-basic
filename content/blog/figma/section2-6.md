@@ -2,6 +2,7 @@
 title: ツールバーの操作 6
 index: 526
 date: "2020"
+labels: ["figma"]
 ---
 
 ## オブジェクトのマスク

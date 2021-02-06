@@ -17,6 +17,7 @@ const Layout = ({ location, children, nav, top }) => {
             }
             frontmatter {
               title
+              labels
             }
           }
         }
@@ -28,35 +29,68 @@ const Layout = ({ location, children, nav, top }) => {
   const isRootPath = location.pathname === rootPath
   let header
   let content
+  let index = 0
   let aside = (
-    <>
-      <p>課題一覧</p>
-      <aside>
-        <ol style={{ listStyle: `none` }} className="aside-inner">
-          {posts.map((post, index) => {
-            const title = post.frontmatter.title || post.fields.slug
-
-            return (
-              <li key={post.fields.slug} style={{ margin: `16px 0` }}>
-                <article
-                  className="post-list-item"
-                  itemScope
-                  itemType="http://schema.org/Article"
-                >
-                  <h4>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{`${
-                        index + 1
-                      }. ${title}`}</span>
-                    </Link>
-                  </h4>
-                </article>
-              </li>
-            )
-          })}
-        </ol>
-      </aside>
-    </>
+    <div className="aside-list">
+      <div>
+        <h2>課題一覧</h2>
+        <aside>
+          <ol style={{ listStyle: `none` }} className="aside-inner">
+            {posts.map(post => {
+              if (post.frontmatter.labels[0] !== "wisdom") {
+                const title = post.frontmatter.title || post.fields.slug
+                index += 1
+                return (
+                  <li key={post.fields.slug} style={{ margin: `16px 0` }}>
+                    <article
+                      className="post-list-item"
+                      itemScope
+                      itemType="http://schema.org/Article"
+                    >
+                      <h4>
+                        <Link to={post.fields.slug} itemProp="url">
+                          <span itemProp="headline">{`${index}. ${title}`}</span>
+                        </Link>
+                      </h4>
+                    </article>
+                  </li>
+                )
+              }
+              return false
+            })}
+          </ol>
+        </aside>
+      </div>
+      <div>
+        <h2>その他</h2>
+        <aside>
+          <ol style={{ listStyle: `none` }} className="aside-inner">
+            {posts.map(post => {
+              if (post.frontmatter.labels[0] === "wisdom") {
+                const title = post.frontmatter.title || post.fields.slug
+                index += 1
+                return (
+                  <li key={post.fields.slug} style={{ margin: `16px 0` }}>
+                    <article
+                      className="post-list-item"
+                      itemScope
+                      itemType="http://schema.org/Article"
+                    >
+                      <h4>
+                        <Link to={post.fields.slug} itemProp="url">
+                          <span itemProp="headline">{title}</span>
+                        </Link>
+                      </h4>
+                    </article>
+                  </li>
+                )
+              }
+              return false
+            })}
+          </ol>
+        </aside>
+      </div>
+    </div>
   )
 
   if (isRootPath) {

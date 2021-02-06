@@ -2,6 +2,7 @@
 title: プラグインとコミュニティ
 index: 560
 date: "2020"
+labels: ["figma"]
 ---
 
 ## プラグイン

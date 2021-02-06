@@ -2,6 +2,7 @@
 title: 素材集
 index: 130
 date: "2020"
+labels: ["wisdom"]
 ---
 
 ここではデザインをする際によく使うサイトを紹介します。  
@@ -22,6 +23,7 @@ date: "2020"
 - [Unsplash](https://unsplash.com/)
 - [shutterstock](https://www.shutterstock.com/)
 - [Adobe Stock](https://stock.adobe.com/jp/)
+- [isometric love](https://www.isometriclove.com/)
 
 ### アイコン素材
 

@@ -2,6 +2,7 @@
 title: 画面遷移図
 index: 700
 date: "2020"
+labels: ["trace"]
 ---
 
 ### 画面遷移図とロジックパーツ

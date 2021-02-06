@@ -12,6 +12,7 @@ const BlogIndex = ({ data, location }) => {
         <h1>Design is intelligence made visible. </h1>
         <img src={Device} alt="device" />
       </div>
+      <span className="author">Written by Ayako</span>
     </div>
   )
   return (
@@ -38,6 +39,7 @@ export const pageQuery = graphql`
         }
         frontmatter {
           title
+          labels
         }
       }
     }

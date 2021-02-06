@@ -2,6 +2,7 @@
 title: プロパティパネルの操作
 index: 530
 date: "2020"
+labels: ["figma"]
 ---
 
 **[chot design](https://chot.design/figma-beginner/)**の`4.プロパティパネルの操作`の章を読みながら実際に手を動かしてみましょう。  

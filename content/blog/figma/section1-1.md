@@ -2,6 +2,7 @@
 title: Figma の基本操作 1
 index: 510
 date: "2020"
+labels: ["figma"]
 ---
 
 実際に Figma を触って基本的な操作を覚えましょう。  

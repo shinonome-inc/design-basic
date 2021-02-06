@@ -2,6 +2,7 @@
 title: ツールバーの操作 確認テスト
 index: 528
 date: "2020"
+labels: ["figma"]
 ---
 
 ### 課題

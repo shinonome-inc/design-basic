@@ -2,6 +2,7 @@
 title: Atomic Design
 index: 720
 date: "2020"
+labels: ["trace"]
 ---
 
 ### Atomic Design とは？

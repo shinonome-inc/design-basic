@@ -2,6 +2,7 @@
 title: Figma の基本操作 3
 index: 513
 date: "2020"
+labels: ["figma"]
 ---
 
 ## レイヤーを管理する

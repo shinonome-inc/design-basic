@@ -2,6 +2,7 @@
 title: ツールバーの操作 1
 index: 520
 date: "2020"
+labels: ["figma"]
 ---
 
 ## ツールバーの操作・概要

@@ -2,6 +2,7 @@
 title: 課題を始めましょう！
 index: 100
 date: "2020"
+labels: ["introduction"]
 ---
 
 ### 課題の始め方

@@ -2,6 +2,7 @@
 title: ニュース・イベントを作る
 index: 750
 date: "2020"
+labels: ["trace"]
 ---
 
 ### Atomic Design トレース課題

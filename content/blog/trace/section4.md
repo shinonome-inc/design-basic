@@ -2,6 +2,7 @@
 title: トップを作る
 index: 735
 date: "2020"
+labels: ["trace"]
 ---
 
 ### Atomic Design トレース課題

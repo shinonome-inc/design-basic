@@ -2,6 +2,7 @@
 title: 最終課題概要
 index: 900
 date: "2020"
+labels: ["final"]
 ---
 
 ### 課題

@@ -105,6 +105,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     type Frontmatter {
       title: String
       description: String
+      labels: [String]
     }
 
     type Fields {
