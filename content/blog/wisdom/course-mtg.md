@@ -1,6 +1,6 @@
 ---
 title: 定例会について
-index: 110
+index: 010
 date: "2020"
 labels: ["wisdom"]
 ---

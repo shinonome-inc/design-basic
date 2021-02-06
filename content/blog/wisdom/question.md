@@ -1,6 +1,6 @@
 ---
 title: 質問したい時は...
-index: 120
+index: 020
 date: "2020"
 labels: ["wisdom"]
 ---

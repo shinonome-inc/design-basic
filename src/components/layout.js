@@ -33,7 +33,7 @@ const Layout = ({ location, children, nav, top }) => {
   let aside = (
     <div className="aside-list">
       <div>
-        <h2>課題一覧</h2>
+        <h4>課題一覧</h4>
         <aside>
           <ol className="aside-inner">
             {posts.map((post, index) => {
@@ -68,7 +68,7 @@ const Layout = ({ location, children, nav, top }) => {
         </aside>
       </div>
       <div>
-        <h2>その他</h2>
+        <h4>お知らせ＆豆知識</h4>
         <aside>
           <ol className="aside-inner">
             {posts.map(post => {

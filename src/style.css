@@ -54,7 +54,7 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #71b7a0;
+  --color-primary: #4f8271;
   --color-text: #2e353f;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
@@ -436,14 +436,22 @@ section#task .content {
 }
 .aside-list > div {
   width: 45%;
+  max-height: 70vh;
+  margin-bottom: 20px;
+}
+
+.aside-list h4 {
+  padding: 12px;
+  margin: 0;
+  background-color: #6398b7;
+  color: #fff;
 }
 
 aside {
-  max-height: 70vh;
+  height: calc(100% - 54px);
   overflow: scroll;
   padding: 20px;
-  border-radius: 12px;
-  background-color: #f6f4ff;
+  background-color: #f3fbff;
 }
 
 .aside-inner {
@@ -470,7 +478,7 @@ aside {
 }
 
 .aside-inner li a.test::after {
-  content: "\25CF";
+  content: "●";
   color: #3a8c3a;
 }
 
@@ -484,5 +492,8 @@ aside {
   ul,
   ol {
     list-style-position: inside;
+  }
+  .aside-list > div {
+    width: 100%;
   }
 }
