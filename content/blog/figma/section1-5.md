@@ -1,8 +1,8 @@
 ---
-title: Figma の基本操作 確認テスト
+title: 確認テスト
 index: 515
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "test"]
 ---
 
 ## この章で学んだこと

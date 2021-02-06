@@ -434,6 +434,9 @@ section#task .content {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+.aside-list > div {
+  width: 45%;
+}
 
 aside {
   max-height: 70vh;
@@ -441,6 +444,34 @@ aside {
   padding: 20px;
   border-radius: 12px;
   background-color: #f6f4ff;
+}
+
+.aside-inner {
+  margin: 0;
+  list-style: none;
+}
+
+.post-label {
+  margin: 0;
+  display: inline-block;
+  background-color: #353333;
+  color: #fff;
+  padding: 6px 20px 6px 12px;
+  margin: 0 0 12px -20px;
+  font-weight: bold;
+  font-style: italic;
+  letter-spacing: 2px;
+}
+
+.aside-inner li a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: var(--fontSize-3);
+}
+
+.aside-inner li a.test::after {
+  content: "\25CF";
+  color: #3a8c3a;
 }
 
 /* Media queries */
