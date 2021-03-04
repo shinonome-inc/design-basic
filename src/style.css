@@ -172,6 +172,10 @@ p > a:hover {
   background-color: #71b7a0 !important;
 }
 
+pre[class*="language-"] {
+  border-radius: 12px;
+}
+
 /* Prose */
 
 p {
