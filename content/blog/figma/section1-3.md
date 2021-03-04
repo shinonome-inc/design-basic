@@ -50,7 +50,7 @@ instance,component は後述します。
 本当に不要な場合は、非表示にするのではなく削除しましょう。  
 ![hover](./img/hover.png)
 
-### StudyDiary を書きましょう！
+### Study Diary を書きましょう！
 
 #### 今回やったこと
 
