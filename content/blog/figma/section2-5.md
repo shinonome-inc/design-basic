@@ -7,39 +7,63 @@ labels: ["figma"]
 
 ## オブジェクトのパスの結合・合成
 
-1.オブジェクトやパスを結合・合成する
-複数の重なったシェイプを組み合わせて複合シェイプを作成することを Figma では Boolean Operations と呼び、4 種類の結合・合成方法が用意されています。
+複雑なオブジェクトを作成したい場合に役立つのがオブジェクトの結合・合成です。  
+結合・合成の特徴や操作を覚えていきましょう。
 
-結合・合成ができるのはグループ化やマスクが適応されていない、シャイプレイヤーに限られます。
+### オブジェクトやパスを結合・合成する
 
-Figma でこの操作を行うには、図１のように、適応させたい複数のオブジェクトを選択します。ツールバーに四角が重なったアイコンが表示されるので、ここから適応させたい結合・合成の種類を選択します。
+結合・合成する方法は大きく分けて 4 つあります。  
+結合・合成ができるのはグループ化やマスクが適応されていない、シェイプレイヤーに限られます。
 
-図 1 　 Boolean Operations
-Union Slection
-重なっているシェイプを合体した形状にします。
+この操作を行うには、下の画像のように、適応させたい複数のオブジェクトを選択します。  
+ツールバーにの中央に四角が重なったアイコンが表示されるので、ここから適応させたい結合・合成の種類を選択します。
+![boolean-oparations](./img/boolean-oparations.png)
 
-図 2 　 Union Slection
-Subtract Slection
-前面のシェイプで背面のシェイプを型抜きした形状にします。
-Union Slection の反対の操作と覚えるといいでしょう。
+#### Union Slection
 
-図 3 　 Subtract Slection
-Intersect Slection
-前面と背面の交差した部分の形状にします。
+重なっているシェイプを合体した形状にします。  
+色が違う場合は、前面のオブジェクトの色が適用されます。  
+![union-selection](./img/union-selection.png)
 
-図 4 　 Intersect Slection
-Exclude Slection
+#### Subtract Slection
+
+前面のシェイプで背面のシェイプを型抜きした形状にします。  
+Union Slection の反対の操作です。  
+![subtract-selection](./img/substract-selection.png)
+
+#### Intersect Slection
+
+前面と背面の交差した部分の形状にします。  
+![intersect-selection](./img/intersect-selection.png)
+
+#### Exclude Slection
+
 前面と背面の交差した部分を型抜きした形状にします。
-intersect Selection の逆と覚えるといいでしょう。
+intersect Selection の反対の操作です。  
+色が違う場合は、前面のオブジェクトの色が適用されます。  
+![exclude-selection](./img/exclude-selection.png)
 
-図 5 Exclude Slection 2.結合・合成したパスを一つのパスに変換する
-ショートカットキー：Flatten Selection(Command+E)
+### 結合・合成したパスを一つのパスに変換する
 
-結合・合成したオブジェクトをレイヤーリストで確認すると、図 6 のように結合・合成前の情報が残っており、1 つのパスに変換はされていません。
+ショートカットキー：`Command + E`
 
-ここで 1 つのパスに変換させる操作を Flatten Selection と言います。Flatten Selection は、適応させたい結合・合成したオブジェクトを選択します。
+結合・合成したオブジェクトをレイヤーリストで確認すると、下の画像のように結合・合成前の情報が残っており、1 つのパスに変換はされていません。  
+![before-flatten](./img/before-flatten.png)
+ここで 1 つのパスに変換させる操作を`Flatten Selection`と言います。  
+Flatten Selection は、適応させたい結合・合成したオブジェクトを選択します。  
+メニューバー中央から Flatten Selection を選択することで適応させることが出来ます。
 
-図 6 　レイヤーリストの確認 Flatten Selection
-メニューバーから図 7 赤枠の Flatten Selection を選択することで適応させることが出来ます。
+#### メリット
 
-図 7 Flatten Selection
+おそらくオブジェクトの合成・結合をして作るオブジェクトはロゴなどでしょう。  
+ロゴは svg などのデータ形式に出力するわけですが、`Flatten Selection`にすることによってデータの中身が単純化されて同じ見た目でも容量を軽くすることができます。  
+そのようなことまで考えられるといいですね。
+
+### Study Diary を書きましょう！
+
+#### 今回やったこと
+
+- オブジェクトのパスの結合・合成
+- 結合・合成したパスのマージ
+
+できたら次に進みましょう。

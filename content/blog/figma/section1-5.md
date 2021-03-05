@@ -1,5 +1,5 @@
 ---
-title: 確認テスト
+title: 確認問題
 index: 515
 date: "2020"
 labels: ["figma", "test"]
@@ -19,6 +19,6 @@ Design Course Tutorial (Username) の`1.Figma の基本操作について`と書
 4. レビューで指摘されたことがあれば修正し、再び 1 から繰り返す。
 
 レビューは基本的にコメントで行います。  
-レビューされたら Figma 上で確認、コメントの意味がわからなければ reply をしてください。
+レビューされたら Figma 上で確認、コメントの意味がわからなければ reply をして講師まで教えてください。
 
 **※shinonome チームの Design Course Tutorial を編集しないように気をつけてください！万が一してしまった場合は気づいたらすぐに教えてください！**
