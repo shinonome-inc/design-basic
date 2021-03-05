@@ -1,5 +1,5 @@
 ---
-title: Figma の基本操作 2
+title: 基本操作 2 (page/frame/object)
 index: 512
 date: "2020"
 labels: ["figma"]

@@ -1,5 +1,5 @@
 ---
-title: ツールバーの操作 2
+title: 操作 2 (obj,canvas)
 index: 522
 date: "2020"
 labels: ["figma"]

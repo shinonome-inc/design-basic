@@ -1,5 +1,5 @@
 ---
-title: Figma の基本操作 3
+title: 基本操作 3 (layer)
 index: 513
 date: "2020"
 labels: ["figma"]

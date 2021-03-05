@@ -1,5 +1,5 @@
 ---
-title: Figma の基本操作 1
+title: 基本操作 1 (comment)
 index: 510
 date: "2020"
 labels: ["figma"]

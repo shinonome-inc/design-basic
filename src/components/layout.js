@@ -39,12 +39,17 @@ const Layout = ({ location, children, nav, top }) => {
             {posts.map((post, index) => {
               if (post.frontmatter.labels[0] !== "wisdom") {
                 const title = post.frontmatter.title || post.fields.slug
+                const editTitle = title.replace(/\(([^)]+)\)/, "")
+                let smallTitle
+                if (title.match(/\((.+)\)/)) {
+                  smallTitle = title.match(/\((.+)\)/)[1]
+                }
                 number += 1
                 let prevPostLabel =
                   index > 0 ? posts[index - 1].frontmatter.labels[0] : undefined
                 let currentPostLabel = posts[index].frontmatter.labels[0]
                 return (
-                  <>
+                  <span key={index}>
                     {prevPostLabel !== currentPostLabel && (
                       <div className="post-label">{currentPostLabel}</div>
                     )}
@@ -56,10 +61,11 @@ const Layout = ({ location, children, nav, top }) => {
                           post.frontmatter.labels[1] === "test" && "test"
                         }
                       >
-                        {`${number}. ${title} `}
+                        {number}.{editTitle}
+                        <small className="small-title">{smallTitle}</small>
                       </Link>
                     </li>
-                  </>
+                  </span>
                 )
               }
               return false

@@ -1,8 +1,8 @@
 ---
-title: 確認問題
+title: 確認問題 2
 index: 528
 date: "2020"
-labels: ["figma"]
+labels: ["figma", test]
 ---
 
 ### 課題

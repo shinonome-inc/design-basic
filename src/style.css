@@ -489,6 +489,10 @@ aside {
   color: #3a8c3a;
 }
 
+.small-title {
+  margin-left: 12px;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {

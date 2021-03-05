@@ -1,5 +1,5 @@
 ---
-title: ツールバーの操作 5
+title: 操作 5 (merge)
 index: 525
 date: "2020"
 labels: ["figma"]

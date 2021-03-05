@@ -1,5 +1,5 @@
 ---
-title: ツールバーの操作 3
+title: 操作 3 (file)
 index: 523
 date: "2020"
 labels: ["figma"]

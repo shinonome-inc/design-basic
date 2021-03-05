@@ -1,5 +1,5 @@
 ---
-title: ツールバーの操作 4
+title: 操作 4 (component)
 index: 524
 date: "2020"
 labels: ["figma"]
