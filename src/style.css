@@ -435,16 +435,8 @@ h1.title {
 section#task .content {
   margin-right: var(--spacing-4);
 }
-
-.aside-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
 .aside-list > div {
-  width: 45%;
-  max-height: 70vh;
-  margin-bottom: 20px;
+  margin: 20px 0;
 }
 
 .aside-list h4 {
@@ -504,8 +496,5 @@ aside {
   ul,
   ol {
     list-style-position: inside;
-  }
-  .aside-list > div {
-    width: 100%;
   }
 }

@@ -33,6 +33,34 @@ const Layout = ({ location, children, nav, top }) => {
   let aside = (
     <div className="aside-list">
       <div>
+        <h4>お知らせ＆豆知識</h4>
+        <aside>
+          <ol className="aside-inner">
+            {posts.map(post => {
+              if (post.frontmatter.labels[0] === "wisdom") {
+                const title = post.frontmatter.title || post.fields.slug
+                return (
+                  <li key={post.fields.slug}>
+                    <Link to={post.fields.slug} itemProp="url">
+                      <span itemProp="headline">{title}</span>
+                    </Link>
+                  </li>
+                )
+              }
+              return false
+            })}
+          </ol>
+        </aside>
+      </div>
+      <div className="content">
+        <h1>さあ、始めましょう</h1>
+        <p>
+          デザインコースではたくさんの課題があります。コースを修了するにはやり通す覚悟と粘り強さが求められます。
+          <br />
+          上から順番に丁寧に取り組みましょう。
+        </p>
+      </div>
+      <div>
         <h4>課題一覧</h4>
         <aside>
           <ol className="aside-inner">
@@ -73,26 +101,6 @@ const Layout = ({ location, children, nav, top }) => {
           </ol>
         </aside>
       </div>
-      <div>
-        <h4>お知らせ＆豆知識</h4>
-        <aside>
-          <ol className="aside-inner">
-            {posts.map(post => {
-              if (post.frontmatter.labels[0] === "wisdom") {
-                const title = post.frontmatter.title || post.fields.slug
-                return (
-                  <li key={post.fields.slug}>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </li>
-                )
-              }
-              return false
-            })}
-          </ol>
-        </aside>
-      </div>
     </div>
   )
 
@@ -103,20 +111,6 @@ const Layout = ({ location, children, nav, top }) => {
           <img className="logo" src={DesignTitle} alt="test" />
         </Link>
       </header>
-    )
-
-    content = (
-      <>
-        <div className="content">
-          <h1>さあ、始めましょう</h1>
-          <p>
-            デザインコースではたくさんの課題があります。コースを修了するにはやり通す覚悟と粘り強さが求められます。
-            <br />
-            諦めずに丁寧に取り組みましょう。
-          </p>
-        </div>
-        {aside}
-      </>
     )
   } else {
     header = (
@@ -135,7 +129,7 @@ const Layout = ({ location, children, nav, top }) => {
       <div className="main-wrapper">
         <main>
           {children}
-          {isRootPath && content}
+          {isRootPath && aside}
         </main>
       </div>
       {nav && nav}
