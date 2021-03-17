@@ -28,7 +28,6 @@ const Layout = ({ location, children, nav, top }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
   let header
-  let content
   let number = 0
   let aside = (
     <div className="aside-list">

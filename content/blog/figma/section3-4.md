@@ -12,6 +12,8 @@ labels: ["figma"]
 
 ### 使い方
 
+右サイドバーのプロパティパネル`Stroke`からストロークを選択しましょう。
+
 ![stroke](./img/stroke.png)
 
 #### 1.線の太さ

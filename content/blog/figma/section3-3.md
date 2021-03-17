@@ -1,5 +1,5 @@
 ---
-title: 操作 3 (fill,blend)
+title: 操作 3 (fill/blend)
 index: 533
 date: "2020"
 labels: ["figma"]
