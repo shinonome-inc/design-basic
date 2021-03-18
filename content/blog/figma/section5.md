@@ -1,6 +1,6 @@
 ---
 title: 共有とバージョン管理
-index: 550
+index: 580
 date: "2020"
 labels: ["figma"]
 ---
