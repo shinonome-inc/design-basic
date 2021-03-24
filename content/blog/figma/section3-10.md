@@ -67,7 +67,7 @@ Resizing には以下の３種類があります。
 | ----------------------------------------------------------------- | ------------------------------------------------------- |
 | ![auto-layout-space-between](./img/auto-layout-space-between.png) | ![auto-layout-resizing](./img/auto-layout-resizing.png) |
 
-この辺りは慣れが必要なので、サイトでよく使われるパーツはどういう風に作れるか考え、手を動かすなどの努力が必要です。
+この辺りは慣れが必要なので、サイトでよく使われるパーツはどういう風に作れるか考え、手を動かすなどの努力が必要です。  
 [参考リンク](https://bagelee.com/design/figma-auto-layout-update/)
 
 ### Study Diary を書きましょう！
