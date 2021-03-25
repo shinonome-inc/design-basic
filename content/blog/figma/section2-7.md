@@ -98,6 +98,11 @@ Gutter: マージン
 
 ガイドを消去・移動したい場合は、ドラッグすること移動することができ、ルーラー外までガイドをドラッグ＆ドロップ、または、`Deleteキー`でガイドを消去することが可能です。
 
+### 参考
+
+- [公式ドキュメント ~view settings~](https://help.figma.com/hc/en-us/articles/360041065034-Adjust-your-view-settings-in-the-Editor)
+- [公式ドキュメント ~ruler~](https://help.figma.com/hc/en-us/articles/360040449713-Add-Guides-to-the-Canvas-or-a-Frame)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと

@@ -107,12 +107,17 @@ Space を押しながらドラッグをすることで`ハンドモード`にな
 
 ![padding](./img/padding.png)
 
+### 参考
+
+- [公式ドキュメント ~canvas~](https://help.figma.com/hc/en-us/articles/360041064814-Explore-the-Canvas)
+- [公式ドキュメント ~余白の計測~](https://help.figma.com/hc/en-us/articles/360039956974-Measure-distances-between-objects)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと
 
-- オブジェクトとキャンバスの拡大・縮小・移動
-- オブジェクト・アートボードの複製・移動・消去
+- オブジェクトとキャンバスの移動・拡大・縮小
+- オブジェクト・アートボードのサイズ変更・移動・複製・消去
 - オブジェクトのグループ化・回転
 - 操作の取り消し・やり直し
 - 余白の計測

@@ -79,11 +79,17 @@ before はカード 3 枚が見切れていたり、下に余分な余白があ�
 ### フレーム外のオブジェクトを表示する
 
 デフォルトでは、フレームに入れ子(ネスト)になっているものの、フレームの範囲外に配置されているものは表示されないように`Clip content`という機能にチェックが入っています。  
-範囲外にあるものも表示したい場合は clip content のチェックを外しましょう。
+範囲外にあるものも表示したい場合は Clip content のチェックを外しましょう。
 
-| before                      | clip-content                    |
+| before                      | Clip content                    |
 | --------------------------- | ------------------------------- |
 | ![before](./img/before.png) | ![clip-content](./img/clip.png) |
+
+### 参考
+
+- [公式ドキュメント ~Page~](https://help.figma.com/hc/en-us/articles/360038511293-Create-and-Manage-Pages)
+- [公式ドキュメント ~Frame~](https://help.figma.com/hc/en-us/articles/360041539473-Frames-in-Figma)
+- [公式ドキュメント ~Object~](https://help.figma.com/hc/en-us/articles/360041064174-Access-tools-in-the-Editor-with-the-toolbar#Shape_tools)
 
 ### Study Diary を書きましょう！
 
@@ -91,6 +97,6 @@ before はカード 3 枚が見切れていたり、下に余分な余白があ�
 
 - ページ・フレーム・オブジェクトの作成
 - フレームの resize to fit
-- フレーム外のオブジェクトの表示
+- フレーム外のオブジェクトの表示 Clip content
 
 できたら次に進みましょう。

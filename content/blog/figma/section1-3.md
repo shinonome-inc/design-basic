@@ -50,11 +50,16 @@ instance,component は後述します。
 本当に不要な場合は、非表示にするのではなく削除しましょう。  
 ![hover](./img/hover.png)
 
+### 参考
+
+- [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360039831974-View-layers-and-assets-in-the-Layers-Panel)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと
 
+- レイヤーの種類
+- レイヤーの重なり
 - レイヤーの管理
-- レイヤーの機能
 
 できたら次に進みましょう。

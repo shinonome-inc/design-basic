@@ -30,11 +30,16 @@ frame と書かれているプルダウンから group に変更することが�
 逆も同様です。
 ![frame-to-group](./img/frame-to-group.png)
 
+### 参考
+
+- [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360039832054-Frames-and-Groups)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと
 
 - フレームセレクション
 - グループセレクション
+- フレームセレクション <-> グループセレクション
 
 できたら次に進みましょう。

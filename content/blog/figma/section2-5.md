@@ -59,6 +59,10 @@ Flatten Selection は、適応させたい結合・合成したオブジェク�
 ロゴは svg などのデータ形式に出力するわけですが、`Flatten Selection`にすることによってデータの中身が単純化されて同じ見た目でも容量を軽くすることができます。  
 そのようなことまで考えられるといいですね。
 
+### 参考
+
+- [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360039957534-Boolean-Operations)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと
