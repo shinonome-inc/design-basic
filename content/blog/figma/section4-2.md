@@ -1,12 +1,12 @@
 ---
-title: プロトタイピング
-index: 570
+title: 確認問題4
+index: 572
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "test"]
 ---
 
-**[chot design](https://chot.design/figma-beginner/)**の`5.プロトタイピング`の章を読みながら実際に手を動かしてみましょう。  
-前のページで複製した Design Course Tutorial (Username) の`5.プロトタイピングについて`と書かれたページに今回の課題が用意されています。
+**[chot design](https://chot.design/figma-beginner/)**の`4.プロトタイピング`の章を読みながら実際に手を動かしてみましょう。  
+前のページで複製した Design Course Tutorial (Username) の`4.プロトタイピングについて`と書かれたページに今回の課題が用意されています。
 
 ### 解答ができたら
 
