@@ -487,6 +487,12 @@ aside {
 }
 
 /* Media queries */
+@media (max-width: 60rem) {
+  .main-wrapper main {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
 
 @media (max-width: 42rem) {
   blockquote {

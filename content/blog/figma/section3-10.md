@@ -60,7 +60,7 @@ Resizing には以下の３種類があります。
 ```
 ・Hug contents: 子要素の幅に合わせて可変
 ・Fill container: 親要素いっぱいに広げる
-・ Fixed width/height: 幅/高さ固定
+・Fixed width/height: 幅/高さ固定
 ```
 
 | space-between                                                     | fill container                                          |
