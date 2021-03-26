@@ -12,7 +12,7 @@ Design Course Tutorial (Username) の`4.プロトタイピングについて`と
 
 ### 解答ができたら
 
-1. バージョンを保存する [参考](https://design-basic.netlify.app/figma/section2-3/)
+1. バージョンを保存する [参考](/figma/section2-3/)
 2. この章で学んだことを Study Diary に書き、今回学んだ部分にチェックをつける。
 3. 提出するページのリンクをコピーする。
 4. PGrit でページのリンクと、`#design`のタグをつけてレビューを依頼する。
