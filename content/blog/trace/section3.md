@@ -11,7 +11,7 @@ labels: ["trace"]
 Design Course Tutorial (Username) の`Atomic Design`と書かれたページで制作しましょう。  
 このセクションではヘッダー部分を作ってもらいます。
 
-![ヘッダー](./header.png)
+![ヘッダー](./img/header.png)
 
 ### 考慮すべき点・ヒント
 
@@ -31,13 +31,13 @@ Design Course Tutorial (Username) の`Atomic Design`と書かれたページで�
 
 **これらができていない場合、レビューはしません。**
 
-1. この章で学んだことを Study Diary に書き、今回学んだ部分にチェックをつける。
-2. 提出するページを右クリック、`Copy Link To Page`をクリックし、自分のプロジェクト URL をコピーする。
-3. 自分の times でページのリンクを提出し、`:dev_design`のスタンプを押してレビューをお願いしましょう。
-4. レビューで指摘されたことがあれば修正し、再び 1 から繰り返す。
+1. バージョンを保存する [参考](/figma/section2-3/)
+2. この章で学んだことを Study Diary に書き、今回学んだ部分にチェックをつける。
+3. 提出するページのリンクをコピーする。
+4. PGrit でページのリンクと、`#design`のタグをつけてレビューを依頼する。
+5. レビューで指摘されたことがあれば修正し、再び 1 から繰り返す。
 
-| Copy Link To Page                                     | レビュー依頼サンプル                            |
-| ----------------------------------------------------- | ----------------------------------------------- |
-| ![Copy Link To Page](../../assets/copyLinkToPage.png) | ![Please Review](../../assets/pleaseReview.png) |
+レビューは基本的にコメントで行います。  
+レビューされたら Figma 上で確認、コメントの意味がわからなければ reply をして`#design`のタグをつけて PGrit にその旨を投稿してください。
 
 **※shinonome チームの Design Course Tutorial を編集しないように気をつけてください！万が一してしまった場合は気づいたらすぐに教えてください！**
