@@ -33,6 +33,10 @@ labels: ["figma"]
 
 どのように設定できるか手を動かして確認しておきましょう。
 
+### 参考
+
+- [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360049283914-Apply-and-adjust-stroke-properties)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと

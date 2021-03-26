@@ -70,6 +70,10 @@ Resizing には以下の３種類があります。
 この辺りは慣れが必要なので、サイトでよく使われるパーツはどういう風に作れるか考え、手を動かすなどの努力が必要です。  
 [参考リンク](https://bagelee.com/design/figma-auto-layout-update/)
 
+### 参考
+
+- [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-layout)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと

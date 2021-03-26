@@ -58,6 +58,11 @@ Figma アプリトップの`Community`を押して見ていきましょう。
 コミュニティは世界中のデザイナーや企業やデザインシステムを公開している宝庫のようなものです。  
 コンポーネントをどのように管理しているのか、どのようなデザインが今流行っているかなど色々な作品をチェックして自分の知識を増やしましょう。
 
+### 参考
+
+- [公式ドキュメント ~plugin~](https://help.figma.com/hc/en-us/articles/360040450413-Find-and-install-plugins)
+- [公式ドキュメント ~community~](https://help.figma.com/hc/en-us/articles/360038510693-Guide-to-Figma-Community)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと
@@ -66,4 +71,5 @@ Figma アプリトップの`Community`を押して見ていきましょう。
 - コミュニティ
 
 これで Figma の基本的な操作は以上です！！  
+お疲れ様でした！！  
 できたら次に進みましょう。

@@ -30,6 +30,11 @@ constraints を設定することによって、フレームのサイズが変�
 
 `commandキー`を押しながらサイズ変更をすることで constraints を無視したサイズ変更が可能です。
 
+### 参考
+
+- [公式ドキュメント 1](https://help.figma.com/hc/en-us/articles/360039957734-Apply-Constraints-to-define-how-layers-resize)
+- [公式ドキュメント 2](https://help.figma.com/hc/en-us/articles/360039957934-Combine-Layout-Grids-and-Constraints)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと

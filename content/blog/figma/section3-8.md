@@ -23,6 +23,10 @@ labels: ["figma"]
 
 これらの設定が済んだら`Export ~~~`と書かれたボタンからエクスポートをしましょう。
 
+### 参考
+
+- [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360055203533-Use-the-Inspect-panel#Export_assets)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと

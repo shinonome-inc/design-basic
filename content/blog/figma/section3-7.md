@@ -115,6 +115,10 @@ Text の 3 点リーダーからウィンドウを開きましょう。
 ホバーすると Preview が表示されるのでここでは特に説明しません。  
 色々試してみてわかったことを Study Diary に書いてみましょう！
 
+### 参考
+
+- [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360039956634-Explore-text-properties)
+
 ### Study Diary を書きましょう！
 
 Word のような感覚ですね！どんどん覚えましょう〜〜

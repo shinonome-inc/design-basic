@@ -54,6 +54,12 @@ labels: ["figma"]
 実機で確認したい場合、`Figma Mirror`というスマホアプリを使うことで Wi-fi 経由でプレビューを見ることができます。  
 [https://www.figma.com/mirror](https://www.figma.com/mirror) にアクセスすることで別タブでプレビューを見ることもできます。
 
+### 参考
+
+- [公式ドキュメント ~アニメーションの緩急~](https://help.figma.com/hc/en-us/articles/360051748654-Prototype-easing-curves)
+- [公式ドキュメント ~animation~](https://help.figma.com/hc/en-us/articles/360040315773-Prototype-interactions-and-animations)
+- [公式ドキュメント ~overflow behavior~](https://help.figma.com/hc/en-us/articles/360039818734-Prototype-scrolling-with-overflow-behavior)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと

@@ -50,6 +50,10 @@ default や hover のプロパティ名は`state`が適切ですね。
 コンポーネント名を考える癖をつけましょう。
 ![variants-buttons-color](./img/variants-buttons-color.png)
 
+### 参考
+
+- [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360055471353-Prepare-for-variants)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと

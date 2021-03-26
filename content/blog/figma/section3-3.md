@@ -56,6 +56,11 @@ Hex または RGB が無難でしょう。
 複数レイヤーに適用させた場合にそれぞれどのようか加工がされるか以下のサイトや自分で手を動かして確認してみてください。  
 [参考リンク](https://designcode.io/figma-handbook-blending-modes)
 
+### 参考
+
+- [公式ドキュメント ~colors~](https://help.figma.com/hc/en-us/articles/360041003774-Apply-paints-with-the-color-picker)
+- [公式ドキュメント ~smart selection~](https://help.figma.com/hc/en-us/articles/360040667874-Create-unique-effects-with-Blend-modes)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと

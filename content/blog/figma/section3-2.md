@@ -61,6 +61,11 @@ Tidy up ができていると、下の画像のように、ピンク色のドッ
 これらをドラッグすることで、間隔や並びの変更が簡単にできます。
 ![smart-selection](./img/smart-selection.png)
 
+### 参考
+
+- [公式ドキュメント ~alignment~](https://help.figma.com/hc/en-us/articles/360039956914-Adjust-alignment-dimensions-rotation-and-position)
+- [公式ドキュメント ~smart selection~](https://help.figma.com/hc/en-us/articles/360040450233-Arrange-objects-with-Smart-Selection)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと

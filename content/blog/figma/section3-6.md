@@ -34,6 +34,10 @@ labels: ["figma"]
 
 ![detail-shadow](./img/detail-shadow.png)
 
+### 参考
+
+- [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360041488473-Apply-shadow-or-blur-effects)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと

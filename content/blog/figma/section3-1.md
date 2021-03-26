@@ -55,6 +55,10 @@ W は`Width`、H は`Height`の略です。
 3 点リーダーを押すと、コーナーの滑らかさを設定できます。
 ![radius-detail](./img/radius-detail.png)
 
+### 参考
+
+- [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360039956914-Adjust-alignment-dimensions-rotation-and-position)
+
 ### Study Diary を書きましょう！
 
 #### 今回やったこと

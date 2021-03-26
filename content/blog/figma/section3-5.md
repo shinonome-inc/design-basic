@@ -61,9 +61,15 @@ labels: ["figma"]
 ペンツールを使いこなすには練習あるのみ！  
 様々なオブジェクトを自分でたくさん作って慣れていきましょう。
 
+### 参考
+
+- [公式ドキュメント 1](https://help.figma.com/hc/en-us/articles/360040450213-Vector-Networks)
+- [公式ドキュメント 2](https://help.figma.com/hc/en-us/articles/360039957634-Edit-Object)
+
 #### 今回やったこと
 
 - ペンツールの使い方
+- ペンやシェイプで作ったオブジェクトの編集
 - 鉛筆ツールの使い方
 
 できたら次に進みましょう。
