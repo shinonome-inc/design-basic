@@ -20,6 +20,9 @@ Atomic Design(アトミックデザイン)とは、画面を構成する要素�
 
 ![instagram](./img/instagram.png)
 
+`Atoms(原子）`,`Molecules（分子）`,`Organisms(有機体）`,`Templates(テンプレート）`,`Pages(ページ）`の階層の明確な分け方はありません。  
+わかりやすく整理されており、他者から見てもわかりやすいようであれば`Templates`の階層が存在しないなどもありえます。
+
 ### カラーやテキストの Atomic Design
 
 パーツだけではなく、Figma を使えば、カラーやテキストのスタイルを登録することができます。  
