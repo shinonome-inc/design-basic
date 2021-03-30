@@ -42,3 +42,12 @@ labels: ["introduction"]
 | Study Diary の書き方             |
 | -------------------------------- |
 | ![Study Diary](./hotToStart.png) |
+
+### Study Diary にチェックを入れましょう！
+
+#### 今回やったこと
+
+- Figma アカウントの作成
+- Study Diary の作成
+
+チェックを入れたら次に進みましょう。

@@ -7,7 +7,7 @@ labels: ["wisdom"]
 
 ### わからないことがあった時
 
-- 課題のやり方がわからないなど教材に関することは、PGrit で`#design`のタグをつけてトゥートすることによって講師が確認します。
+- 課題のやり方がわからないなど教材に関することは、PGrit で`#design_review`のタグをつけてトゥートすることによって講師が確認します。
 - 考えすぎず考えましょう。質問するタイミングは教材・公式ドキュメントをよく読んで`+15 分`調べた時です。  
   [参考記事](https://qiita.com/seki_uk/items/4001423b3cd3db0dada7)  
   まずは[質問ページ](https://github.com/shinonome-inc/design-basic/issues?q=is%3Aissue+label%3AQuestion+)に自分の疑問点が載っていないか確認しましょう。

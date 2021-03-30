@@ -84,6 +84,7 @@ h1,h2,h3 は見出しを表すものです。
 - 基本色名は Color Wheel の 6 色（`red, orange, yellow, green, blue, violet`）と白黒灰 3 色(`white, black, gray`) を合わせた 9 色を使う
 - 詳細色名は HEX カラーコードを色名検索 Web サービスで検索してヒットした色名を使う
 - 色の並べ方は`white->gray->blue->green->yellow->orange->red->violet->black`
+- 透明度が 100%でない場合は`基本色名_詳細色名_透明度`のようにする
 
 理由は[この記事](https://qiita.com/gotchane/items/5a84c6acd9312f70be77)を参照してください
 
