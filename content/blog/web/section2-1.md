@@ -38,8 +38,10 @@ effect もスタイルの登録ができます。使う際は必ず登録する�
 
 ### Shinonome のテキスト
 
-Shinonome ではテキストを`Atoms/Text`と位置付けてコンポーネントを統一して使っています。 右サイドバーの`Assets`の`Shinonome Text Styles`から`text-wrap`を持ってきて構造を見てみましょう。  
-テキストが`margin`と`padding`という名前の Auto layout でラップされているのがわかると思います。
+Shinonome ではテキストを`Atoms/Text`と位置付けてコンポーネントを統一して使っています。  
+右サイドバーの`Assets`の`Shinonome Text Styles`から`text-wrap`を持ってきて構造を見てみましょう。  
+テキストが`margin`と`padding`という名前の Auto layout でラップされているのがわかると思います。  
+これからテキストを使う際には **Shinonome の text-wrap を使いましょう。**
 
 - `text-wrap--margin` は外側の余白で他の要素との余白を取る際に用います。
 - `text-wrap--padding` は内側の余白で、自分の要素の余白を取る際に用います。  
@@ -85,7 +87,7 @@ h1,h2,h3 は見出しを表すものです。
 
 - 色名は`基本色名_詳細色名`で表す
 - 基本色名は Color Wheel の 6 色（`red, orange, yellow, green, blue, violet`）と白黒灰 3 色(`white, black, gray`) を合わせた 9 色を使う
-- 詳細色名は HEX カラーコードを色名検索 Web サービスで検索してヒットした色名を使う
+- 詳細色名は [HTML CSS Color Picker](http://www.htmlcsscolor.com/)で検索してヒットした色名を使う
 - 色の並べ方は`white->gray->blue->green->yellow->orange->red->violet->black`
 - 透明度が 100%でない場合は`基本色名_詳細色名_透明度`のようにする
 
