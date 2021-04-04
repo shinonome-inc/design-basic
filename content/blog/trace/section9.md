@@ -1,5 +1,5 @@
 ---
-title: フロアスペースを作る
+title: フッターを作る
 index: 760
 date: "2020"
 labels: ["trace"]
@@ -7,11 +7,18 @@ labels: ["trace"]
 
 ### Atomic Design トレース課題
 
-Design Course Tutorial (Username) の`floor`と書かれたページで制作しましょう。  
-このセクションではフロアスペース部分を作ってもらいます。  
+Design Course Tutorial (Username) の`footer`と書かれたページで制作しましょう。  
+このセクションではフッター部分を作ってもらいます。  
 [デモサイト](https://demo.tcd-theme.com/tcd063/)
 
-![フロアスペース](./img/floor.png)
+![フッター](./img/footer.png)
+
+### 条件
+
+```
+・デザインの変わり目: s <-> md
+・このセクションで使う色: #000000, #ffffff, #999999, #f5f5f5
+```
 
 ### 考慮すべき点・ヒント
 
@@ -37,7 +44,7 @@ Design Course Tutorial (Username) の`floor`と書かれたページで制作し
 1. この章で学んだことを Study Diary に書き、今回学んだ部分にチェックをつける。
 2. 提出するページのリンクをコピーする。
 3. PGrit でページのリンクと、`#design_review`のタグをつけてレビューを依頼する。
-4. レビューで指摘されたことがあれば修正し、バージョンを保存し再び 1 から繰り返す。
+4. レビューで指摘されたことがあれば修正・バージョンの保存をし再び 1 から繰り返す。
 
 レビューは基本的にコメントで行います。  
 レビューされたら Figma 上で確認、コメントの意味がわからなければ reply をして`#design_review`のタグをつけて PGrit にその旨を投稿してください。
