@@ -28,7 +28,7 @@ Design Course Tutorial (Username) の`page`と書かれたページで制作し�
 
 - 階層ごと(asset,atoms,molecules,...)にわかりやすく分けてまとめられているか
 - エンジニアに伝わるように Description を書いているか
-- バージョンを保存したか [参考](/figma/section2-3/)
+- **バージョンを保存したか** [参考](/figma/section2-3/)
 
 **これらができていない場合、レビューはしません。**
 
