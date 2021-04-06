@@ -12,12 +12,10 @@ Design Course Tutorial (Username) の`1.Figma の基本操作について`と書
 
 ### 解答ができたら
 
-1. この章で学んだことを Study Diary に書き、今回学んだ部分にチェックをつける。
-2. 提出するページのリンクをコピーする。
-3. PGrit でページのリンクと、`#design_review`のタグをつけてレビューを依頼する。
-4. レビューで指摘されたことがあれば修正し、再び 1 から繰り返す。
+1. 以下の解説動画を見て、自分の解答と答え合わせをする。
+   [![解説動画1](https://img.youtube.com/vi/qDfzgAzjXDk/0.jpg)](https://www.youtube.com/watch?v=qDfzgAzjXDk)
+2. 復習をする。
+3. Study Diary に間違っていたところ、学んだことや調べたサイトなどを記載する。
+4. Study Diary と Play Ground アプリの自分の Todo リストにチェックを入れる。
 
-レビューは基本的にコメントで行います。  
-レビューされたら Figma 上で確認、コメントの意味がわからなければ reply をして`#design_review`のタグをつけて PGrit にその旨を投稿してください。
-
-**※shinonome チームの Design Course Tutorial を編集しないように気をつけてください！万が一してしまった場合は気づいたらすぐに教えてください！**
+**※Shinonome チームの Design Course Tutorial を編集しないように気をつけてください！万が一してしまった場合は気づいたらすぐに教えてください！**
