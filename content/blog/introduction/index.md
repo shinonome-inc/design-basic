@@ -38,17 +38,17 @@ Dawn というのは Shinonome で開発しているオンラインコミュニ�
 4. title の`Your name`を自分の`Slack名`に変更、Assignees に自分を選択する
 5. 右下の`Submit new issue`をクリックする
 
-| New issue                    |
-| ---------------------------- |
-| ![New issue](./newIssue.png) |
-
-| Get started                      |
+| New issue                        |
 | -------------------------------- |
-| ![Get started](./getStarted.png) |
+| ![New issue](./img/newIssue.png) |
 
-| Study Diary の書き方             |
-| -------------------------------- |
-| ![Study Diary](./hotToStart.png) |
+| Get started                          |
+| ------------------------------------ |
+| ![Get started](./img/getStarted.png) |
+
+| Study Diary の書き方                 |
+| ------------------------------------ |
+| ![Study Diary](./img/hotToStart.png) |
 
 ### Study Diary にチェックを入れましょう！
 
