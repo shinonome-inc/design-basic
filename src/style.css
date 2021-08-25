@@ -486,6 +486,10 @@ aside {
   opacity: 0.8;
 }
 
+iframe {
+  height: 80vh;
+}
+
 /* Media queries */
 @media (max-width: 60rem) {
   .main-wrapper main {
