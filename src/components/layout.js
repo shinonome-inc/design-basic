@@ -48,6 +48,15 @@ const Layout = ({ location, children, nav, top }) => {
               }
               return false
             })}
+            <li>
+              <Link
+                to="https://www.notion.so/0da57c003ede4c559398e28f50e3af65"
+                itemProp="url"
+                target="_blank"
+              >
+                <span itemProp="headline">過去の定例会の様子</span>
+              </Link>
+            </li>
           </ol>
         </aside>
       </div>
