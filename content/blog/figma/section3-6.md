@@ -11,8 +11,8 @@ labels: ["figma"]
 
 ### エフェクトのつけかた
 
-エフェクトをつけたいオブジェクトを選択し、右サイドバーのプロパティパネルにある`Effects`からつけることができます。
-![effects](./img/effects.png)
+[[right | エフェクトをつけたいオブジェクトを選択し、右サイドバーのプロパティパネルにある`Effects`からつけることができます。]]
+| ![effects](./img/effects.png)
 
 エフェクトには以下の４種類があります。
 
@@ -20,8 +20,6 @@ labels: ["figma"]
 - Drop shadow: オブジェクトの外側に影をつける
 - Layer blur: オブジェクトをぼかす
 - Background blur: オブジェクトの背面レイヤーをぼかす
-
-![effects2](./img/effects2.png)
 
 いずれも太陽のアイコンから詳細に設定することができます。
 
@@ -32,7 +30,9 @@ labels: ["figma"]
 - カラーピッカー
 - カラーの透明度
 
-![detail-shadow](./img/detail-shadow.png)
+| effect 4 種類                   | effect 詳細設定の方法                     |
+| ------------------------------- | ----------------------------------------- |
+| ![effects2](./img/effects2.png) | ![detail-shadow](./img/detail-shadow.png) |
 
 ### 参考
 

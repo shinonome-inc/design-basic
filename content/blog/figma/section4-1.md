@@ -16,16 +16,13 @@ labels: ["figma"]
 
 ### プロトタイプモードに切り替える
 
-プロトタイプを作るには右サイドバーのプロパティパネル上部からモードを切り替えます。  
-上から順に見ていきましょう。
-![prototype](./img/prototype.png)
+[[right | プロトタイプを作るには右サイドバーのプロパティパネル上部からモードを切り替えます。<br/>上から順に見ていきましょう。]]
+| ![prototype](./img/prototype.png)
 
 ### Interactions
 
-`Interactions`の+ボタンを押すと、以下のようなものが現れます。
-![prototype-details](./img/prototype-details.png)
-`Tap -> None`と書いてある部分をクリックすると詳細設定ウィンドウが現れます。  
-詳細ウィンドウで設定することは以下です。
+[[right | `Interactions`の+ボタンを押すと、以下のようなものが現れます。<br/>`Tap -> None`と書いてある部分をクリックすると詳細設定ウィンドウが現れます。<br/>詳細ウィンドウで設定することは以下です。]]
+| ![prototype-details](./img/prototype-details.png)
 
 ```
 ・trigger: クリック・ホバーなどどんなアクションをきっかけにページが変わるか
@@ -41,13 +38,13 @@ labels: ["figma"]
 
 ### Overflow behavior
 
-英語の通り、デバイスからはみだしている場合、どのような挙動をするか設定できます。
-![overflow-behavior](./img/overflow-behavior.png)
+[[right | 英語の通り、デバイスからはみだしている場合、どのような挙動をするか設定できます。]]
+| ![overflow-behavior](./img/overflow-behavior.png)
 
 ### Show prototype settings
 
-プレビューするデバイス、プレビューの背景、最初のフレームを設定できます。
-![prototype-settings](./img/prototype-settings.png)
+[[right | プレビューするデバイス、プレビューの背景、最初のフレームを設定できます。]]
+| ![prototype-settings](./img/prototype-settings.png)
 
 ### Figma Mirror
 

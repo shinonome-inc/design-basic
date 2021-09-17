@@ -12,9 +12,8 @@ labels: ["figma"]
 
 ### 使い方
 
-右サイドバーのプロパティパネル`Stroke`からストロークを選択しましょう。
-
-![stroke](./img/stroke.png)
+[[right | 右サイドバーのプロパティパネル`Stroke`からストロークを選択しましょう。]]
+| ![stroke](./img/stroke.png)
 
 #### 1.線の太さ
 
@@ -28,10 +27,8 @@ labels: ["figma"]
 
 #### 3.詳細設定
 
-3 点リーダーから詳細設定のウィンドウが開きます。
-![advanced-stroke](./img/advanced-stroke.png)
-
-どのように設定できるか手を動かして確認しておきましょう。
+[[right | 3 点リーダーから詳細設定のウィンドウが開きます。<br/>どのように設定できるか手を動かして確認しておきましょう。]]
+| ![advanced-stroke](./img/advanced-stroke.png)
 
 ### 参考
 

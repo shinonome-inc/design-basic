@@ -34,21 +34,13 @@ Variants 機能はコンポーネントの管理をよりわかりやすくで�
 
 ### Variants のインスタンス
 
-Variants を適用させてもインスタンスの生成方法は変わりません。  
-コンポーネントをコピー＋ペーストするか、左サイドバーのプロパティパネルから生成しましょう。  
-生成したらインスタンスの右サイドバーのプロパティパネルを見てみましょう。  
-プルダウンに`default`と書いてあるのがわかると思います。  
-ここから他の variants の `hover` や `disabled` に変更することが可能です。
-![variants-instance](./img/variants-instance.png)
+[[right | Variants を適用させてもインスタンスの生成方法は変わりません。<br/>コンポーネントをコピー＋ペーストするか、左サイドバーのプロパティパネルのAssetsから生成しましょう。<br/>生成したらインスタンスの右サイドバーのプロパティパネルを見てみましょう。<br/>プルダウンに`default`と書いてあるのがわかると思います。<br/>ここから他の variants の `hover` や `disabled` に変更することが可能です。]]
+| ![variants-instance](./img/variants-instance.png)
 
 ### 複数枝分かれする Variants
 
-下の画像のようにカラーなど他のプロパティを増やすのも簡単です。  
-Variants 右上の 3 点リーダーから増やすことが可能で、プロパティの並び替えや、名前の変更もできます。  
-default や hover のプロパティ名は`state`が適切ですね。  
-**また、combine する前に、コンポーネント名を`コンポーネント名/プロパティ1/プロパティ2/...`とすることで、このように自動で設定してくれます。**  
-コンポーネント名を考える癖をつけましょう。
-![variants-buttons-color](./img/variants-buttons-color.png)
+[[right | Variants を使えば画像のようにカラーなど他のプロパティを増やすのも簡単です。<br/>Variants 右上の 3 点リーダーから増やすことが可能で、プロパティの並び替えや、名前の変更もできます。<br/>default や hover のプロパティ名は`state`が適切ですね。<br/>**また、combine する前に、コンポーネント名を`コンポーネント名/プロパティ1/プロパティ2/...`とすることで、このように自動で設定してくれます。**  <br/>コンポーネント名を考える癖をつけましょう。]]
+| ![variants-buttons-color](./img/variants-buttons-color.png)
 
 ### 参考
 

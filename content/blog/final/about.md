@@ -24,7 +24,7 @@ labels: ["final"]
 4. 複製したものを Project Template (Username) (Project Name)のように rename
 5. 複製したものをダブルクリックして中身を見る
 6. 画像のように ▽ をクリックして Move to Project から Drafts を選択
-7. 右上の`Share`ボタンから`Anyone with link`を選択
+7. ツールバー右上の`Share`ボタンから`Anyone with link`、隣のドロップダウンメニューから`can edit`を選択
 
 | Move to Project                                    | Anyone with link                         |
 | -------------------------------------------------- | ---------------------------------------- |

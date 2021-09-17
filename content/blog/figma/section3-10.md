@@ -11,38 +11,26 @@ Auto Layout 機能とは padding を自動で調整してくれたり、要素�
 
 ### Auto Layout を適用する
 
-Auto Layout 機能を使いたいオブジェクトを選択して右サイドバーのプロパティパネルから Auto Layout をつけましょう。  
-グループまたはフレームセレクションにつけることが可能です。  
-![auto-layout](./img/auto-layout.png)
+[[right | Auto Layout 機能を使いたいオブジェクトを選択して右サイドバーのプロパティパネルから Auto Layout をつけましょう。<br/>グループまたはフレームセレクションにつけることが可能です。]]
+| ![auto-layout](./img/auto-layout.png)
 
 ### padding をつける
 
-ボタンを例に見てみましょう。  
-Auto Layout 機能ができるまでは中身のテキストに合わせて何種類ものパーツを作る必要がありました。
-下の画像は Auto Layout 機能の`padding 10px`を適用したものです。  
-中身のテキスト関係なく余白を 10px 自動でつけてくれます。
-![auto-layout-button](./img/auto-layout-button.png)
+[[right | ボタンを例に見てみましょう。<br/>Auto Layout 機能ができるまでは中身のテキストに合わせて何種類ものパーツを作る必要がありました。<br/>下の画像は Auto Layout 機能の`padding 10px`を適用したものです。]]
+| ![auto-layout-button](./img/auto-layout-button.png)
 
-枠線の部分で padding 調整ができ、右側のアイコンをクリックすることで表示されるウィンドウから上下左右別々の値を設定することができます。
-![auto-layout-padding](./img/auto-layout-padding.png)
+[[right | 枠線の部分で padding 調整ができ、右側のアイコンをクリックすることで表示されるウィンドウから上下左右別々の値を設定することができます。]]
+| ![auto-layout-padding](./img/auto-layout-padding.png)
 
 ### リストの Auto Layout
 
-リストを作る際も Auto Layout が役立ちます。  
-要素を等間隔で並べ、要素の追加・削除はもちろん、並び替えもとても簡単にできるようになります。  
-下の画像はアイコンをリストで表示しているものです。  
-左側の枠線の矢印で横向きまたは縦向きに並べるのか設定でき、右側の数値を変えることで間隔を調整することができます。
-![auto-layout-list](./img/auto-layout-list.png)
+[[right | リストを作る際も Auto Layout が役立ちます。<br/>要素を等間隔で並べ、要素の追加・削除はもちろん、並び替えもとても簡単にできるようになります。<br/>下の画像はアイコンをリストで表示しているものです。<br/>左側の枠線の矢印で横向きまたは縦向きに並べるのか設定でき、右側の数値を変えることで間隔を調整することができます。]]
+| ![auto-layout-list](./img/auto-layout-list.png)
 
 ### 高度な Auto Layout
 
-下の画像を見てみましょう。  
-![chat-header](./img/chat-header.png)  
-これはあるプロジェクトで使ったチャットウィンドウのヘッダー部分です。
-ボタンリストもチャンネル・クローズボタン の部分も Auto Layout を使っています。  
-上部のチャンネル名であるプロダクトデザインは名前がチャンネルごとに違いますが、クローズボタンは常に右に位置していて欲しいですね。  
-このような場合には Resizing と padding の詳細ウィンドウから可変要素もデザイン崩れしないように設定できます。  
-実現したいことは以下です。
+[[right | これはあるプロジェクトで使ったチャットウィンドウのヘッダー部分です。<br/>ボタンリストもチャンネル・クローズボタン の部分も Auto Layout を使っています。<br/>上部のチャンネル名であるプロダクトデザインは名前がチャンネルごとに違いますが、クローズボタンは常に右に位置していて欲しいですね。<br/>このような場合には Resizing と padding の詳細ウィンドウから可変要素もデザイン崩れしないように設定できます。<br/>実現したいことは以下です。]]
+| ![chat-header](./img/chat-header.png)
 
 ```
 ・チャンネル名とクローズボタンは左右の端固定
