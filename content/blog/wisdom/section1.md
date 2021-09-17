@@ -3,6 +3,7 @@ title: 素材集
 index: 030
 date: "2020"
 labels: ["wisdom"]
+description: "WEBデザインを作る時に重宝するあれこれ"
 ---
 
 ここではデザインをする際によく使うサイトを紹介します。  

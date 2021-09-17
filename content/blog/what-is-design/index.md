@@ -3,6 +3,7 @@ title: いいデザインって何だろう？
 index: 300
 date: "2020"
 labels: ["what is design"]
+description: "満点を取るのはなかなか難しいです...！"
 ---
 
 ![cant-unsee](./img/cant-unsee.png)

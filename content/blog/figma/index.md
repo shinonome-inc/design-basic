@@ -3,6 +3,7 @@ title: Figmaを使ってみる
 index: 500
 date: "2020"
 labels: ["figma"]
+description: "Figmaを学んでいきましょう。"
 ---
 
 ## この章で学ぶこと

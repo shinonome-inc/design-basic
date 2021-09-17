@@ -3,6 +3,7 @@ title: Atomic Design
 index: 720
 date: "2020"
 labels: ["Web page"]
+description: "ここ結構重要です！！"
 ---
 
 ### Atomic Design とは？

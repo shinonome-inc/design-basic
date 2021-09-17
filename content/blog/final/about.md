@@ -3,6 +3,7 @@ title: 最終課題概要
 index: 905
 date: "2020"
 labels: ["final"]
+description: "最後の難関です。"
 ---
 
 ### 課題

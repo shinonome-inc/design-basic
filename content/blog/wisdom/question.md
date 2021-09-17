@@ -1,5 +1,6 @@
 ---
 title: 質問したい時は...
+description: "少し面倒ですが、手順に沿って質問してくれるとわかりやすいです！"
 index: 020
 date: "2020"
 labels: ["wisdom"]

@@ -3,6 +3,7 @@ title: 配色について考える
 index: 600
 date: "2020"
 labels: ["color scheme"]
+description: "準備中..."
 ---
 
 ## 配色
