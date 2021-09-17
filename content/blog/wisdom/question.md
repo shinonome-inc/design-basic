@@ -26,13 +26,9 @@ labels: ["wisdom"]
 7. 右下の`Submit new issue`をクリックする
 8. 疑問点が解決したら、どのように解決したかを記述し`Close issue`をクリック
 
-| New issue                        |
-| -------------------------------- |
-| ![New issue](./img/newIssue.png) |
-
-| Get started                           |
-| ------------------------------------- |
-| ![Get started](./img/getStartedQ.png) |
+| New issue                        | Get started                           |
+| -------------------------------- | ------------------------------------- |
+| ![New issue](./img/newIssue.png) | ![Get started](./img/getStartedQ.png) |
 
 | Question Template の書き方                             |
 | ------------------------------------------------------ |

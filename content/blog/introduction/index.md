@@ -10,13 +10,6 @@ labels: ["introduction"]
 デザインコースではデザインするとはどういうことなのかというところから Web デザインをある程度できるようになるまでをカバーするコースになっています。  
 課題を始めるために以下の準備をしましょう！
 
-### Dawn アカウントを作る
-
-Dawn というのは Shinonome で開発しているオンラインコミュニケーションツールのことです。  
-このツールを使って定例会を行います。  
-@akane さんに 4nonome のメールアドレスでアカウントを作ってもらいましょう。  
-作ってもらった後、必ず[このリンク](https://dev.dawn.4nonome.com/729fd91a-0e17-4ad0-a108-77362b0963c9/signin)からログインできるか確認しておいてください。
-
 ### Figma アカウントを作る
 
 デザインコースで使うデザインツールは Figma です。  
@@ -38,17 +31,13 @@ Dawn というのは Shinonome で開発しているオンラインコミュニ�
 4. title の`Your name`を自分の`Slack名`に変更、Assignees に自分を選択する
 5. 右下の`Submit new issue`をクリックする
 
-| New issue                        |
-| -------------------------------- |
-| ![New issue](./img/newIssue.png) |
-
-| Get started                          |
-| ------------------------------------ |
-| ![Get started](./img/getStarted.png) |
+| New issue                        | Get started                          |
+| -------------------------------- | ------------------------------------ |
+| ![New issue](./img/newIssue.png) | ![Get started](./img/getStarted.png) |
 
 | Study Diary の書き方                 |
 | ------------------------------------ |
-| ![Study Diary](./img/hotToStart.png) |
+| ![Study Diary](./img/howToStart.png) |
 
 ### Study Diary にチェックを入れましょう！
 

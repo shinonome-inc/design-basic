@@ -160,6 +160,10 @@ h6 {
   font-size: var(--fontSize-1);
 }
 
+td {
+  vertical-align: top;
+}
+
 p > a:hover {
   color: var(--color-primary);
 }
@@ -316,7 +320,7 @@ a:focus {
 }
 
 .main-wrapper main {
-  width: 60%;
+  width: 80%;
   margin-right: 40px;
 }
 
@@ -484,6 +488,17 @@ aside {
 .small-title {
   margin-left: 12px;
   opacity: 0.8;
+}
+
+.custom-block {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.custom-block.right .custom-block-body,
+.custom-block.left .custom-block-heading {
+  width: 500px;
 }
 
 iframe {

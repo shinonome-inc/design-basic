@@ -27,6 +27,23 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: "gatsby-remark-custom-blocks",
+            options: {
+              blocks: {
+                right: {
+                  // Markdown 内のキーワード
+                  classes: "right", // 適用クラス
+                  title: "optional",
+                },
+                left: {
+                  // Markdown 内のキーワード
+                  classes: "left", // 適用クラス
+                  title: "optional",
+                },
+              },
+            },
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,

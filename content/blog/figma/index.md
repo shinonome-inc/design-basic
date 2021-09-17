@@ -43,11 +43,11 @@ Figma がチュートリアルを用意してくれています。
 4. 複製したものを Design Course Tutorial (Username)のように自分の名前をつけて rename
 5. 複製したものをダブルクリックして中身を見る
 6. 画像のように ▽ をクリックして Move to Project から Drafts を選択
-7. ツールバー右上の`Share`ボタンから`Anyone with link`を選択
+7. ツールバー右上の`Share`ボタンから`Anyone with link`、隣のドロップダウンメニューから`can edit`を選択
 
-| Move to Project                                    | Anyone with link                        |
-| -------------------------------------------------- | --------------------------------------- |
-| ![Move To Project](../../assets/moveToProject.png) | ![To Review](../../assets/toReview.png) |
+| Move to Project                                    | Anyone with link                         |
+| -------------------------------------------------- | ---------------------------------------- |
+| ![Move To Project](../../assets/moveToProject.png) | ![To Review](../../assets/toReview2.png) |
 
 ### Figma の機能のある場所
 
