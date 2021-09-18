@@ -26,14 +26,14 @@ Design Course Tutorial (Username) の`header`と書かれたページで制作�
 
 - テキストのリンクの範囲はヘッダーの高さと同じですね。
 - コンセプトの部分はホバーするとドロップダウンが表示されますね。
-- [デバイス対応](/web/section2-2)の container の値をうまく使っていますか？
+- [デバイス対応](/web/device)の container の値をうまく使っていますか？
 
 ### 解答ができたら
 
 レビュー依頼をする前にチェックしましょう！
 
 - 階層ごと(asset,atoms,molecules,...)にわかりやすく分けてまとめられているか
-- 全てのパーツが[命名規則](/web/section2-1)を守り、component,variants 機能を使えているか
+- 全てのパーツが[命名規則](/web/atomic-design)を守り、component,variants 機能を使えているか
 - 全てのテキストが Shinonome の text-wrap を使っているか
 - カラーやテキストは全てスタイル登録されているか
 - マウスアクションごとにパーツを全て用意し variants 機能でわかりやすく表示されているか

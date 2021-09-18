@@ -28,10 +28,11 @@ assignees: ""
 
 ### Web page
 
-- [ ] [画面遷移図制作](https://design-basic.netlify.app/web/section1/)
-- [ ] [Atomic Design](https://design-basic.netlify.app/web/section2-1/)
-- [ ] [デバイス対応](https://design-basic.netlify.app/web/section2-2/)
-- [ ] [デザイン・動きを伝える](https://design-basic.netlify.app/web/section2-3/)
+- [ ] [画面遷移図制作](https://design-basic.netlify.app/web/chart/)
+- [ ] [Atomic Design](https://design-basic.netlify.app/web/atomic-design/)
+- [ ] [テキスト・カラーなどの登録](https://design-basic.netlify.app/web/text-color/)
+- [ ] [デバイス対応](https://design-basic.netlify.app/web/device/)
+- [ ] [デザイン・動きを伝える](https://design-basic.netlify.app/web/to-engineer/)
 
 ### trace
 
