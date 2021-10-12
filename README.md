@@ -1,12 +1,14 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+    <img alt="Gatsby" src="https://raw.githubusercontent.com/shinonome-inc/design-basic/dad0801793c3ec5b46b7ce33db4e351d111e6afb/src/assets/design-title.svg?token=AMDJUQS7TDTB3JMKARA2YITBMUIOI" width="300" />
   </a>
 </p>
-<h1 align="center">
-  Gatsby's blog starter
-</h1>
+<h3 align="right">
+  made by Gatsby
+</h3>
+
+課題コースの編集の仕方は[wiki](https://github.com/shinonome-inc/design-basic/wiki)
 
 Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
