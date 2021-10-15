@@ -38,16 +38,22 @@ Atomic Design をする上でパーツは全て Figma のコンポーネント�
 命名規則は以下です。
 
 - `階層名(atoms,moleculesなど)`/`パーツ名/(状態)`
+- user list など、２単語以上ある場合は`-`で単語を繋げるのがルールです。ケバブケースで調べてみましょう
+- ケバブケースは UI を実装するフロントエンド でよく使うためです
+- 小文字のみ使用
 
-例: `atoms/Button/default`, `atoms/Button/active`, `atoms/Button/hover`,`molecules/user-list`  
+例: `atoms/button/default`, `atoms/button/active`, `atoms/button/hover`,`molecules/user-list`  
 `/`で区切ることによって、パーツの検索・Variants 機能が使いやすくなります。  
-`active`や`hover`などマウスのアクションが起きた時のデザインも考えましょう。  
-user list など、２単語以上ある場合は`-`で単語を繋げるのがルールです。
+`active`や`hover`などマウスのアクションが起きた時のデザインも考えましょう。
 
 ### Study Diary を書きましょう！
 
 今回学んだ Atomic Design はエンジニアが実装する上でとても重要な知識です。  
 理解できない部分は手を動かしたり調べたりしましょう。
+
+### 参考
+
+- [命名規則について](https://designsupply-web.com/media/development/4052/)
 
 #### 今回やったこと
 
