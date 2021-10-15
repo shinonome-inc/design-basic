@@ -1,16 +1,20 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+    <img alt="Gatsby" src="https://raw.githubusercontent.com/shinonome-inc/design-basic/dad0801793c3ec5b46b7ce33db4e351d111e6afb/src/assets/design-title.svg?token=AMDJUQS7TDTB3JMKARA2YITBMUIOI" width="300" />
   </a>
 </p>
-<h1 align="center">
-  Gatsby's blog starter
-</h1>
+<h3 align="right">
+  made by Gatsby
+</h3>
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+<h2 align="center">
+課題コースの編集の仕方は<a href="https://github.com/shinonome-inc/design-basic/wiki">wiki</a>を参照してください
+</h2>
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+<!-- Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+
+_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._ -->
 
 ## 🚀 Quick start
 
