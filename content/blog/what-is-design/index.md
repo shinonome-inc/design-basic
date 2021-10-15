@@ -36,7 +36,7 @@ UX はユーザーエクスペリエンスの略。
 ### Can't Unsee とは
 
 **[Can't Unsee](https://cantunsee.space/)**とは、どちらが良いデザインか簡単に何か学べるクイズ形式のサイトです。  
-`Tutorial`,`Easy`,`Medium`,`Hard` の 4 段階で構成されている。  
+`Tutorial`,`Easy`,`Medium`,`Hard` の 4 段階で構成されています。  
 なぜそのデザインが良いのか悪いのか、解説もしっかり読みましょう。
 
 ### 全問正解するまで取り組もう！
