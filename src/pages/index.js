@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import topImg from "../assets/top-img.png"
+import topImg from "../assets/top-img.svg"
 
 const BlogIndex = ({ data, location }) => {
   const top = (
@@ -160,6 +160,7 @@ const BlogIndex = ({ data, location }) => {
             <a
               href="https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb?"
               target="_blank"
+              rel="noreferrer"
               className="link-button"
             >
               Designer's Road Map 2021

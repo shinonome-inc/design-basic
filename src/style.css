@@ -36,13 +36,19 @@
   --fontWeight-bold: 700;
   --fontWeight-extrabold: 800;
   --fontWeight-black: 900;
+  --fontSize-h3: 32px;
   --fontSize-M: 16px;
+  --fontSize-S: 12px;
+  --fontSize-XS: 10px;
   --lineHeight-none: 1;
   --lineHeight-tight: 1.1;
   --lineHeight-normal: 1.5;
   --lineHeight-relaxed: 2;
   --lineHeight-h1: 84px;
+  --lineHeight-h3: 56px;
   --lineHeight-M: 28px;
+  --lineHeight-S: 21px;
+  --lineHeight-XS: 18px;
   /* 1.200 Minor Third Type Scale */
   --fontSize-0: 0.833rem;
   --fontSize-1: 1rem;
@@ -57,6 +63,7 @@
   --color-green_puertoRico: #4ebfa0;
   --color-green_cuttySark: #4f8271;
   --color-orange_darkTangerine: #ffb121;
+  --color-black_zambezi: #5e5e5e;
   --color-black_oil: #333930;
   --color-text-light: #4f5969;
   --color-accent: #d1dce5;
@@ -107,18 +114,10 @@ h6 {
   margin-bottom: var(--spacing-6);
   line-height: var(--lineHeight-tight);
   letter-spacing: -0.025em;
-}
-
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: var(--fontWeight-bold);
+  font-weight: bold !important;
 }
 
 h1 {
-  font-weight: var(--fontWeight-bold);
   font-size: var(--fontSize-6);
 }
 
@@ -126,6 +125,8 @@ h3 {
   border-bottom: solid 3px var(--color-orange_darkTangerine);
   position: relative;
   display: inline-block;
+  font-size: var(--fontSize-h3);
+  line-height: var(--lineHeight-h3);
 }
 
 h3:after {
@@ -266,6 +267,7 @@ a.link-button {
   background-color: var(--color-orange_darkTangerine);
   border-radius: 24px;
   padding: 6px 20px;
+  user-select: none;
 }
 
 a.link-button:hover {
@@ -485,7 +487,7 @@ section#overview .circle span {
 
 .blog-post-nav .nav-link span::before {
   content: "";
-  background-color: var(--color-black_oil-green);
+  background-color: var(--color-green_puertoRico);
   position: absolute;
   top: calc(50% - 20px);
   width: 40px;
@@ -512,58 +514,160 @@ section#overview .circle span {
 }
 
 h1.title {
-  -webkit-text-stroke: 1px var(--color-black_oil-light);
+  -webkit-text-stroke: 1px var(--color-black_zambezi);
   color: transparent;
-  text-shadow: 2px 2px var(--color-black_oil-green);
+  text-shadow: 2px 2px var(--color-green_puertoRico);
 }
 
-section#task .content {
-  margin-right: var(--spacing-4);
-}
-.aside-list > div {
-  margin: 20px 0;
-}
-
-.aside-list h4 {
-  padding: 12px;
-  margin: 0;
-  background-color: #6398b7;
-  color: #fff;
+.title-content {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
 }
 
-aside {
-  height: calc(100% - 54px);
-  overflow: scroll;
-  padding: 20px;
-  background-color: #f3fbff;
-}
-
-.aside-inner {
-  margin: 0;
-  list-style: none;
-}
-
-.post-label {
-  margin: 0;
-  display: inline-block;
-  background-color: #353333;
-  color: #fff;
-  padding: 6px 20px 6px 12px;
-  margin: 0 0 12px -20px;
+.title-content h1 {
   font-weight: bold;
-  font-style: italic;
-  letter-spacing: 2px;
+  font-size: var(--fontSize-h3);
+  line-height: var(--lineHeight-h3);
 }
 
-.aside-inner li a {
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  align-self: center;
+  width: 100%;
+  gap: 50px;
+  padding: 40px 0 60px 0;
+}
+
+.card-list .card {
+  border-radius: 12px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
+  border: none;
+  transition: 0.2s;
+}
+
+.card-list .card:hover {
+  box-shadow: none;
   text-decoration: none;
-  font-weight: bold;
-  font-size: var(--fontSize-3);
 }
 
-.aside-inner li a.test::after {
-  content: "●";
-  color: #3a8c3a;
+.card-list .card .card-img {
+  width: 100%;
+  height: 170px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px 12px 0 0;
+}
+
+.card-list .card .card-img span {
+  height: 150px;
+}
+
+.card-list .card .card-img.course-mtg {
+  background-color: #c8e0da;
+}
+
+.card-list .card .card-img.course-mtg span {
+  width: 162px;
+  background: center / contain no-repeat
+    url(../src/assets/wisdom/course-mtg.svg);
+}
+
+.card-list .card .card-img.question {
+  background-color: #d0e0c8;
+}
+
+.card-list .card .card-img.question span {
+  width: 154px;
+  background: center / contain no-repeat url(../src/assets/wisdom/question.svg);
+}
+
+.card-list .card .card-img.tips {
+  background-color: #cac8e0;
+}
+
+.card-list .card .card-img.tips span {
+  width: 170px;
+  background: center / contain no-repeat url(../src/assets/wisdom/tips.svg);
+}
+
+.card-list .card .card-body {
+  padding: 10px;
+}
+
+.card-list .card .card-body .card-title {
+  font-size: var(--fontSize-M);
+  font-weight: bold;
+  margin-bottom: 10px;
+  line-height: var(--lineHeight-M);
+  color: var(--color-black_oil);
+}
+
+.card-list .card .card-body .card-text {
+  font-size: var(--fontSize-S);
+  line-height: var(--lineHeight-S);
+  color: var(--color-black_zambezi);
+}
+
+#accordion .card-header {
+  padding: 0;
+  background-color: transparent;
+}
+
+#accordion .card-header button {
+  width: 100%;
+  height: 100%;
+  padding: 6px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+  color: var(--color-black_oil);
+}
+
+#accordion .card-header button:not(.collapsed) {
+  background-color: #e5f1ee;
+}
+
+#accordion .card-header button:hover,
+.collapse:hover {
+  text-decoration: none;
+}
+
+#accordion .card-body {
+  padding: 20px;
+  display: flex;
+  gap: 20px;
+  align-items: flex-end;
+}
+
+#accordion .card-body .content {
+  width: calc(100% - 206px);
+}
+
+#accordion .card-body .content p {
+  color: #717171;
+  margin-bottom: 0;
+}
+
+#accordion .card-body .labels {
+  margin-bottom: 10px;
+  display: flex;
+  gap: 4px;
+}
+
+#accordion .card-body .labels .post-label {
+  margin: 0;
+  background-color: var(--color-black_oil);
+  color: var(--color-white);
+  padding: 2px 10px;
+  border-radius: 30px;
+  font-weight: bold;
+  font-size: var(--fontSize-XS);
+  line-height: var(--lineHeight-XS);
+  user-select: none;
 }
 
 .small-title {

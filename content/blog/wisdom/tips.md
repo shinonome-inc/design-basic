@@ -1,9 +1,9 @@
 ---
 title: 素材集
+description: "画像やアイコンの素材や、Figmaのプラグインなど、あなたの作業効率を上げてくれるtipsです。"
 index: 030
 date: "2020"
 labels: ["wisdom"]
-description: "WEBデザインを作る時に重宝するあれこれ"
 ---
 
 ここではデザインをする際によく使うサイトを紹介します。  
