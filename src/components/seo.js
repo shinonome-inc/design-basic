@@ -75,9 +75,9 @@ const SEO = ({ description, lang, meta, title }) => {
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
       <link
-        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Noto+Sans+JP:wght@400;700&display=swap"
         rel="stylesheet"
-      ></link>
+      />
       <script
         src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
