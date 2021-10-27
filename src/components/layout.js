@@ -33,6 +33,22 @@ const Layout = ({ location, children, nav, top }) => {
   let aside = (
     <section className="aside-list container">
       <div className="card-list">
+        <Link
+          to="https://www.notion.so/0da57c003ede4c559398e28f50e3af65"
+          itemProp="url"
+          className="card"
+          target="_blank"
+        >
+          <div className="course-mtg card-img">
+            <span></span>
+          </div>
+          <div className="card-body">
+            <h5 className="card-title">活動記録</h5>
+            <p className="card-text">
+              週１の定例会に参加して、デザインの知識を増やしましょう！
+            </p>
+          </div>
+        </Link>
         {posts.map(post => {
           if (post.frontmatter.labels[0] === "wisdom") {
             const title = post.frontmatter.title || post.fields.slug
@@ -107,7 +123,7 @@ const Layout = ({ location, children, nav, top }) => {
                     >
                       <path
                         d="M13.4 17L21.2418 26.1184C21.6408 26.5823 22.3592 26.5823 22.7582 26.1184L30.6 17"
-                        stroke="#868686"
+                        stroke="#d4d4d4"
                         strokeWidth="3"
                         strokeLinecap="round"
                       />

@@ -88,6 +88,7 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-black_oil);
+  background-color: #fafffe;
 }
 
 footer {
@@ -391,7 +392,7 @@ section#overview .overview-content p {
 section#overview .circle-wrapper {
   display: flex;
   align-items: center;
-  width: 157px;
+  width: 162px;
   height: 190px;
   background: center / contain no-repeat url(../src/assets/ellipse.png);
   position: relative;
@@ -442,6 +443,7 @@ section#overview .circle span {
   font-weight: bold;
   font-size: var(--fontSize-M);
   line-height: var(--lineHeight-M);
+  user-select: none;
 }
 
 .main-wrapper {
@@ -607,7 +609,7 @@ h1.title {
 .card-list .card {
   border-radius: 12px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
-  border: none;
+  border: 1px solid #e0e0e0;
   transition: 0.2s;
   text-decoration: none !important;
 }
