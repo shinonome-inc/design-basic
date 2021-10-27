@@ -346,6 +346,20 @@ a:focus {
   line-height: var(--lineHeight-h1);
   font-size: var(--fontSize-h1);
   font-weight: bold;
+  position: relative;
+}
+
+.top-wrapper h1:before {
+  content: "UI UX Designer";
+  font-family: "Dancing Script", cursive;
+  font-weight: normal;
+  transform: rotate(-8deg);
+  font-size: 46px;
+  line-height: 28px;
+  position: absolute;
+  color: var(--color-green_puertoRico);
+  top: -24px;
+  left: 20px;
 }
 
 section#overview {
