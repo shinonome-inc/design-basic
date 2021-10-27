@@ -1,8 +1,8 @@
 ---
-title: 基本操作 4 (frame/group)
+title: 基本操作 4
 index: 514
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "frame", "group"]
 ---
 
 ## フレームセレクションとグループセレクション

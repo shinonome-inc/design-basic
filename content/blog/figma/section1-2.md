@@ -1,8 +1,8 @@
 ---
-title: 基本操作 2 (page/frame/object)
+title: 基本操作 2
 index: 512
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "page", "frame", "object"]
 ---
 
 ## ページ・フレーム・オブジェクトの作成

@@ -1,6 +1,6 @@
 ---
 title: 定例会について
-description: "デザインコースでは、週1回、１時間程度定例会を行なっています。"
+description: "週１の定例会に参加して、デザインの知識を増やしましょう！"
 index: 010
 date: "2020"
 labels: ["wisdom"]

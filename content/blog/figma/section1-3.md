@@ -1,8 +1,8 @@
 ---
-title: 基本操作 3 (layer)
+title: 基本操作 3
 index: 513
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "layer"]
 ---
 
 ## レイヤーを管理する
