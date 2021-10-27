@@ -34,6 +34,14 @@ const BlogIndex = ({ data, location }) => {
       </div>
       <section id="overview">
         <div className="container">
+          <div className="title-content">
+            <h1>デザインコースの概要</h1>
+            <p>
+              デザインコースではUI/UXデザイナーのロードマップに合わせて次のように学習を進めていきます。
+              <br />
+              ボタンを押してデザイナーに必要な資質、ロードマップの詳しい内容を見てみましょう。
+            </p>
+          </div>
           <div className="content-wrapper">
             <div className="overview-content">
               <div className="circle-wrapper">
