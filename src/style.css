@@ -725,6 +725,7 @@ h1.title {
   display: flex;
   gap: 20px;
   align-items: flex-start;
+  height: 222px;
 }
 
 #accordion .card-body .content {
@@ -734,6 +735,10 @@ h1.title {
 #accordion .card-body .content p {
   color: #717171;
   margin-bottom: 0;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
 }
 
 #accordion .card-body .labels {

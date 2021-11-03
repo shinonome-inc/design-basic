@@ -14,7 +14,7 @@ const Layout = ({ location, children, nav, top }) => {
       query {
         allMarkdownRemark(sort: { fields: [frontmatter___index], order: ASC }) {
           nodes {
-            excerpt
+            excerpt(pruneLength: 400, truncate: true)
             fields {
               slug
             }
