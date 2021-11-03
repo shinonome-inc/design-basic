@@ -53,12 +53,12 @@ Hardのみ、解説を作成しましたので、参考にしてください。
 
 ![cantunsee_01](./img/cantunsee_01.png)
 
-![cantunsee_02](./img/cantunsee_02.png)
+![cantunsee-02](./img/cantunsee-02.png)
 
-![cantunsee_03](./img/cantunsee_03.png)
+![cantunsee-03](./img/cantunsee-03.png)
 
-![cantunsee_04](./img/cantunsee_04.png)
+![cantunsee-04](./img/cantunsee-04.png)
 
-![cantunsee_05](./img/cantunsee_05.png)
+![cantunsee-05](./img/cantunsee-05.png)
 
-![cantunsee_06](./img/cantunsee_06.png)
+![cantunsee-06](./img/cantunsee-06.png)
