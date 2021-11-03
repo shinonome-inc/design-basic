@@ -47,3 +47,12 @@ UX はユーザーエクスペリエンスの略。
 Can't Unsee で満点を取ることが今回の課題です。  
 全問正解したらスコアのスクリーンショットを Study Diary に載せ、感想や学んだこと・調べたことを書いてみてください。  
 クリアしたら Study Diary のチェックリストを更新して次に進みましょう。
+
+※難易度はだんだん上がっていきます。
+Hardのみ、解説を作成しましたので、参考にしてください。
+![cant-unsee](./img/cantunsee_01.png)
+![cant-unsee](./img/cantunsee_02.png)
+![cant-unsee](./img/cantunsee_03.png)
+![cant-unsee](./img/cantunsee_04.png)
+![cant-unsee](./img/cantunsee_05.png)
+![cant-unsee](./img/cantunsee_06.png)
