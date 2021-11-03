@@ -1,8 +1,11 @@
 ---
-title: 操作 6 (mask)
+title: 操作 6
 index: 526
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "mask"]
+importance: "30"
+difficulty: "easy"
+time: "13 min"
 ---
 
 ## オブジェクトのマスク

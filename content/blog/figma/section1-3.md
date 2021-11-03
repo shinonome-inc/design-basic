@@ -3,6 +3,9 @@ title: 基本操作 3
 index: 513
 date: "2020"
 labels: ["figma", "layer"]
+importance: "60"
+difficulty: "easy"
+time: "20 min"
 ---
 
 ## レイヤーを管理する

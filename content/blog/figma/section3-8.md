@@ -1,8 +1,11 @@
 ---
-title: 操作 8 (export)
+title: 操作 8
 index: 538
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "export"]
+importance: "40"
+difficulty: "easy"
+time: "6 min"
 ---
 
 ## 画像のエクスポート

@@ -3,6 +3,9 @@ title: ワイヤーフレーム制作
 index: 915
 date: "2020"
 labels: ["final"]
+importance: "100"
+difficulty: "hard"
+time: "10 days"
 ---
 
 トップページのワイヤーフレームを制作しましょう。  

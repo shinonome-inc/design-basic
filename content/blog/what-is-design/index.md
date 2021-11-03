@@ -4,6 +4,9 @@ index: 300
 date: "2020"
 labels: ["what is design"]
 description: "満点を取るのはなかなか難しいです...！"
+importance: "70"
+difficulty: "normal"
+time: "65 min"
 ---
 
 ![cant-unsee](./img/cant-unsee.png)

@@ -1,8 +1,11 @@
 ---
-title: 操作 6 (effect)
+title: 操作 6
 index: 536
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "effect"]
+importance: "50"
+difficulty: "easy"
+time: "13 min"
 ---
 
 ## オブジェクトにエフェクトをつける

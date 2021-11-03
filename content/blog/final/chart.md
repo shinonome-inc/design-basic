@@ -3,6 +3,9 @@ title: 画面遷移図制作
 index: 910
 date: "2020"
 labels: ["final"]
+importance: "100"
+difficulty: "hard"
+time: "5 days"
 ---
 
 まずは選んだプロジェクトの画面遷移図を制作しましょう。

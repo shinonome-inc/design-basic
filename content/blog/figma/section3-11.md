@@ -1,8 +1,11 @@
 ---
-title: 操作11 (Variants)
+title: 操作11
 index: 541
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "Variants"]
+importance: "80"
+difficulty: "normal"
+time: "25 min"
 ---
 
 ## Variants 機能

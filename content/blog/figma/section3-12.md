@@ -3,6 +3,9 @@ title: 確認問題 3
 index: 542
 date: "2020"
 labels: ["figma", test]
+importance: "80"
+difficulty: "normal"
+time: "48 min"
 ---
 
 ### 確認問題

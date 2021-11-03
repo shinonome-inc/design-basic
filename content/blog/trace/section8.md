@@ -3,6 +3,9 @@ title: プランを作る
 index: 755
 date: "2020"
 labels: ["trace"]
+importance: "80"
+difficulty: "normal"
+time: "185 min"
 ---
 
 ### Atomic Design トレース課題

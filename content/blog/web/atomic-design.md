@@ -4,6 +4,9 @@ index: 720
 date: "2020"
 labels: ["Web page"]
 description: "ここ結構重要です！！"
+importance: "90"
+difficulty: "normal"
+time: "18 min"
 ---
 
 ### Atomic Design とは？

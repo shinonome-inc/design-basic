@@ -2,7 +2,10 @@
 title: 画面遷移図制作
 index: 710
 date: "2020"
-labels: ["Web page"]
+labels: ["Web page", "chart"]
+importance: "90"
+difficulty: "hard"
+time: "5 days"
 ---
 
 それでは、実際にパーツを使って、画面遷移図を作ってみましょう。

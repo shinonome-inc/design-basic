@@ -3,6 +3,9 @@ title: カードを作る
 index: 745
 date: "2020"
 labels: ["trace"]
+importance: "80"
+difficulty: "easy"
+time: "245 min"
 ---
 
 ### Atomic Design トレース課題

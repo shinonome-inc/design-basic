@@ -1,8 +1,11 @@
 ---
-title: 操作 4 (stroke)
+title: 操作 4
 index: 534
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "stroke"]
+importance: "50"
+difficulty: "easy"
+time: "13 min"
 ---
 
 ## ストローク

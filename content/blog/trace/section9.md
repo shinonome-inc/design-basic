@@ -3,6 +3,9 @@ title: フッターを作る
 index: 760
 date: "2020"
 labels: ["trace"]
+importance: "80"
+difficulty: "normal"
+time: "125 min"
 ---
 
 ### Atomic Design トレース課題

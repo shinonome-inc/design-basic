@@ -4,6 +4,9 @@ index: 905
 date: "2020"
 labels: ["final"]
 description: "最後の難関です。"
+importance: "70"
+difficulty: "easy"
+time: "20 min"
 ---
 
 ### 課題

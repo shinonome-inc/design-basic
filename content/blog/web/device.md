@@ -3,6 +3,9 @@ title: デバイス対応
 index: 725
 date: "2020"
 labels: ["Web page"]
+importance: "90"
+difficulty: "normal"
+time: "25 min"
 ---
 
 ## デバイス対応とは

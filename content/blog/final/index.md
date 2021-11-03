@@ -3,6 +3,9 @@ title: Webデザインの流れ
 index: 900
 date: "2020"
 labels: ["final"]
+importance: "90"
+difficulty: "normal"
+time: "15 min"
 ---
 
 既に出来上がっているサイトを逆算し、画面遷移図、パーツのトレースができるようになりました。  

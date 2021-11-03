@@ -1,8 +1,11 @@
 ---
-title: 操作 3 (file)
+title: 操作 3
 index: 523
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "file"]
+importance: "50"
+difficulty: "easy"
+time: "13 min"
 ---
 
 ## ファイル名の編集・削除・複製・移動

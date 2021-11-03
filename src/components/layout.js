@@ -4,6 +4,9 @@ import { Link, graphql, useStaticQuery } from "gatsby"
 import DesignTitle from "../assets/design-title.svg"
 
 import DesignTitleSmall from "../assets/design-title-small.svg"
+import Lightbulb from "../assets/lightbulb.svg"
+import Lightbulb2 from "../assets/tips_and_updates.svg"
+import Watch from "../assets/watch_later.svg"
 
 const Layout = ({ location, children, nav, top }) => {
   const data = useStaticQuery(
@@ -19,6 +22,9 @@ const Layout = ({ location, children, nav, top }) => {
               title
               labels
               description
+              difficulty
+              importance
+              time
             }
           }
         }
@@ -100,9 +106,20 @@ const Layout = ({ location, children, nav, top }) => {
             const areaLabel = "heading" + postIndex
             const areaControl = "collapse" + postIndex
             const dataTarget = "#collapse" + postIndex
+            const difficulty = post.frontmatter.difficulty + " bar"
+            const barWidth = post.frontmatter.importance
+            let barColor
+            if (barWidth < 30) {
+              barColor = "#5acf89"
+            } else if (barWidth < 70) {
+              barColor = "#cdcf5a"
+            } else {
+              barColor = "#cf5a5a"
+            }
+            const timeString = post.frontmatter.time.split(" ")
             return (
-              <div className="card" key={index}>
-                <div className="card-header" id={areaLabel}>
+              <div className="card" key={index} id={areaLabel}>
+                <div className="card-header">
                   <button
                     className={buttonClass}
                     type="button"
@@ -148,10 +165,42 @@ const Layout = ({ location, children, nav, top }) => {
                       <p>{post.excerpt}</p>
                     </div>
                     <div className="info">
+                      <div className="difficulty">
+                        <div className="card-body-title">難易度</div>
+                        <div className={difficulty}>
+                          <span>easy</span>
+                          <span>normal</span>
+                          <span>hard</span>
+                        </div>
+                      </div>
+                      <div className="importance">
+                        <div className="card-body-title">重要度</div>
+                        <div className="bar">
+                          <img src={Lightbulb} alt="light" />
+                          <div className="grey">
+                            <span
+                              className="inner"
+                              style={{
+                                width: barWidth + "%",
+                                backgroundColor: barColor,
+                              }}
+                            ></span>
+                          </div>
+                          <img src={Lightbulb2} alt="light2" />
+                        </div>
+                      </div>
+                      <div className="time">
+                        <div className="card-body-title">想定時間</div>
+                        <div className="time-body">
+                          <img src={Watch} alt="clock" />
+                          <span>{timeString[0]}</span>
+                          {timeString[1]}
+                        </div>
+                      </div>
                       <Link
                         to={post.fields.slug}
                         itemProp="url"
-                        className="link-button"
+                        className="task-button"
                       >
                         チャレンジする
                         <svg

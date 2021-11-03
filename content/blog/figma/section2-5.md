@@ -1,8 +1,11 @@
 ---
-title: 操作 5 (merge)
+title: 操作 5
 index: 525
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "merge"]
+importance: "30"
+difficulty: "easy"
+time: "20 min"
 ---
 
 ## オブジェクトのパスの結合・合成

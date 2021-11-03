@@ -4,6 +4,9 @@ index: 500
 date: "2020"
 labels: ["figma"]
 description: "Figmaを学んでいきましょう。"
+importance: "80"
+difficulty: "easy"
+time: "50 min"
 ---
 
 ## この章で学ぶこと

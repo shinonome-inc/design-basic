@@ -106,6 +106,9 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       labels: [String]
+      importance: String
+      difficulty: String
+      time: String
     }
 
     type Fields {

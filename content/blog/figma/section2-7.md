@@ -2,7 +2,10 @@
 title: 操作 7 (view/ruler)
 index: 527
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "view", "ruler"]
+importance: "20"
+difficulty: "easy"
+time: "20 min"
 ---
 
 ## ビューの設定とルーラーレイアウトの設定

@@ -3,6 +3,9 @@ title: ニュース・イベントを作る
 index: 750
 date: "2020"
 labels: ["trace"]
+importance: "80"
+difficulty: "normal"
+time: "245 min"
 ---
 
 ### Atomic Design トレース課題

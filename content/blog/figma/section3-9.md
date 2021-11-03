@@ -1,8 +1,11 @@
 ---
-title: 操作9 (constraints)
+title: 操作9
 index: 539
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "constraints"]
+importance: "90"
+difficulty: "normal"
+time: "20 min"
 ---
 
 ## 制約(constraints)

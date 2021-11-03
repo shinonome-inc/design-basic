@@ -4,6 +4,9 @@ index: 727
 date: "2020"
 labels: ["Web page"]
 description: "エンジニアがどういうデザインシステムだと実装しやすいか学びましょう。"
+importance: "90"
+difficulty: "normal"
+time: "25 min"
 ---
 
 ## あなたのデザイン、他人に伝わりますか？

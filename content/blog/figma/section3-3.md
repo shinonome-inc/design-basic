@@ -1,8 +1,11 @@
 ---
-title: 操作 3 (fill/blend)
+title: 操作 3
 index: 533
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "fill", "blend"]
+importance: "50"
+difficulty: "easy"
+time: "20 min"
 ---
 
 ## オブジェクトに色を塗る

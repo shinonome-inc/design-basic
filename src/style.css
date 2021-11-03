@@ -249,7 +249,7 @@ table thead tr th {
 
 /* Link */
 
-a:not(.link-button) {
+a:not(.link-button):not(.task-button):not(.card) {
   color: var(--color-green_cuttySark) !important;
   text-decoration: underline !important;
 }
@@ -273,7 +273,8 @@ a.link-button {
   transition: 0.2s;
 }
 
-a.link-button:hover {
+a.link-button:hover,
+a.task-button:hover {
   color: var(--color-white);
   text-decoration: none;
   box-shadow: none;
@@ -308,6 +309,23 @@ a.link-button::before {
   100% {
     left: 100%;
   }
+}
+
+a.task-button {
+  color: var(--color-white);
+  font-weight: bold;
+  font-size: var(--fontSize-M);
+  line-height: var(--lineHeight-M);
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background-color: var(--color-orange_darkTangerine);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 24px;
+  padding: 8px 20px;
+  user-select: none;
+  transition: 0.2s;
 }
 
 a:focus {
@@ -706,7 +724,7 @@ h1.title {
   padding: 20px;
   display: flex;
   gap: 20px;
-  align-items: flex-end;
+  align-items: flex-start;
 }
 
 #accordion .card-body .content {
@@ -734,6 +752,93 @@ h1.title {
   font-size: var(--fontSize-XS);
   line-height: var(--lineHeight-XS);
   user-select: none;
+}
+
+#accordion .card-body .info {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+#accordion .card-body .info .card-body-title {
+  color: #8c9692;
+  font-size: var(--fontSize-XS);
+  line-height: var(--lineHeight-XS);
+}
+
+#accordion .card-body .info .difficulty .bar {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #eaeaea;
+  border-radius: 27px;
+}
+
+#accordion .card-body .info .difficulty .bar.easy span:first-of-type {
+  background-color: #5acf89;
+  border: 1px solid #939393;
+}
+
+#accordion .card-body .info .difficulty .bar.normal span:nth-of-type(2) {
+  background-color: #cdcf5a;
+  border: 1px solid #939393;
+}
+
+#accordion .card-body .info .difficulty .bar.hard span:nth-of-type(3) {
+  background-color: #cf5a5a;
+  border: 1px solid #939393;
+}
+
+#accordion .card-body .info .difficulty .bar span {
+  color: var(--color-white);
+  font-size: var(--fontSize-XS);
+  line-height: var(--lineHeight-XS);
+  font-weight: bold;
+  padding: 2px 10px;
+  border-radius: 27px;
+}
+
+#accordion .card-body .info .importance .bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  gap: 4px;
+}
+
+#accordion .card-body .info .importance .bar .grey {
+  width: 100%;
+  background-color: #bcbcbc;
+  height: 4px;
+  border-radius: 4px;
+  position: relative;
+}
+
+#accordion .card-body .info .importance .bar .grey .inner {
+  position: absolute;
+  display: inline-block;
+  height: 100%;
+  border-radius: 4px;
+}
+
+#accordion .card-body .info .time .time-body {
+  color: var(--color-black_oil);
+  font-size: var(--fontSize-S);
+  line-height: var(--lineHeight-S);
+  display: flex;
+  align-items: center;
+}
+
+#accordion .card-body .info .time .time-body img {
+  margin-right: 6px;
+}
+
+#accordion .card-body .info .time .time-body span {
+  font-size: var(--fontSize-M);
+  line-height: var(--lineHeight-M);
+  font-weight: bold;
+  margin-right: 8px;
 }
 
 .small-title {

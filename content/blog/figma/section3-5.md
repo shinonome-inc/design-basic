@@ -1,8 +1,11 @@
 ---
-title: 操作 5 (pen/pencil)
+title: 操作 5
 index: 535
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "pen", "pencil"]
+importance: "30"
+difficulty: "easy"
+time: "13 min"
 ---
 
 ## ペンツールと鉛筆ツールの使い方

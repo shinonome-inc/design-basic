@@ -4,6 +4,9 @@ index: 730
 date: "2020"
 labels: ["trace"]
 description: "最初は慣れないですが頑張ってほしい...！"
+importance: "80"
+difficulty: "hard"
+time: "245 min"
 ---
 
 ### Atomic Design トレース課題

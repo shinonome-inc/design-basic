@@ -4,6 +4,9 @@ index: 100
 date: "2020"
 labels: ["introduction"]
 description: "デザインコースを始めるにはいくつか準備するものがあります。"
+importance: "80"
+difficulty: "easy"
+time: "20 min"
 ---
 
 ## 課題の始め方

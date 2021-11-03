@@ -3,6 +3,9 @@ title: ページを完成させる
 index: 765
 date: "2020"
 labels: ["trace"]
+importance: "80"
+difficulty: "easy"
+time: "65 min"
 ---
 
 ### Atomic Design トレース課題

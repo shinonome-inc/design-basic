@@ -3,6 +3,9 @@ title: 基本操作 2
 index: 512
 date: "2020"
 labels: ["figma", "page", "frame", "object"]
+importance: "60"
+difficulty: "easy"
+time: "35 min"
 ---
 
 ## ページ・フレーム・オブジェクトの作成

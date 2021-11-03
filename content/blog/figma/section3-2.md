@@ -1,8 +1,11 @@
 ---
-title: 操作 2 (alignment)
+title: 操作 2
 index: 532
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "alignment"]
+importance: "50"
+difficulty: "easy"
+time: "20 min"
 ---
 
 ## オブジェクトの整列

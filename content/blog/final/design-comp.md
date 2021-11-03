@@ -3,6 +3,9 @@ title: デザインカンプ制作
 index: 920
 date: "2020"
 labels: ["final"]
+importance: "100"
+difficulty: "hard"
+time: "25 days"
 ---
 
 最後にトップページのデザインカンプを制作しましょう。  

@@ -4,6 +4,9 @@ index: 600
 date: "2020"
 labels: ["color scheme"]
 description: "準備中..."
+importance: "-"
+difficulty: "-"
+time: "-"
 ---
 
 ## 配色

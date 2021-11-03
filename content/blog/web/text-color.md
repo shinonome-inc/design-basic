@@ -4,6 +4,9 @@ index: 722
 date: "2020"
 labels: ["Web page"]
 description: "ここ結構重要です！！"
+importance: "90"
+difficulty: "normal"
+time: "30 min"
 ---
 
 ### カラーやテキストの登録

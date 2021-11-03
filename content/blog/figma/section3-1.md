@@ -1,8 +1,11 @@
 ---
-title: プロパティパネルの操作 1 (position/size)
+title: プロパティパネルの操作 1
 index: 531
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "position", "size"]
+importance: "40"
+difficulty: "easy"
+time: "13 min"
 ---
 
 ## 位置・サイズを変更する

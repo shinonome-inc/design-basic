@@ -4,6 +4,9 @@ index: 700
 date: "2020"
 labels: ["Web page"]
 description: "概念を理解して使いこなすには時間が掛かりますが粘り強く取り組みましょう。"
+importance: "90"
+difficulty: "hard"
+time: "40 min"
 ---
 
 ## 画面遷移図とロジックパーツ

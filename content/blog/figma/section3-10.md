@@ -1,8 +1,11 @@
 ---
-title: 操作10 (Auto Layout)
+title: 操作10
 index: 540
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "Auto Layout"]
+importance: "90"
+difficulty: "hard"
+time: "20 min"
 ---
 
 ## Auto Layout

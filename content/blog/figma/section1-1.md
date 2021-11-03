@@ -3,6 +3,9 @@ title: 基本操作 1
 index: 510
 date: "2020"
 labels: ["figma", "comment"]
+importance: "30"
+difficulty: "easy"
+time: "18 min"
 ---
 
 実際に Figma を触って基本的な操作を覚えましょう。  

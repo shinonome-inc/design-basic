@@ -1,8 +1,11 @@
 ---
-title: 操作 4 (component)
+title: 操作 4
 index: 524
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "component"]
+importance: "70"
+difficulty: "normal"
+time: "25 min"
 ---
 
 ## コンポーネント化

@@ -1,8 +1,11 @@
 ---
-title: 操作 7 (text)
+title: 操作 7
 index: 537
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "text"]
+importance: "60"
+difficulty: "easy"
+time: "15 min"
 ---
 
 ## テキストを編集する

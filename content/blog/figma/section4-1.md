@@ -1,8 +1,11 @@
 ---
-title: プロトタイピング (prototype)
+title: プロトタイピング
 index: 570
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "prototype"]
+importance: "40"
+difficulty: "normal"
+time: "30 min"
 ---
 
 ## プロトタイピング

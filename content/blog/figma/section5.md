@@ -4,6 +4,9 @@ index: 590
 date: "2020"
 labels: ["figma"]
 description: "とても便利です！"
+importance: "80"
+difficulty: "easy"
+time: "-"
 ---
 
 ## プラグインとコミュニティ
