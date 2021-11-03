@@ -71,6 +71,10 @@
 
 /* HTML elements */
 
+.tsparticles-canvas-el {
+  z-index: -1 !important;
+}
+
 *,
 :after,
 :before {
