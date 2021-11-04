@@ -229,8 +229,8 @@ const BlogIndex = ({ data, location }) => {
 
   const top = (
     <>
-      <div className="top-wrapper" id="tsparticles">
-        <div className="top container">
+      <div className="top-wrapper">
+        <div className="top container" id="tsparticles">
           <div>
             <h1>Webデザイナーになる。</h1>
             <p>
