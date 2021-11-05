@@ -172,11 +172,13 @@ p > a:hover {
 }
 
 :not(pre) > code[class*="language-"] {
-  padding: 4px 8px !important;
+  padding: 0 4px !important;
   margin: 0 4px;
-  color: var(--color-white);
+  color: #71b7a0 !important;
   text-shadow: none;
-  background-color: #71b7a0 !important;
+  background-color: transparent !important;
+  letter-spacing: 1px;
+  font-weight: bold;
 }
 
 pre[class*="language-"] {
