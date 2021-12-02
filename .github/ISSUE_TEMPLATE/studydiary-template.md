@@ -20,7 +20,7 @@ assignees: ""
 - [ ] [確認問題 2](https://design-basic.netlify.app/figma/section2-8/)
 - [ ] [確認問題 3](https://design-basic.netlify.app/figma/section3-12/)
 - [ ] [確認問題 4](https://design-basic.netlify.app/figma/section4-2/)
-- [ ] [プラグインとコミュニティ](https://design-basic.netlify.app/figma/section5/)
+- [ ] [コミュニティ](https://design-basic.netlify.app/figma/section5/)
 
 ### color scheme
 

@@ -11,14 +11,25 @@ time: "20 min"
 
 ### 課題
 
-最終課題は Play Ground で実際に請け負ったプロジェクトを使った模擬案件形式です。  
-３つのプロジェクトから好きなものを選びましょう。
+最終課題は Shinonome で実際に請け負ったプロジェクトを使った模擬案件形式です。  
+Swimmy・ski からどちらか好きな方を選びましょう。
 
-- [Dawn]()
-- [mymentor]()
-- [ski]()
+- 画面遷移図制作
+- ワイヤーフレーム制作
+- メインページのデザインカンプ制作
+  の三段階で最終課題は構成されています。  
+  この課題でデザイン面からのレビューも加わるので大変ですが、最後の壁なので頑張りましょう！
 
-### Project Template を複製しましょう。
+### 準備 1 ドキュメントを閲覧できるようにする
+
+プロジェクトごとに要件定義書・機能仕様書があり、Google Drive で管理をしています。  
+ドライブに招待をするので@Ayako に DM で google アカウントのメールアドレスを教えてください。  
+招待されると、以下のリンクが開けるようになります。
+
+- [Swimmy](https://drive.google.com/drive/folders/1cZRBsXoFe0IwGv44C1Ny-VRJYQpLQjxy)
+- [ski](https://drive.google.com/drive/folders/11grJR3yejOCuy4ITBDC8s5d-oYAyOCKT)
+
+### 準備 2 Project Template を複製する
 
 実際に Shinonome が Web デザインを作る際に使っている Project Template を使って制作しましょう。
 

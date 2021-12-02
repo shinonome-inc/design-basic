@@ -1,6 +1,6 @@
 ---
 title: 素材集
-description: "画像やアイコンの素材や、Figmaのプラグインなど、あなたの作業効率を上げてくれるtipsです。"
+description: "デザインの膨らませ方、画像、アイコンの素材など、あなたの作業効率を上げてくれるtipsです。"
 index: 030
 date: "2020"
 labels: ["wisdom"]

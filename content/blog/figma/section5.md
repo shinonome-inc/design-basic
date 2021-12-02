@@ -54,6 +54,11 @@ Figma アプリトップの`Community`を押して見ていきましょう。
 [[left | ![auto-flow](./img/auto-flow.png)]]
 | 要素と要素を繋げたい時に自動で矢印・点線などを結んでくれるプラグインです。<br/>この後学ぶ画面遷移図で重宝します。<br/>利点はその時説明しますので、**必ずインストールしておいてください。**
 
+### Japanese Font Picker
+
+[[left | ![auto-flow](./img/font-picker.png)]]
+| Figma は海外で開発されているツールですので、日本語フォントが少ないのが難点でした。<br/>それを解決してくれるのが、このプラグインです。<br/>日本語フォントを Figma 上で試すことができるようになります。<br/>**必ずインストールしておいてください。**
+
 ### Unsplash・Iconscout
 
 | Unsplash                        | Iconscout                         |
