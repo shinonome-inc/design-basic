@@ -54,11 +54,17 @@ time: "30 min"
 実機で確認したい場合、`Figma Mirror`というスマホアプリを使うことで Wi-fi 経由でプレビューを見ることができます。  
 [https://www.figma.com/mirror](https://www.figma.com/mirror) にアクセスすることで別タブでプレビューを見ることもできます。
 
+### 使用イメージ
+
+各自どのような動きが表現できるか見てみてください。  
+[UI trace](https://www.figma.com/file/7buIRsaS1jXgZYCbjcVMgt/UITrace?node-id=0%3A1)
+
 ### 参考
 
 - [公式ドキュメント ~アニメーションの緩急~](https://help.figma.com/hc/en-us/articles/360051748654-Prototype-easing-curves)
 - [公式ドキュメント ~animation~](https://help.figma.com/hc/en-us/articles/360040315773-Prototype-interactions-and-animations)
 - [公式ドキュメント ~overflow behavior~](https://help.figma.com/hc/en-us/articles/360039818734-Prototype-scrolling-with-overflow-behavior)
+- [[日本語訳] Interactive Components](https://www.figma.com/community/file/1035069535593573222)
 
 ### Study Diary を書きましょう！
 
