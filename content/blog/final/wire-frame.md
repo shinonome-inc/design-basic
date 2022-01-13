@@ -8,7 +8,8 @@ difficulty: "hard"
 time: "10 days"
 ---
 
-トップページのワイヤーフレームを制作しましょう。  
+Swimmy を選んだ人は、[4−7−1−2.メンター(会員)スレッド詳細画面](https://docs.google.com/document/d/1NoOVgS-BqW0Ettp0dQcbaPsVN8Bj4FbNIjFM4Zl6TyI/edit#heading=h.ynv0811otxag)を、  
+ski を選んだ人は、[4−5−8.受講者マイページ](https://docs.google.com/document/d/1J-IS4ZAQcl91rUKKjJNXLZf44gyblkY-WneLKy4HpN4/edit#heading=h.6z89dblh1vhz)を制作しましょう。  
 ワイヤーフレームが完成したらエンジニア向けページも作成しましょう。
 
 ### 解答ができたら
