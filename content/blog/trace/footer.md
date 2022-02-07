@@ -1,30 +1,31 @@
 ---
-title: プランを作る
+title: フッターを作る
 index: 755
 date: "2020"
 labels: ["trace"]
 importance: "80"
 difficulty: "normal"
-time: "185 min"
+time: "125 min"
 ---
 
 ### Atomic Design トレース課題
 
-Design Course Tutorial (Username) の`plans`と書かれたページで制作しましょう。  
-このセクションではプラン部分を作ってもらいます。  
+Design Course Tutorial (Username) の`footer`と書かれたページで制作しましょう。  
+このセクションではフッター部分を作ってもらいます。  
 [デモサイト](https://demo.tcd-theme.com/tcd063/)
 
-![プラン](./img/plan.png)
+![フッター](./img/footer.png)
 
 ### 条件
 
 ```
-・デザインの変わり目: s <-> md
-・このセクションで使う色: #000000, #a19283, #ffffff, #dddddd, #442606, #ece9e6
+・ブレークポイント(お手本サイト 767px付近): s <-> md
+・このセクションで使う色: #000000, #ffffff, #999999, #f5f5f5
 ```
 
 ### 考慮すべき点・ヒント
 
+- マウスアクションに注意しましょう。
 - [デバイス対応](/web/device)の container の値をうまく使っていますか？
 
 ### 解答ができたら

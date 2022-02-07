@@ -1,33 +1,33 @@
 ---
-title: カフェ紹介を作る
-index: 740
+title: ニュース・イベントを作る
+index: 745
 date: "2020"
 labels: ["trace"]
 importance: "80"
 difficulty: "normal"
-time: "125 min"
+time: "245 min"
 ---
 
 ### Atomic Design トレース課題
 
-Design Course Tutorial (Username) の`about`と書かれたページで制作しましょう。  
-このセクションではカフェ紹介部分を作ってもらいます。  
+Design Course Tutorial (Username) の`news&events`と書かれたページで制作しましょう。  
+このセクションではニュース・イベント部分を作ってもらいます。  
 [デモサイト](https://demo.tcd-theme.com/tcd063/)
 
-![カフェ紹介](./img/about.png)
+![ニュース・イベント](./img/news-event.png)
 
 ### 条件
 
 ```
-・デザインの変わり目: md <-> lg
+・ブレークポイント(お手本サイト 991px付近): md <-> lg
 ・画像はデモサイトからダウンロードして使う
-・このセクションで使う色: #000000, #f5f5f5, #442606
+・このセクションで使う色: #000000, #f5f5f5, #ffffff, #dddddd, #999999
 ```
 
 ### 考慮すべき点・ヒント
 
-- `共通パーツ`で作ったものをうまく使いましょう。
-- 画像はデモサイトからダウンロードしても好きな画像を使ってもどちらでも構いません。
+- イベントはニュース部分の応用でできるので先にニュースを完成させた方が効率がいいです。
+- マウスアクションに注意しましょう。
 - [デバイス対応](/web/device)の container の値をうまく使っていますか？
 
 ### 解答ができたら

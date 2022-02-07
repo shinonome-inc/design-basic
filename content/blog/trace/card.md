@@ -1,33 +1,33 @@
 ---
-title: ニュース・イベントを作る
-index: 750
+title: カードを作る
+index: 740
 date: "2020"
 labels: ["trace"]
 importance: "80"
-difficulty: "normal"
+difficulty: "easy"
 time: "245 min"
 ---
 
 ### Atomic Design トレース課題
 
-Design Course Tutorial (Username) の`news&events`と書かれたページで制作しましょう。  
-このセクションではニュース・イベント部分を作ってもらいます。  
+Design Course Tutorial (Username) の`card`と書かれたページで制作しましょう。  
+このセクションではカード部分を作ってもらいます。  
 [デモサイト](https://demo.tcd-theme.com/tcd063/)
 
-![ニュース・イベント](./img/news-event.png)
+![カード](./img/cards.png)
 
 ### 条件
 
 ```
-・デザインの変わり目: md <-> lg
+・ブレークポイント(お手本サイト 767px付近): s <-> md
 ・画像はデモサイトからダウンロードして使う
-・このセクションで使う色: #000000, #f5f5f5, #ffffff, #dddddd, #999999
+・このセクションで使う色: #000000, #f5f5f5, #442606, #ffffff
 ```
 
 ### 考慮すべき点・ヒント
 
-- イベントはニュース部分の応用でできるので先にニュースを完成させた方が効率がいいです。
 - マウスアクションに注意しましょう。
+- ボタンはこの後のセクションでも使うので`共通パーツ`のページに配置しておきましょう。
 - [デバイス対応](/web/device)の container の値をうまく使っていますか？
 
 ### 解答ができたら
