@@ -2,7 +2,7 @@
 title: いいデザインって何だろう？
 index: 300
 date: "2020"
-labels: ["what is design"]
+labels: ["what is design?"]
 description: "満点を取るのはなかなか難しいです...！"
 importance: "70"
 difficulty: "normal"
@@ -49,7 +49,7 @@ Can't Unsee で満点を取ることが今回の課題です。
 クリアしたら Study Diary のチェックリストを更新して次に進みましょう。
 
 ※難易度はだんだん上がっていきます。
-Hardのみ、解説を作成しましたので、参考にしてください。
+Hard のみ、解説を作成しましたので、参考にしてください。
 
 ![cantunsee_01](./img/cantunsee_01.png)
 

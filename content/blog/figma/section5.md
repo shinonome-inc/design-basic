@@ -2,7 +2,7 @@
 title: コミュニティ
 index: 590
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "community", "plugin"]
 description: "とても便利です！"
 importance: "80"
 difficulty: "easy"

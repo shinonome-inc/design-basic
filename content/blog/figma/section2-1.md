@@ -2,7 +2,7 @@
 title: ツールバーの操作 1
 index: 520
 date: "2020"
-labels: ["figma"]
+labels: ["figma", "toolbar"]
 importance: "60"
 difficulty: "easy"
 time: "18 min"

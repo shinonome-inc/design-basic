@@ -2,7 +2,7 @@
 title: 操作 6
 index: 526
 date: "2020"
-labels: ["figma", "mask"]
+labels: ["figma", "object mask"]
 importance: "30"
 difficulty: "easy"
 time: "13 min"

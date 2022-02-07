@@ -2,7 +2,7 @@
 title: 操作 4
 index: 524
 date: "2020"
-labels: ["figma", "component"]
+labels: ["figma", "component", "instance"]
 importance: "70"
 difficulty: "normal"
 time: "25 min"

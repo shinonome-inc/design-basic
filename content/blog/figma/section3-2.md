@@ -2,7 +2,7 @@
 title: 操作 2
 index: 532
 date: "2020"
-labels: ["figma", "alignment"]
+labels: ["figma", "object alignment"]
 importance: "50"
 difficulty: "easy"
 time: "20 min"

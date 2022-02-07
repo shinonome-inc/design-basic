@@ -128,9 +128,19 @@ const Layout = ({ location, children, nav, top }) => {
                     aria-expanded="true"
                     aria-controls={areaControl}
                   >
-                    <h5 className="mb-0">
-                      {postIndex}. {editTitle}
-                    </h5>
+                    <div className="d-flex align-items-center">
+                      <h5 className="mb-0 mr-4">
+                        {postIndex}. {editTitle}
+                      </h5>
+                      <div className="labels">
+                        {post.frontmatter.labels.length > 1 &&
+                          post.frontmatter.labels.map(l => (
+                            <div className="post-label" key={l}>
+                              {l}
+                            </div>
+                          ))}
+                      </div>
+                    </div>
                     <svg
                       width="44"
                       height="44"
@@ -155,12 +165,10 @@ const Layout = ({ location, children, nav, top }) => {
                 >
                   <div className="card-body">
                     <div className="content">
-                      <div className="labels">
-                        {post.frontmatter.labels.map(l => (
-                          <div className="post-label" key={l}>
-                            {l}
-                          </div>
-                        ))}
+                      <div className="labels mb-3">
+                        <div className="post-label">
+                          {post.frontmatter.labels[0]}
+                        </div>
                       </div>
                       <p>{post.excerpt}</p>
                     </div>

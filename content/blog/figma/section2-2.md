@@ -2,7 +2,7 @@
 title: 操作 2
 index: 522
 date: "2020"
-labels: ["figma", "obj", "canvas"]
+labels: ["figma", "object", "canvas"]
 importance: "60"
 difficulty: "easy"
 time: "20 min"

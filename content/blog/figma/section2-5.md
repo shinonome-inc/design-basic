@@ -2,7 +2,7 @@
 title: 操作 5
 index: 525
 date: "2020"
-labels: ["figma", "merge"]
+labels: ["figma", "object path", "object merge"]
 importance: "30"
 difficulty: "easy"
 time: "20 min"

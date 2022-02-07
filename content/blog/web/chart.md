@@ -2,7 +2,7 @@
 title: 画面遷移図制作
 index: 710
 date: "2020"
-labels: ["Web page", "chart"]
+labels: ["Web page"]
 importance: "90"
 difficulty: "hard"
 time: "5 days"
