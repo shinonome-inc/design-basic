@@ -255,7 +255,7 @@ table thead tr th {
 
 /* Link */
 
-a:not(.link-button):not(.task-button):not(.card) {
+a:not(.link-button):not(.task-button):not(.card):not(.nav-link) {
   color: var(--color-green_cuttySark) !important;
   text-decoration: underline !important;
 }
@@ -277,6 +277,10 @@ a.link-button {
   position: relative;
   overflow: hidden;
   transition: 0.2s;
+}
+
+.btn-link:focus {
+  text-decoration: none !important;
 }
 
 a.link-button:hover,
@@ -565,7 +569,7 @@ section#overview .circle span {
   margin-top: var(--spacing-8);
 }
 
-.blog-post-nav .nav-link {
+.blog-post-nav a.nav-link {
   text-decoration: none !important;
   color: var(--color-black_oil) !important;
   padding: var(--spacing-8) var(--spacing-0);
