@@ -10,7 +10,7 @@ time: "245 min"
 
 ### Atomic Design トレース課題
 
-Design Course Tutorial (Username) の`card`と書かれたページで制作しましょう。  
+`Username`--Design Course Tutorial の`card`と書かれたページで制作しましょう。  
 このセクションではカード部分を作ってもらいます。  
 [デモサイト](https://demo.tcd-theme.com/tcd063/)
 

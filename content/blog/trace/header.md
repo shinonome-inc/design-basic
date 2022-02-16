@@ -12,7 +12,7 @@ time: "245 min"
 ### Atomic Design トレース課題
 
 これからの課題では、前回画面遷移図を作った[デモサイト](https://demo.tcd-theme.com/tcd063/)のトップページのデザインを Atomic Design 化してもらいます。  
-Design Course Tutorial (Username) の`header`と書かれたページで制作しましょう。  
+`Username`--Design Course Tutorial の`header`と書かれたページで制作しましょう。  
 このセクションではヘッダー部分を作ってもらいます。
 
 ![ヘッダー](./img/header.png)

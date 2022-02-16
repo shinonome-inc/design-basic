@@ -10,7 +10,7 @@ time: "125 min"
 
 ### Atomic Design トレース課題
 
-Design Course Tutorial (Username) の`footer`と書かれたページで制作しましょう。  
+`Username`--Design Course Tutorial の`footer`と書かれたページで制作しましょう。  
 このセクションではフッター部分を作ってもらいます。  
 [デモサイト](https://demo.tcd-theme.com/tcd063/)
 

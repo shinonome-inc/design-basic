@@ -10,7 +10,7 @@ time: "185 min"
 
 ### Atomic Design トレース課題
 
-Design Course Tutorial (Username) の`top`,`共通パーツ`と書かれたページで制作しましょう。  
+`Username`--Design Course Tutorial の`top`,`共通パーツ`と書かれたページで制作しましょう。  
 このセクションではトップ部分を作ってもらいます。  
 ヘッダーがページの順序的には最初ですが、難易度の関係上トップを先に作ります。  
 [デモサイト](https://demo.tcd-theme.com/tcd063/)

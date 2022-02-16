@@ -10,7 +10,7 @@ time: "65 min"
 
 ### Atomic Design トレース課題
 
-Design Course Tutorial (Username) の`page`と書かれたページで制作しましょう。  
+`Username`--Design Course Tutorial の`page`と書かれたページで制作しましょう。  
 このセクションでは今まで作ったセクションを合わせたトップページ全体を作ってもらいます。  
 [デモサイト](https://demo.tcd-theme.com/tcd063/)
 

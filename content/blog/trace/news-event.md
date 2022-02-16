@@ -10,7 +10,7 @@ time: "245 min"
 
 ### Atomic Design トレース課題
 
-Design Course Tutorial (Username) の`news&events`と書かれたページで制作しましょう。  
+`Username`--Design Course Tutorial の`news&events`と書かれたページで制作しましょう。  
 このセクションではニュース・イベント部分を作ってもらいます。  
 [デモサイト](https://demo.tcd-theme.com/tcd063/)
 
