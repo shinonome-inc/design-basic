@@ -40,7 +40,6 @@ time: "40 min"
 
 ### パーツの意味と使い方
 
-まずはパーツを作る元になっている[ロジックについて](http://www.cs.shinshu-u.ac.jp/Lecture/Prog2/Prog1/class04.pdf)を一読してから次に進みましょう。  
 `Username`--Design Course Tutorial の`ロジックパーツ`というページにパーツの説明、サンプルを置いているので見てみましょう。  
 このパーツで作られた画面遷移図を元にエンジニアは実装をします。一種の仕様書と言えるでしょう。
 
@@ -52,6 +51,9 @@ time: "40 min"
 パーツを使う際は、Figma 左サイドバーの`Assets`→`Shinonome Logic parts` から使用しましょう。  
 また、オリジナルのアイコン等を作る場合は、必ずコンポーネント化しましょう。  
 **※Assets にローカルのパーツしかない場合は Assets の本のアイコンから、Shinonome Logic parts が適用されているか確認しましょう。**
+
+[[right | サンプルを置いていますので、作り方の参考にしてください。<br/>ヘッダー・フッターなど各パーツの説明は[こちら](https://csslayout.io/)。]]
+| ![sample](./img/sample.png)
 
 #### URL が一意に定まる？定まらない？？
 
