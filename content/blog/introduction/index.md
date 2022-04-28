@@ -27,13 +27,14 @@ time: "20 min"
 ### Study Diary を作る
 
 1 人 1 人に Study Diary を書いてもらい、日々の知識を蓄積するノートとしてもらいます。  
-作り方は、
+[issue ページ](https://github.com/shinonome-inc/design-basic/issues)にアクセスしましょう。  
+アクセスできない場合は[Shinonome org に参加していない](https://playground.wraptas.site/200d92e8848c4c71b00ffab42a06b8f8)や Github にログインしていない状態でアクセスしていることが考えられます。  
+Study Diary の作り方は、
 
-1. [issue ページ](https://github.com/shinonome-inc/design-basic/issues)にアクセス
-2. 右上の`New issue`をクリック
-3. `StudyDiary Template`の`Get started`をクリック
-4. title の`Your name`を自分の`Slack名`に変更、Assignees に自分を選択する
-5. 右下の`Submit new issue`をクリックする
+1. 右上の`New issue`をクリック
+2. `StudyDiary Template`の`Get started`をクリック
+3. title の`Your name`を自分の`Slack名`に変更、Assignees に自分を選択する
+4. 右下の`Submit new issue`をクリックする
 
 | New issue                        | Get started                          |
 | -------------------------------- | ------------------------------------ |
