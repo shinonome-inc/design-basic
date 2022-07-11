@@ -44,7 +44,8 @@ Figma のコンセプトのページに色の考え方を載せていますか�
 フォントは、[Google font](https://fonts.google.com/)から選ぶことが多いです。  
 日本語に対応しているフォントか確認を忘れずにしましょう。  
 デザインカンプを作りながらフォントを考えるのでも構いません。  
-Figma 上で試す場合は[おすすめプラグイン](/figma/section5/)の Japanese Font Picker が役立つと思います。
+Figma 上で試す場合は[おすすめプラグイン](/figma/section5/)の Japanese Font Picker が役立つと思います。  
+実際に使う場合はダウンロードすると Figma 上で使えるようになります。
 
 ### 5. デザインカンプを作成する
 
