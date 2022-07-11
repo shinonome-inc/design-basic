@@ -885,6 +885,18 @@ iframe {
     width: 90%;
     margin: 0 auto;
   }
+  .top img {
+    width: 30%;
+  }
+  .top-wrapper h1:before {
+    font-size: 26px;
+    line-height: 28px;
+  }
+  .top-wrapper h1 {
+    font-size: var(--fontSize-5);
+    line-height: var(--lineHeight-M);
+    margin-bottom: 20px;
+  }
 }
 
 @media (max-width: 42rem) {
@@ -895,5 +907,38 @@ iframe {
   ul,
   ol {
     list-style-position: inside;
+  }
+  .top {
+    justify-content: center;
+  }
+  .top-wrapper {
+    height: 50vh;
+  }
+  .top img {
+    display: none;
+  }
+  section#overview .content-wrapper {
+    justify-content: center;
+  }
+  #accordion .card-header button > div {
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start !important;
+    width: calc(100% - 44px);
+  }
+  #accordion .card-header button h5 {
+    white-space: nowrap;
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    text-align: left;
+    margin-left: 0;
+  }
+  #accordion .card-body {
+    flex-direction: column;
+    height: auto;
+  }
+  #accordion .card-body > * {
+    width: 100% !important;
   }
 }
