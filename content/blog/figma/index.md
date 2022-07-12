@@ -42,9 +42,9 @@ Figma がチュートリアルを用意してくれています。
 今後の課題はこの Figma のプロジェクトを使って行います。
 
 1. Figma を開いてトップの左サイドバーから shinonome をクリック([1.課題を始めましょう！](../introduction/)で招待の依頼をしていない人はないので手順を確認して依頼してください)
-2. DesignGuideLine をクリック
+2. DesignCourse をクリック
 3. Design Course Tutorial を右クリックして複製
-4. 複製したものを `Username`--Design Course Tutorial のように自分の名前をつけて rename
+4. 複製したものを (username) Design Course Tutorial の username を自分の名前に変える
 5. 複製したものをダブルクリックして中身を見る
 6. 画像のように ▽ をクリックして Move to Project から Drafts を選択
 7. ツールバー右上の`Share`ボタンから`Anyone with link`、隣のドロップダウンメニューから`can edit`を選択
