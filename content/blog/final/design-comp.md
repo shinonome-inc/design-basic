@@ -28,7 +28,7 @@ time: "25 days"
 
 レビュー依頼をする前にチェックしましょう！
 
-- 階層ごと(asset,atoms,molecules,...)にわかりやすく分けてまとめられているか
+- 階層ごと(assets,atoms,molecules,...)にわかりやすく分けてまとめられているか
 - [https://csslayout.io/](https://csslayout.io/)を意識してパーツに命名できているか
 - 全てのパーツが[命名規則](/web/atomic-design)を守り、component,variants 機能を使えているか
 - 全てのテキストが Shinonome の text-wrap を使っているか
