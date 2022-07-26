@@ -2,50 +2,94 @@
 title: 操作10
 index: 540
 date: "2020"
-labels: ["figma", "Auto Layout"]
+labels: ["figma", "Auto layout"]
 importance: "90"
 difficulty: "hard"
 time: "20 min"
 ---
 
-## Auto Layout
+## Auto layout
 
-Auto Layout 機能とは padding を自動で調整してくれたり、要素をリストのように等間隔で並べたい時などに重宝する機能です。
+Auto layout 機能とは padding(余白) を自動で調整してくれたり、要素をリストのように等間隔で並べたい時などに重宝する機能です。  
+Auto layout には主に 3 つの機能があります。
 
-### Auto Layout を適用する
+- padding(余白)をつける
+- 等間隔に並べる
+- Advanced layout
+- Absolute position
 
-[[right | Auto Layout 機能を使いたいオブジェクトを選択して右サイドバーのプロパティパネルから Auto Layout をつけましょう。<br/>グループまたはフレームセレクションにつけることが可能です。]]
-| ![auto-layout](./img/auto-layout.png)
+順番に見ていきましょう。
 
-### padding をつける
+### Auto layout を適用する
 
-[[right | ボタンを例に見てみましょう。<br/>Auto Layout 機能ができるまでは中身のテキストに合わせて何種類ものパーツを作る必要がありました。<br/>下の画像は Auto Layout 機能の`padding 10px`を適用したものです。]]
+[[right | Auto layout 機能を使いたいオブジェクトを選択して右サイドバーのプロパティパネルから Auto layout をつけましょう。<br/>グループまたはフレームセレクションにつけることが可能です。]]
+| ![auto-layout](./img/auto-layout2.png)
+
+### 1.padding(余白) をつける
+
+[[right | ボタンを例に見てみましょう。<br/>Auto layout 機能ができるまでは中身のテキストに合わせて何種類ものパーツを作る必要がありました。<br/>下の画像は Auto layout 機能の`padding 10px`を適用したものです。]]
 | ![auto-layout-button](./img/auto-layout-button.png)
 
-[[right | 枠線の部分で padding 調整ができ、右側のアイコンをクリックすることで表示されるウィンドウから上下左右別々の値を設定することができます。]]
-| ![auto-layout-padding](./img/auto-layout-padding.png)
+[[right | 枠線の部分で padding が左右・上下設定できます。<br/>2枚目右側のアイコンをクリックすることで入力欄が分かれ、上下左右別々の値を設定することもできます。<br/>入力欄を`Command + クリック`で上下左右まとめて設定することもできます。]]
+| ![auto-layout-padding](./img/auto-layout-padding2.png)
 
-### リストの Auto Layout
+### 2.等間隔で並べる
 
-[[right | リストを作る際も Auto Layout が役立ちます。<br/>要素を等間隔で並べ、要素の追加・削除はもちろん、並び替えもとても簡単にできるようになります。<br/>下の画像はアイコンをリストで表示しているものです。<br/>左側の枠線の矢印で横向きまたは縦向きに並べるのか設定でき、右側の数値を変えることで間隔を調整することができます。]]
-| ![auto-layout-list](./img/auto-layout-list.png)
+[[right | 要素を等間隔で並べる際も Auto layout が役立ちます。<br/>要素の追加・削除はもちろん、並び替えもとても簡単にできるようになります。<br/>画像はボタンを等間隔に並べています。<br/>左側の枠線で囲われている部分の矢印で横向きまたは縦向きに並べるのか設定でき、数値を変えることで間隔を調整することができます。]]
+| ![auto-layout-list](./img/auto-layout-list2.png)
 
-### 高度な Auto Layout
+### 3.Advanced layout
 
-[[right | これはあるプロジェクトで使ったチャットウィンドウのヘッダー部分です。<br/>ボタンリストもチャンネル・クローズボタン の部分も Auto Layout を使っています。<br/>上部のチャンネル名であるプロダクトデザインは名前がチャンネルごとに違いますが、クローズボタンは常に右に位置していて欲しいですね。<br/>このような場合には Resizing と padding の詳細ウィンドウから可変要素もデザイン崩れしないように設定できます。<br/>実現したいことは以下です。]]
-| ![chat-header](./img/chat-header.png)
+ここからは Advanced layout の項目について説明します。  
+とても理解しづらいと思いますが数をこなして体で覚えていきましょう。  
+[[right | Advanced layoutは画像の3点リーダーをクリックして現れるウィンドウ内の機能です。<br/>順番に見ていきましょう。]]
+| ![advanced-layout](./img/advanced-layout.png)
+
+#### Spacing mode
+
+Spacing mode は名前の通り、間隔を設定することのできる機能で 2 種類あります。
 
 ```
-・チャンネル名とクローズボタンは左右の端固定
-・上寄せ
+・Space between: アイテムを均等に配置し最初のアイテムは先頭に寄せ、最後のアイテムは末尾に寄せる
+・Packed: 余白通り配置(通常配置)
 ```
 
-下の画像の padding 詳細ウィンドウを見てみましょう。  
-青い３本線が等間隔に設置され、枠線の中で上寄せになっていることがわかると思います。  
-枠線の中をクリックすることで、中央寄せ、下寄せに変更することもできます。  
-また、ウィンドウ下部をみるとわかる通り、`space-between`を設定しています。  
-これによって各アイテムを均等に配置し最初のアイテムは先頭に寄せ、最後のアイテムは末尾に寄せることができます。  
-しかし、このままだと幅が自動で子要素に合わせる設定になっているので、Resizing を`Hug contents`から`Fill container`にしましょう。  
+Space between は後述する Resizing を Hug 以外に設定しないと意味がないので注意が必要です。
+
+| Space between                                 | Packed                                      |
+| --------------------------------------------- | ------------------------------------------- |
+| ![spacing-between](./img/spacing-between.png) | ![spacing-packed](./img/spacing-packed.png) |
+
+ここからはそこまで重要ではないかつわかりやすいので画像のみの説明にします。  
+Preview に表示されるので想像がつくかと思いますが、それでもわからない場合は自分で手を動かしてみたり公式ドキュメントを検索してみてください。
+
+#### Strokes
+
+| Excluded                                        | Included                                        |
+| ----------------------------------------------- | ----------------------------------------------- |
+| ![strokes-excluded](./img/strokes-excluded.png) | ![strokes-included](./img/strokes-included.png) |
+
+#### Canvas stacking
+
+| First                                                     | Last                                                    |
+| --------------------------------------------------------- | ------------------------------------------------------- |
+| ![canvas-stacking-first](./img/canvas-stacking-first.png) | ![canvas-stacking-last](./img/canvas-stacking-last.png) |
+
+#### Text baseline alignment
+
+| -                                   | ✔︎                                              |
+| ----------------------------------- | ----------------------------------------------- |
+| ![baseline--](./img/baseline--.png) | ![baseline-checked](./img/baseline-checked.png) |
+
+### Resizing
+
+Auto layout で重要なものの 1 つが Resizing です。  
+Auto layout を適用している frame の幅や高さがどのように振る舞うべきか設定できる機能です。
+
+| resizing                        | 種類                                      |
+| ------------------------------- | ----------------------------------------- |
+| ![resizing](./img/resizing.png) | ![resizing-kind](./img/resizing-kind.png) |
+
 Resizing には以下の３種類があります。
 
 ```
@@ -53,10 +97,6 @@ Resizing には以下の３種類があります。
 ・Fill container: 親要素いっぱいに広げる
 ・Fixed width/height: 幅/高さ固定
 ```
-
-| space-between                                                     | fill container                                          |
-| ----------------------------------------------------------------- | ------------------------------------------------------- |
-| ![auto-layout-space-between](./img/auto-layout-space-between.png) | ![auto-layout-resizing](./img/auto-layout-resizing.png) |
 
 この辺りは慣れが必要なので、サイトでよく使われるパーツはどういう風に作れるか考え、手を動かすなどの努力が必要です。  
 [参考リンク](https://bagelee.com/design/figma-auto-layout-update/)
@@ -69,6 +109,8 @@ Resizing には以下の３種類があります。
 
 #### 今回やったこと
 
-- Auto Layout 機能
+- Auto layout
+- Advanced layout
+- Resizing
 
 できたら次に進みましょう。
