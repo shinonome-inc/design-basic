@@ -37,7 +37,7 @@ time: "25 min"
 `.container`の行の値は bootstrap が設定している余白をつけた際の中身のサイズを表しています。
 ![break point](./img/break-point2.png)
 
-`Username`--Design Course Tutorial の`ブレークポイント`と書かれたページにこの表をフレームで表しています。  
+(username) Design Course Tutorial の`ブレークポイント`と書かれたページにこの表をフレームで表しています。  
 緑色の範囲が余白です。  
 左右に余白が欲しいデザインの場合はこの値を使いましょう。
 
