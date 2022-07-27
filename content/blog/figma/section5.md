@@ -87,6 +87,11 @@ https://www.figma.com/community/plugin/738454987945972471/Unsplash
 [[left | ![wireframe](./img/wireframe.png)]]
 | 名前の通り、ワイヤーフレーム制作の効率を上げてくれるプラグインです。<br/>ヘッダー・フッター・記事など一般的に使う要素のパーツを用意してくれています。<br/>このプラグインを活用すれば、手作業で作るパーツがぐんと減ると思います。<br/>https://www.figma.com/community/plugin/742764242781786818/Wireframe
 
+### Propstar
+
+[[left | ![propstar](./img/propstar.png)]]
+| Variant のプロパティをわかりやすく表示してくれるプラグインです。<br/>これを使うだけでエンジニアにとって優しいコンポーネント管理ができるでしょう。<br/>https://www.figma.com/community/plugin/1116018586739867857/Propstar
+
 ### Color Contrast Grid
 
 [[left | ![color-contrast-grid](./img/color-contrast-grid.png)]]
