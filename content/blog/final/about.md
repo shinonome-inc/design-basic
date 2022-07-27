@@ -32,7 +32,7 @@ Swimmy・ski からどちらか好きな方を選びましょう。(ドキュメ
 
 実際に Shinonome が Web デザインを作る際に使っている Project Template を使って制作しましょう。
 
-1. [課題ファイル](<https://www.figma.com/file/dvZBmWpDg7idV3cXwuchtW/(username)-Design-Course--Tutorial?node-id=0%3A1>)にアクセス
+1. [課題ファイル](<https://www.figma.com/file/jIolEfi9dLo4bHEzF5x0tO/(username)-%E6%9C%80%E7%B5%82%E8%AA%B2%E9%A1%8C?node-id=0%3A1>)にアクセス
 2. 画像 1 枚目のようにツールバー中央のファイル名横の ▽ をクリックし、Duplicate を押して複製
 3. 複製したものを `(username)最終課題`の username を自分の名前に変える
 4. 複製したものをダブルクリックして中身を見る
