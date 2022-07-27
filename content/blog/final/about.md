@@ -32,17 +32,16 @@ Swimmy・ski からどちらか好きな方を選びましょう。(ドキュメ
 
 実際に Shinonome が Web デザインを作る際に使っている Project Template を使って制作しましょう。
 
-1. Figma を開いて左側のサイドバーから Shinonome をクリック
-2. Design Course をクリック
-3. 最終課題 を右クリックして複製
-4. 複製したものを `(username)最終課題`の username を自分の名前に変える
-5. 複製したものをダブルクリックして中身を見る
-6. 画像のように ▽ をクリックして Move to Project から Drafts を選択
-7. ツールバー右上の`Share`ボタンから`Anyone with link`、隣のドロップダウンメニューから`can edit`を選択
+1. [課題ファイル](<https://www.figma.com/file/dvZBmWpDg7idV3cXwuchtW/(username)-Design-Course--Tutorial?node-id=0%3A1>)にアクセス
+2. 画像 1 枚目のようにツールバー中央のファイル名横の ▽ をクリックし、Duplicate を押して複製
+3. 複製したものを `(username)最終課題`の username を自分の名前に変える
+4. 複製したものをダブルクリックして中身を見る
+5. 画像のように ▽ をクリックして Move to Project から Drafts を選択
+6. ツールバー右上の`Share`ボタンから`Anyone with link`、隣のドロップダウンメニューから`can edit`を選択
 
-| Move to Project                                    | Anyone with link                         |
-| -------------------------------------------------- | ---------------------------------------- |
-| ![Move To Project](../../assets/moveToProject.png) | ![To Review](../../assets/toReview2.png) |
+| Move to Project                                     | Anyone with link                         |
+| --------------------------------------------------- | ---------------------------------------- |
+| ![Move To Project](../../assets/moveToProject2.png) | ![To Review](../../assets/toReview3.png) |
 
 ### ポイント
 
