@@ -41,12 +41,14 @@ Figma がチュートリアルを用意してくれています。
 教材を自分用に複製しましょう。  
 今後の課題はこの Figma のプロジェクトを使って行います。
 
-1. [課題ファイル](<https://www.figma.com/file/dvZBmWpDg7idV3cXwuchtW/(username)-Design-Course--Tutorial?node-id=0%3A1>)にアクセス([1.課題を始めましょう！](../introduction/)で招待の依頼をしていない人は閲覧権限がないので手順を確認して依頼してください)
-2. 画像 1 枚目のようにツールバー中央のファイル名横の ▽ をクリックし、Duplicate を押して複製
-3. 複製したものを (username) Design Course Tutorial の username を自分の名前に変える
-4. 複製したものをダブルクリックして中身を見る
-5. 2 と同様に ▽ をクリックして Move to Project から Drafts を選択
+1. [課題ファイル](<https://drive.google.com/drive/folders/1bzEbtRu-2dl_HnacDyHEUwxu11FoCxnU>)にアクセス
+2. ダウンロードした`(username)最終課題`の username を自分の名前に変える
+3. Figma上で、自身のteamの中に新規Projectを作る
+4. 新規Projectに上記のファイルをインポートする
+5. ダブルクリックして中身を見る
 6. ツールバー右上の`Share`ボタンから`Anyone with link`、隣のドロップダウンメニューから`can edit`を選択
+
+もし操作がわからない場合は[#dev_design](https://playground-universe.slack.com/archives/CJ3PDBCAZ）まで！
 
 | Move to Project                                     | Anyone with link                         |
 | --------------------------------------------------- | ---------------------------------------- |
