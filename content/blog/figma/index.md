@@ -48,7 +48,7 @@ Figma がチュートリアルを用意してくれています。
 5. ダブルクリックして中身を見る
 6. ツールバー右上の`Share`ボタンから`Anyone with link`、隣のドロップダウンメニューから`can edit`を選択
 
-もし操作がよく分からなさそうならデザインチャンネル（@dev_design）まで！
+もし操作がわからない場合は[#dev_design](https://playground-universe.slack.com/archives/CJ3PDBCAZ）まで！
 
 | Move to Project                                     | Anyone with link                         |
 | --------------------------------------------------- | ---------------------------------------- |
