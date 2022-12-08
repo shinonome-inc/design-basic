@@ -36,13 +36,13 @@ assignees: ""
 
 ### trace
 
-- [ ] [ヘッダーを作る](https://design-basic.netlify.app/trace/section3/)
 - [ ] [トップを作る](https://design-basic.netlify.app/trace/section4/)
 - [ ] [カフェ紹介を作る](https://design-basic.netlify.app/trace/section5/)
 - [ ] [カードを作る](https://design-basic.netlify.app/trace/section6/)
 - [ ] [ニュース・イベントを作る](https://design-basic.netlify.app/trace/section7/)
 - [ ] [プランを作る](https://design-basic.netlify.app/trace/section8/)
 - [ ] [フッターを作る](https://design-basic.netlify.app/trace/section9/)
+- [ ] [ヘッダーを作る](https://design-basic.netlify.app/trace/section3/)
 - [ ] [ページを完成させる](https://design-basic.netlify.app/trace/section10/)
 
 ### final
