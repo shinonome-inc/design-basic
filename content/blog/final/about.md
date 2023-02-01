@@ -45,8 +45,7 @@ time: "2 month"
 最終課題のデザインファイルの`ワイヤーフレーム`と書かれたページに  
 Swimmy を選んだ人は、[4−7−1−2.メンター(会員)スレッド詳細画面](https://docs.google.com/document/d/1NoOVgS-BqW0Ettp0dQcbaPsVN8Bj4FbNIjFM4Zl6TyI/edit#heading=h.ynv0811otxag)を、  
 ski を選んだ人は、[4−5−8.受講者マイページ](https://docs.google.com/document/d/1J-IS4ZAQcl91rUKKjJNXLZf44gyblkY-WneLKy4HpN4/edit#heading=h.6z89dblh1vhz)のワイヤーフレームを制作しましょう。  
-例も載せているので参考にしてください。  
-ここで一度レビュー依頼をしても構いません。
+例も載せているので参考にしてください。
 
 #### エンジニア向け説明ページを作る
 
