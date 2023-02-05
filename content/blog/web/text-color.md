@@ -69,10 +69,11 @@ h1,h2,h3 は見出しを表すものです。
 - [公式ドキュメント ~text styles~](https://help.figma.com/hc/en-us/articles/360039957034-Create-and-Apply-Text-Styles)
 - [公式ドキュメント ~color styles~](https://help.figma.com/hc/en-us/articles/360038746534-Create-styles-for-colors-text-effects-and-layout-grids#Text)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
 
+![sheet](../../assets/sheet.png)
 カラーはなぜこの命名規則でしょうか？  
-自分なりに考えて Study Diary に書いてみてください。
+自分なりに考えて 個人シート に書いてみてください。
 
 #### 今回やったこと
 

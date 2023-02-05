@@ -50,7 +50,9 @@ Pages は前の段階で学びましたね、今回は Layer について学び�
 
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360039831974-View-layers-and-assets-in-the-Layers-Panel)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

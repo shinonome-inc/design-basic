@@ -40,7 +40,9 @@ time: "18 min"
 
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360039825314-Getting-started-with-comments)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

@@ -109,7 +109,9 @@ Space を押しながらドラッグをすることで`ハンドモード`にな
 - [公式ドキュメント ~canvas~](https://help.figma.com/hc/en-us/articles/360041064814-Explore-the-Canvas)
 - [公式ドキュメント ~余白の計測~](https://help.figma.com/hc/en-us/articles/360039956974-Measure-distances-between-objects)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

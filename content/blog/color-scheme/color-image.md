@@ -39,7 +39,9 @@ time: "20min"
 
 ![color-plot](./img/color-plot.png)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

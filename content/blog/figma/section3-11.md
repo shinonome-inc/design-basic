@@ -50,7 +50,9 @@ Variants 機能はコンポーネントの管理をよりわかりやすくで�
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360055471353-Prepare-for-variants)
 - [Variants と component の使い分け(とても重要！！)](https://blog.shinonome.io/component-variants/)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

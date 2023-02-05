@@ -58,7 +58,9 @@ Hex または RGB が無難でしょう。
 - [公式ドキュメント ~smart selection~](https://help.figma.com/hc/en-us/articles/360040667874-Create-unique-effects-with-Blend-modes)
 - [色彩基本](https://www.swtoo.com/support/cube/tech-cube/10-1/)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

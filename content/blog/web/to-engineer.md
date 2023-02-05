@@ -136,8 +136,9 @@ Web ページの幅は可変です。
 - [interactive components](https://help.figma.com/hc/en-us/articles/360061175334-Create-interactive-components-with-variants)
 - [エンジニアが知りたいアニメーション](https://qiita.com/7968/items/812d6a21fc4dd9ae9c75)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
 
+![sheet](../../assets/sheet.png)
 地道で面倒な作業に思えるかもしれませんがこれをしないとエンジニアの確認するコストが増え、負荷がかかってしまいます。  
 デザインをするということは使うユーザーやサービスを実装するエンジニアを思いやることです。
 

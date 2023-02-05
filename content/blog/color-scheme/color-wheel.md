@@ -78,7 +78,9 @@ time: "20min"
 - [デザイナーじゃなくても知っておきたい色と配色の基本](https://baigie.me/officialblog/2021/01/27/color_theory/)
 - [デザイン戦略](https://twitter.com/arai_yusaku/status/1485768024632492033?t=5PmbOrzUgzSqZvOlFsDm-Q&s=19)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

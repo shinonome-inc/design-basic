@@ -66,7 +66,9 @@ time: "30 min"
 - [公式ドキュメント ~overflow behavior~](https://help.figma.com/hc/en-us/articles/360039818734-Prototype-scrolling-with-overflow-behavior)
 - [[日本語訳] Interactive Components](https://www.figma.com/community/file/1035069535593573222)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

@@ -119,7 +119,9 @@ https://www.figma.com/community/plugin/738454987945972471/Unsplash
 - [公式ドキュメント ~plugin~](https://help.figma.com/hc/en-us/articles/360040450413-Find-and-install-plugins)
 - [公式ドキュメント ~file~](https://help.figma.com/hc/en-us/articles/360038510693-Guide-to-Figma-Community)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

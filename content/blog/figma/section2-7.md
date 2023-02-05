@@ -90,7 +90,9 @@ Gutter: マージン
 - [公式ドキュメント ~view settings~](https://help.figma.com/hc/en-us/articles/360041065034-Adjust-your-view-settings-in-the-Editor)
 - [公式ドキュメント ~ruler~](https://help.figma.com/hc/en-us/articles/360040449713-Add-Guides-to-the-Canvas-or-a-Frame)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

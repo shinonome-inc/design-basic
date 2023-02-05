@@ -53,7 +53,9 @@ time: "13 min"
 - [公式ドキュメント ~file~](https://help.figma.com/hc/en-us/articles/360038006474-Interact-with-files#Access_the_file_menu)
 - [公式ドキュメント ~version history~](https://help.figma.com/hc/en-us/articles/360038006754-View-a-file-s-version-history)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

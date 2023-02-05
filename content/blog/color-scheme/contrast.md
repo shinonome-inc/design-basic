@@ -37,7 +37,9 @@ time: "20min"
 コントラスト比は背景色とテキストやアイコンの比率でしたが、配色パレットが色盲の方にとって優しくない場合もあります。  
 こちらも[Adobe Color](https://color.adobe.com/ja/create/color-accessibility)で用意されていますので、積極的に利用しましょう。
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

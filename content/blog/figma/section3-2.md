@@ -65,7 +65,9 @@ Distribute Horizontal Spacing: 水平方向に等間隔
 - [公式ドキュメント ~alignment~](https://help.figma.com/hc/en-us/articles/360039956914-Adjust-alignment-dimensions-rotation-and-position)
 - [公式ドキュメント ~smart selection~](https://help.figma.com/hc/en-us/articles/360040450233-Arrange-objects-with-Smart-Selection)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

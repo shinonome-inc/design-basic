@@ -27,7 +27,9 @@ time: "13 min"
 
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360040450253-Masks)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 

@@ -52,8 +52,9 @@ time: "25 min"
 [[right | Responsiveモードに切り替えをすれば1px単位で画面幅を変えることができます。</br>色々試して遊んでみてください。]]
 | ![dropdown](./img/dropdown.png)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
 
+![sheet](../../assets/sheet.png)
 bootstrap とはフロントエンド でよく使う CSS フレームワークのことです。  
 Twitter 社が作っており、幅広く使われています。  
 ブレークポイントなどデザインシステムがよく考えられて設計されているので真似しましょう。

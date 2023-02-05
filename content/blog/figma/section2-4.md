@@ -68,7 +68,9 @@ Figma のコンポーネント機能では、`コンポーネント`という親
 
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-Components-in-Figma)
 
-### Study Diary を書きましょう！
+### 個人シートに学んだことを記入しましょう！
+
+![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 
