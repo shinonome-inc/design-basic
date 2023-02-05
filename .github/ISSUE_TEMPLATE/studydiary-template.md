@@ -45,11 +45,6 @@ assignees: ""
 - [ ] [ヘッダーを作る](https://design-basic.netlify.app/trace/section3/)
 - [ ] [ページを完成させる](https://design-basic.netlify.app/trace/section10/)
 
-### final
-
-- [ ] [最終課題画面遷移図](https://design-basic.netlify.app/final/chart/)
-- [ ] [最終課題トップページ制作](https://design-basic.netlify.app/final/top/)
-
 ## ここでやること
 
 1. 終わったら該当の課題にチェックを入れる
