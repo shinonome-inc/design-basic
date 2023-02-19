@@ -26,7 +26,7 @@ constraints を設定することによって、フレームのサイズが変�
 
 ### constraints の無視
 
-`commandキー`を押しながらサイズ変更をすることで constraints を無視したサイズ変更が可能です。
+`commandキー(ctrl)`を押しながらサイズ変更をすることで constraints を無視したサイズ変更が可能です。
 
 ### 参考
 

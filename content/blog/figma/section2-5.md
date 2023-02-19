@@ -42,7 +42,7 @@ time: "20 min"
 
 ### 結合・合成したパスを一つのパスに変換する
 
-ショートカットキー：`Command + E`
+ショートカットキー：`Command(ctrl) + E`
 
 [[right | 結合・合成したオブジェクトをレイヤーリストで確認すると、画像のように結合・合成前の情報が残っており、1 つのパスに変換はされていません。<br/>ここで 1 つのパスに変換させる操作を`Flatten Selection`と言います。<br/>Flatten Selection は、適応させたい結合・合成したオブジェクトを選択します。<br/>メニューバー中央から Flatten Selection を選択することで適応させることが出来ます。]]
 | ![before-flatten](./img/before-flatten.png)

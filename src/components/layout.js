@@ -40,7 +40,7 @@ const Layout = ({ location, children, nav, top }) => {
     <section className="aside-list container">
       <div className="card-list">
         <Link
-          to="https://www.notion.so/0da57c003ede4c559398e28f50e3af65"
+          to="https://www.notion.so/393b26f7d39e4ba7a264948497cba778"
           itemProp="url"
           className="card"
           target="_blank"
