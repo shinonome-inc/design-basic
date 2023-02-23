@@ -27,6 +27,41 @@ Atomic Design(アトミックデザイン)とは、画面を構成する要素�
 `atoms(原子）`,`molecules（分子）`,`organisms(有機体）`,`templates(テンプレート）`,`pages(ページ）`の階層の明確な分け方はありません。  
 わかりやすく整理されており、他者から見てもわかりやすいようであれば`templates`の階層が存在しないなどもありえます。
 
+`atoms`
+
+定義：これ以上分解できないもの。iconはassetsに分類されるため、textとiconが合わさったものはatomsに含めません。
+
+assetsについては、後で説明します。
+
+パーツ例：text-link , button , icon（default , hover , selectedなど状態管理）, text-field , text-area , badge , avator , chat bubble , divider , dropdown（1項目でのdefault , hover , selectedなど状態管理）, toggle , tooltip
+
+
+`molecules`
+
+定義：独立して存在できるコンポーネントではなく、ほかのコンポーネントの機能を助けるヘルパーとしての存在意義が強いコンポーネント
+
+パーツ例：breadcrumb , card , list , check-box（icon+textの状態） , modal , snack-bar , pagination , progerss-bar , slider , tab
+
+
+`organisms`
+
+定義：独立して存在できるスタンドアローンなコンポーネント
+
+パーツ例：header , footer , cards , lists , calendar , carousel , chart , chat , table , 
+
+
+`templates`
+
+定義：実際にありうるテキストや画像を入れる前の状態。ここでレイアウトの確認をする。
+
+
+`pages`
+
+定義：完成した画面。実際にありうるテキストや画像を流し込む。
+
+パーツ名がわからない場合は[ここ](https://csslayout.io/)をチェック
+
+
 ### 命名規則
 
 コンポーネントは命名の仕方がとても大事です。  
