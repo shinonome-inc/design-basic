@@ -27,7 +27,7 @@ Atomic Design(アトミックデザイン)とは、画面を構成する要素�
 `atoms(原子）`,`molecules（分子）`,`organisms(有機体）`,`templates(テンプレート）`,`pages(ページ）`の階層の明確な分け方はありません。  
 わかりやすく整理されており、他者から見てもわかりやすいようであれば`templates`の階層が存在しないなどもありえます。
 
-`atoms`
+#### atoms
 
 定義：これ以上分解できないもの。iconはassetsに分類されるため、textとiconが合わさったものはatomsに含めません。
 
