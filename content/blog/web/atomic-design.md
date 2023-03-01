@@ -36,7 +36,7 @@ assetsについては、後で説明します。
 パーツ例：text-link , button , icon（default , hover , selectedなど状態管理）, text-field , text-area , badge , avator , chat bubble , divider , dropdown（1項目でのdefault , hover , selectedなど状態管理）, toggle , tooltip
 
 
-`molecules`
+#### molecules
 
 定義：独立して存在できるコンポーネントではなく、ほかのコンポーネントの機能を助けるヘルパーとしての存在意義が強いコンポーネント
 
