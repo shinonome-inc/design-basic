@@ -50,7 +50,7 @@ assetsについては、後で説明します。
 パーツ例：header , footer , cards , lists , calendar , carousel , chart , chat , table
 
 
-`templates`
+#### templates
 
 定義：実際にありうるテキストや画像を入れる前の状態。ここでレイアウトの確認をする。
 
