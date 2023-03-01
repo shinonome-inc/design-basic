@@ -43,7 +43,7 @@ assetsについては、後で説明します。
 パーツ例：breadcrumb , card , list , check-box（icon+textの状態） , modal , snack-bar , pagination , progerss-bar , slider , tab
 
 
-`organisms`
+#### organisms
 
 定義：独立して存在できるスタンドアローンなコンポーネント
 
