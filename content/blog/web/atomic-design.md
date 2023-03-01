@@ -47,7 +47,7 @@ assetsについては、後で説明します。
 
 定義：独立して存在できるスタンドアローンなコンポーネント
 
-パーツ例：header , footer , cards , lists , calendar , carousel , chart , chat , table , 
+パーツ例：header , footer , cards , lists , calendar , carousel , chart , chat , table
 
 
 `templates`
