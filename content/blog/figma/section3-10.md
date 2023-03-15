@@ -93,10 +93,15 @@ Auto layout を適用している frame の幅や高さがどのように振る�
 Resizing には以下の３種類があります。
 
 ```
-・Hug contents: 子要素の幅に合わせて可変
-・Fill container: 親要素いっぱいに広げる
-・Fixed width/height: 幅/高さ固定
+・Hug contents: 子要素の幅に合わせて可変。Hugとは抱きつくのハグです。子要素に抱きつくイメージです。
+・Fill container: 親要素いっぱいに広げる。Fillはいっぱいに埋めるという意味です。親要素に対していっぱいに広がるイメージです。
+・Fixed width/height: 幅/高さ固定。Fixedは固定という意味です。親要素・子要素に関係なく、サイズを固定します。
 ```
+
+### Absolute position
+
+[[right | auto layoutで組むとすべての要素が、設定した並び順やpadding、間隔幅に従って並んでしまいます。<br/>absolute positionを使うことで、要素ごとに位置を固定で指定できます。<br/>absolute positionはauto layoutを起動しないとプロパティパネル上に出てこないので注意しましょう。]]
+| ![advanced-layout](./img/absolute-position.png)
 
 この辺りは慣れが必要なので、サイトでよく使われるパーツはどういう風に作れるか考え、手を動かすなどの努力が必要です。  
 [参考リンク](https://bagelee.com/design/figma-auto-layout-update/)
