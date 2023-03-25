@@ -23,6 +23,8 @@ time: "125 min"
 ・このセクションで使う色: #000000, #ffffff, #999999, #f5f5f5
 ```
 
+振り返りましょう：[ブレークポイント](https://design-basic.netlify.app/web/device/)、[カラー登録](https://design-basic.netlify.app/web/text-color/#:~:text=%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82-,%E3%82%AB%E3%83%A9%E3%83%BC%E3%81%AE%E5%91%BD%E5%90%8D,-%E3%82%AB%E3%83%A9%E3%83%BC%E3%81%AE%E5%91%BD%E5%90%8D)
+
 ### 考慮すべき点・ヒント
 
 - マウスアクションに注意しましょう。
