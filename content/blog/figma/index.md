@@ -41,12 +41,12 @@ Figma がチュートリアルを用意してくれています。
 教材を自分用に複製しましょう。  
 今後の課題はこの Figma のプロジェクトを使って行います。
 
-1. [課題ファイル](https://drive.google.com/drive/folders/1bzEbtRu-2dl_HnacDyHEUwxu11FoCxnU)にアクセスしダウンロード
+1. [課題ファイル](https://drive.google.com/drive/folders/1bzEbtRu-2dl_HnacDyHEUwxu11FoCxnU)にアクセスし`(username)Design Course Tutorial.fig`ダウンロード
 ※ダウンロードしたファイルはブラウザ上で開かないでください！
 2. Figma 上で、自身の team 内の team project を開いて、右上のアイコンから上記のファイルをインポートする。
 ![import](./img/move-to-project.png) 
 3. インポートしたデザインファイルをダブルクリックして開く
-4. `(username)Design Course  Tutorial`の username を自分の名前に変更
+4. `(username)Design Course Tutorial`の username を自分の名前に変更
 ![import](./img/change-filename.png) 
 5. ツールバー右上の`Share`ボタンから`Anyone with link`、隣のドロップダウンメニューから`can edit`を選択
 
