@@ -42,17 +42,19 @@ Figma がチュートリアルを用意してくれています。
 今後の課題はこの Figma のプロジェクトを使って行います。
 
 1. [課題ファイル](https://drive.google.com/drive/folders/1bzEbtRu-2dl_HnacDyHEUwxu11FoCxnU)にアクセスしダウンロード
-2. ダウンロードした`(username)最終課題`の username を自分の名前に変更
-3. Figma 上で、自身の team を作成し、その中に新規 Project を作る
-4. 新規 Project の右上のアイコンから上記のファイルをインポートする
-5. ダブルクリックしてデザインファイルを開く
-6. ツールバー右上の`Share`ボタンから`Anyone with link`、隣のドロップダウンメニューから`can edit`を選択
+※ダウンロードしたファイルはブラウザ上で開かないでください！
+2. Figma 上で、自身の team 内の team project を開いて、右上のアイコンから上記のファイルをインポートする。
+![import](./img/move-to-project.png) 
+3. インポートしたデザインファイルをダブルクリックして開く
+4. `(username)Design Course  Tutorial`の username を自分の名前に変更
+![import](./img/change-filename.png) 
+5. ツールバー右上の`Share`ボタンから`Anyone with link`、隣のドロップダウンメニューから`can edit`を選択
+
+| To Review                                |
+| ---------------------------------------- |
+| ![To Review](../../assets/toReview3.png) |
 
 もし操作がわからない場合は Slack の[#dev_design](https://playground-universe.slack.com/archives/CJ3PDBCAZ)チャンネルまで！
-
-| チーム作成とインポート             | Move To Project                                     | To Review                                |
-| ---------------------------------- | --------------------------------------------------- | ---------------------------------------- |
-| ![import](../../assets/import.png) | ![Move To Project](../../assets/moveToProject2.png) | ![To Review](../../assets/toReview3.png) |
 
 ### Figma の機能のある場所
 
