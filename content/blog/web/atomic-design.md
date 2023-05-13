@@ -96,7 +96,7 @@ Atomic Design をする上でパーツは全て Figma のコンポーネント�
 理解できない部分は手を動かしたり調べたりしましょう。
 
 ### 参考
-
+- (username) Design Course Tutorial の`Atomic Designの参考`と書かれたページ
 - [命名規則について](https://designsupply-web.com/media/development/4052/)
 
 #### 今回やったこと
