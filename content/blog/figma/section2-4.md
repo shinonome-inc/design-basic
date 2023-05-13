@@ -65,7 +65,7 @@ Figma のコンポーネント機能では、`コンポーネント`という親
 同じようなパーツを複数使う場合はコンポーネントすることが必要不可欠です。
 
 ### 参考
-
+- (username) Design Course Tutorial の`Component , Instanceの参考`と書かれたページ
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-Components-in-Figma)
 
 ### 個人シートに学んだことを記入しましょう！
