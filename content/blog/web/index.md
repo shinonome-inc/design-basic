@@ -48,7 +48,8 @@ time: "40 min"
 | ![icon](./img/icon-parts.png) | ![line](./img/line-parts.png) |
 
 これらのロジックパーツはプロジェクト共通のものです。  
-パーツを使う際は、Figma 左サイドバーの`Assets`→`Shinonome Logic parts` から使用しましょう。  
+パーツを使う際は、Figma 左サイドバーの`Assets`→`Shinonome Logic parts` から使用しましょう。 
+ラインパーツは`Shinonome Logic parts`→`Logic Parts List`にあるラインパーツをコピペして使いましょう。
 また、オリジナルのアイコン等を作る場合は、必ずコンポーネント化しましょう。  
 **※Assets にローカルのパーツしかない場合は Assets の本のアイコンから、Shinonome Logic parts が適用されているか確認しましょう。**
 
