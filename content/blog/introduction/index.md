@@ -23,12 +23,12 @@ time: "20 min"
 2. メールアドレスとパスワードを入力するとアンケートが表示されるので、名前と役職を回答しましょう。これらの情報は後から変更もできます。
 3. `Create Account`をクリックして、アカウントの作成は完了です。編集画面が表示され、チュートリアルが始まるので`Next`をクリックします。2 枚目でチームを作成するよう推奨されますが、個人利用の場合は必要ありませんので、左上の`Cancel`ボタンで離脱しましょう。
 4. **Shinonome のチームに招待をするので [#help_center](https://playground-universe.slack.com/archives/C03DYNDKC8G) で 以下の文章を参考に Figma の登録メールアドレスを伝えて、招待してもらいましょう。**
-
 ```
 FigmaのShinonomeチームの招待をお願いします。
 メールアドレス: example.com
 ```
-
+5. Figma Educationプランに参加する。 [マニュアル](https://www.notion.so/shinonome-inc/Figma-Education-3c0f8529e2c0419686b2674219777b89)のリンクに従って進めてください。
+ 
 ### 個人シートにチェックを入れましょう！
 
 #### 今回やったこと
