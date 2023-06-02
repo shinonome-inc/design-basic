@@ -8,29 +8,69 @@ labels: ["wisdom"]
 
 ### わからないことがあった時
 
-- 課題のやり方がわからないなど教材に関することは、PGrit で`#design_review`のタグをつけてトゥートすることによって講師が確認します。
-- 考えすぎず考えましょう。質問するタイミングは教材・公式ドキュメントをよく読んで`+15 分`調べた時です。  
-  [参考記事](https://qiita.com/seki_uk/items/4001423b3cd3db0dada7)  
-  まずは[質問ページ](https://github.com/shinonome-inc/design-basic/issues?q=is%3Aissue+label%3AQuestion+)に自分の疑問点が載っていないか確認しましょう。
+<details>
+  <summary>質問までの流れ</summary>
+  
+  #### Step1
+  
+  現状を整理する
+  
+  - 自分が取り組んでいること
+  
+  - 分かっていることは何か
+  
+  - 分からないことは何か、どこでつまづいているのか
+  
+  
+  #### Step2
+  
+  整理した内容から検索キーワードを見つけましょう。
 
-### Question issue を立てましょう！
+  キーワードを使ってブラウザやfigmaの公式サイト、youtube、[note.com](https://note.com/)で参考を探しましょう。
 
-質問ページにもなければ自分で質問しましょう！
-[markdown 記法](https://qiita.com/Minalinsky_1911/items/b684cfabe0f2fde0c67b)で書いてみてください。
+  15分ほど調べて見つからなければ、Step3に移りましょう。
+  
+  
+  #### Step3
 
-1. [issue ページ](https://github.com/shinonome-inc/design-basic/issues)にアクセス
-2. 右上の`New issue`をクリック
-3. `Question Template`の`Get started`をクリック
-4. title の`Question Title`をわからないことに即した名前に変更、Assignees に自分を選択する
-5. Labels から自分のわからないセクションを選択する
-6. 項目を**全て**埋める
-7. 右下の`Submit new issue`をクリックする
-8. 疑問点が解決したら、どのように解決したかを記述し`Close issue`をクリック
+  `Pgrit`で`#design_QA`をつけて質問する。
 
-| New issue                        | Get started                           |
-| -------------------------------- | ------------------------------------- |
-| ![New issue](./img/newIssue.png) | ![Get started](./img/getStartedQ.png) |
+  雑な質問にならないように注意。
 
-| Question Template の書き方                             |
-| ------------------------------------------------------ |
-| ![Question Template の書き方](./img/howToQuestion.png) |
+  - 「〇〇ってなんのことですか？？」
+  
+  - 「〇〇を教えてください」
+
+  丸投げはダメです。
+  
+  良い質問は情報が多いです。
+  
+  情報が多いと意図が回答者に伝わりやすく、回答が適格で容易になります。
+  
+  `テンプレート`
+  
+  > 質問：どうすれば○○することができるのか。<br>現状：試したこと、「○○　○○」で検索した<br>添付資料：Figmaファイルのリンク、スクショ
+
+</details>
+
+<details>
+  <summary>課題の完成度に不安な時</summary>
+  
+  課題の完成度に不安な時は、講師に`PGrit`でレビュー依頼をしましょう。
+  
+  `テンプレート`
+  
+  > #design_QA<br>chapter〇〇の課題ができているか不安です。<br>〇〇のレビューお願いします！<br>Figmaのリンクを添付
+  
+ </details>
+ 
+ <details>
+  <summary>定例会・作業会</summary>
+  
+  毎週実施している定例会や作業会ではその場ですぐに問題を解決できます。
+  
+  この機会を生かしてつまずいて悩む時間を減らしていきましょう！
+  
+  [定例会・作業会について](https://www.notion.so/393b26f7d39e4ba7a264948497cba778)
+  
+ </details>
