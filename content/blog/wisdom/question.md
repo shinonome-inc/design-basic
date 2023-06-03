@@ -18,7 +18,7 @@ labels: ["wisdom"]
   
 キーワードを使ってブラウザやfigmaの公式サイト、youtube、[note.com](https://note.com/)で参考を探しましょう。<br>15分ほど調べて見つからなければ、Step3に移りましょう。
   
-#### Step3　`Pgrit`で`#design_QA`をつけて質問する。
+#### Step3　Pgritで`#design_QA`をつけて質問する。
 
 雑な質問にならないように注意。
 - 「〇〇ってなんのことですか？？」
@@ -34,7 +34,7 @@ labels: ["wisdom"]
 課題の完成度に不安な時は、講師に`PGrit`でレビュー依頼をしましょう。
   
 `テンプレート`
-> #design_QA<br>chapter〇〇の課題ができているか不安です。<br>〇〇のレビューお願いします！<br>Figmaのリンクを添付
+> design_QA<br>chapter〇〇の課題ができているか不安です。<br>〇〇のレビューお願いします！<br>Figmaのリンクを添付
   
 ### 定例会・作業会
   
