@@ -34,7 +34,7 @@ labels: ["wisdom"]
 課題の完成度に不安な時は、講師にPgritで`#design_review`をつけてレビュー依頼をしましょう。
   
 **レビュー依頼のテンプレート**
-> `#design_QA`<br>chapter〇〇の課題ができているか不安です。<br>〇〇のレビューお願いします！<br>Figmaのリンクを添付
+> `#design_review`<br>chapter〇〇の課題ができているか不安です。<br>〇〇のレビューお願いします！<br>Figmaのリンクを添付
   
 ### 定例会・作業会
   
