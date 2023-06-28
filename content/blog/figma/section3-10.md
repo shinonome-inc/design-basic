@@ -45,24 +45,6 @@ Auto layout には主に 3 つの機能があります。
 [[right | Advanced layoutは画像の3点リーダーをクリックして現れるウィンドウ内の機能です。<br/>順番に見ていきましょう。]]
 | ![advanced-layout](./img/advanced-layout.png)
 
-#### Spacing mode
-
-Spacing mode は名前の通り、間隔を設定することのできる機能で 2 種類あります。
-
-```
-・Space between: アイテムを均等に配置し最初のアイテムは先頭に寄せ、最後のアイテムは末尾に寄せる
-・Packed: 余白通り配置(通常配置)
-```
-
-Space between は後述する Resizing を Hug 以外に設定しないと意味がないので注意が必要です。
-
-| Space between                                 | Packed                                      |
-| --------------------------------------------- | ------------------------------------------- |
-| ![spacing-between](./img/spacing-between.png) | ![spacing-packed](./img/spacing-packed.png) |
-
-ここからはそこまで重要ではないかつわかりやすいので画像のみの説明にします。  
-Preview に表示されるので想像がつくかと思いますが、それでもわからない場合は自分で手を動かしてみたり公式ドキュメントを検索してみてください。
-
 #### Strokes
 
 | Excluded                                        | Included                                        |
