@@ -31,7 +31,7 @@ Figma では、以下のスタイルを登録することができます。
 ### Shinonome のテキスト
 
 Shinonome ではテキストを`atoms/text`と位置付けてコンポーネントを統一して使っています。  
-右サイドバーの`Assets`の`Shinonome Text Styles`から`text-wrap`を持ってきて構造を見てみましょう。  
+左サイドバーの`Assets`の`Shinonome Text Styles`から`text-wrap`を持ってきて構造を見てみましょう。  
 テキストが`margin`と`padding`という名前の Auto layout でラップされているのがわかると思います。  
 これからテキストを使う際には **Shinonome の text-wrap を使いましょう。**
 
