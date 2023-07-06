@@ -26,17 +26,11 @@ time: "2 month"
 
 ### 準備 1. 最終課題用のデザインファイル を用意する
 
-1. [課題ファイル](https://drive.google.com/drive/folders/1bzEbtRu-2dl_HnacDyHEUwxu11FoCxnU?usp=sharing)にアクセス
-2. ダウンロードした`(username)最終課題`の username を自分の名前に変更
-3. Figma 上で、自身の team の Project の右上のアイコンから上記のファイルをインポートする
-4. ダブルクリックしてデザインファイルを開く
-5. ツールバー右上の`Share`ボタンから`Anyone with link`、隣のドロップダウンメニューから`can edit`を選択
+![import](./img/create-finalfile-1.png)
 
-もし操作がわからない場合は Slack の[#dev_design](https://playground-universe.slack.com/archives/CJ3PDBCAZ)チャンネルまで！
+![import](./img/create-finalfile-2.png)
 
-| チーム作成とインポート             | Move To Project                                     | To Review                                |
-| ---------------------------------- | --------------------------------------------------- | ---------------------------------------- |
-| ![import](../../assets/import.png) | ![Move To Project](../../assets/moveToProject2.png) | ![To Review](../../assets/toReview3.png) |
+![import](./img/create-finalfile-3.png)
 
 ### 準備 2. 大まかな製作の流れを把握する
 
