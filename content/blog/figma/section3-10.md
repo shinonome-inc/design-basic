@@ -67,19 +67,17 @@ Auto layout には主に 3 つの機能があります。
 
 Auto layout で重要なものの 1 つが Resizing です。  
 Auto layout を適用している frame の幅や高さがどのように振る舞うべきか設定できる機能です。
+Resizing には以下の３種類があります。
+・Fixed width/height: 幅/高さ固定。Fixedは固定という意味です。親要素・子要素に関係なく、サイズを固定します。
+・Hug contents: 子要素の幅に合わせて可変。Hugとは抱きつくのハグです。子要素に抱きつくイメージです。
+・Fill container: 子要素にのみ使用できる。Fillはいっぱいに埋めるという意味です。親要素に対していっぱいに広がるイメージです。
+
 
 | resizing                        | 種類                                      |
 | ------------------------------- | ----------------------------------------- |
 | ![resizing](./img/resizing.png) | ![resizing-kind](./img/resizing-kind.png) |
 
-Resizing には以下の３種類があります。
-
-```
-・Hug contents: 子要素の幅に合わせて可変。Hugとは抱きつくのハグです。子要素に抱きつくイメージです。
-・Fill container: 親要素いっぱいに広げる。Fillはいっぱいに埋めるという意味です。親要素に対していっぱいに広がるイメージです。
-・Fixed width/height: 幅/高さ固定。Fixedは固定という意味です。親要素・子要素に関係なく、サイズを固定します。
-```
-
+ ![resizing](./img/Resizing-1.png)　 ![resizing](./img/Resizing-2.png)　 ![resizing](./img/Resizing-3.png)
 ### Absolute position
 
 [[right | auto layoutで組むとすべての要素が、設定した並び順やpadding、間隔幅に従って並んでしまいます。<br/>absolute positionを使うことで、要素ごとに位置を固定で指定できます。<br/>absolute positionはauto layoutを起動しないとプロパティパネル上に出てこないので注意しましょう。]]
