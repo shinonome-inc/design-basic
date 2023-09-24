@@ -11,11 +11,11 @@ time: "20 min"
 ## Auto layout
 
 Auto layout 機能とは padding(余白) を自動で調整してくれたり、要素をリストのように等間隔で並べたい時などに重宝する機能です。  
-Auto layout には主に 3 つの機能があります。
+Auto layout には主に4つの機能があります。
 
 - padding(余白)をつける
 - 等間隔に並べる
-- Advanced layout
+- Resizing
 - Absolute position
 
 順番に見ていきましょう。
@@ -38,32 +38,10 @@ Auto layout には主に 3 つの機能があります。
 [[right | 要素を等間隔で並べる際も Auto layout が役立ちます。<br/>要素の追加・削除はもちろん、並び替えもとても簡単にできるようになります。<br/>画像はボタンを等間隔に並べています。<br/>左側の枠線で囲われている部分の矢印で横向きまたは縦向きに並べるのか設定でき、数値を変えることで間隔を調整することができます。]]
 | ![auto-layout-list](./img/auto-layout-list2.png)
 
-### 3.Advanced layout
+[[right | 右の画像で示している部分をクリックすると、Autoという選択がでてきます<br/>このAutoを設定すると、親フレームに対して複数の子要素がいっぱいに広がります。]]
+| ![space-between](./img/space-between.png)
 
-ここからは Advanced layout の項目について説明します。  
-とても理解しづらいと思いますが数をこなして体で覚えていきましょう。  
-[[right | Advanced layoutは画像の3点リーダーをクリックして現れるウィンドウ内の機能です。<br/>順番に見ていきましょう。]]
-| ![advanced-layout](./img/advanced-layout.png)
-
-#### Strokes
-
-| Excluded                                        | Included                                        |
-| ----------------------------------------------- | ----------------------------------------------- |
-| ![strokes-excluded](./img/strokes-excluded.png) | ![strokes-included](./img/strokes-included.png) |
-
-#### Canvas stacking
-
-| First                                                     | Last                                                    |
-| --------------------------------------------------------- | ------------------------------------------------------- |
-| ![canvas-stacking-first](./img/canvas-stacking-first.png) | ![canvas-stacking-last](./img/canvas-stacking-last.png) |
-
-#### Text baseline alignment
-
-| -                                   | ✔︎                                              |
-| ----------------------------------- | ----------------------------------------------- |
-| ![baseline--](./img/baseline--.png) | ![baseline-checked](./img/baseline-checked.png) |
-
-### Resizing
+### 3.Resizing
 
 Auto layout で重要なものの 1 つが Resizing です。
 
@@ -82,7 +60,7 @@ Resizing には以下の３種類があります。
 | ![resizing](./img/resizing.png) | ![resizing-kind](./img/resizing-kind.png) |
 
  ![resizing](./img/Resizing-1.png)　 ![resizing](./img/Resizing-2.png)　 ![resizing](./img/Resizing-3.png)
-### Absolute position
+### 4.Absolute position
 
 [[right | auto layoutで組むとすべての要素が、設定した並び順やpadding、間隔幅に従って並んでしまいます。<br/>absolute positionを使うことで、要素ごとに位置を固定で指定できます。<br/>absolute positionはauto layoutを起動しないとプロパティパネル上に出てこないので注意しましょう。]]
 | ![advanced-layout](./img/absolute-position.png)
