@@ -50,11 +50,6 @@ time: "30 min"
 実機で確認したい場合、`Figma Mirror`というスマホアプリを使うことで Wi-fi 経由でプレビューを見ることができます。  
 [https://www.figma.com/mirror](https://www.figma.com/mirror) にアクセスすることで別タブでプレビューを見ることもできます。
 
-### 使用イメージ
-
-各自どのような動きが表現できるか見てみてください。  
-[UI trace](https://www.figma.com/file/7buIRsaS1jXgZYCbjcVMgt/UITrace?node-id=0%3A1)
-
 ### 個人シートに学んだことを記入しましょう！
 
 ![sheet](../../assets/sheet.png)
