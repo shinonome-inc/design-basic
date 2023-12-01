@@ -45,6 +45,9 @@ time: "30 min"
 
 [Figmaの公式動画](https://www.youtube.com/watch?v=-sAAa-CCOcg)
 
+### Prototype~アウトプット編~
+[実際に手を動かしてPrototypeを作成してみましょう！](https://www.figma.com/file/a2IGhlupZwZ1SLgnZU9h82/%E7%B7%A8%E9%9B%86%E7%A6%81%E6%AD%A2%EF%BC%81%EF%BC%81-(username)-Web-Design-Tutorial?type=design&node-id=3040-434&mode=design&t=OOzoeUJWfKkBXbZF-4)
+
 ### Figma Mirror
 
 実機で確認したい場合、`Figma Mirror`というスマホアプリを使うことで Wi-fi 経由でプレビューを見ることができます。  
