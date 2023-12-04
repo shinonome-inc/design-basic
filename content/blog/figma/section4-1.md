@@ -46,7 +46,8 @@ time: "30 min"
 [Figmaの公式動画](https://www.youtube.com/watch?v=-sAAa-CCOcg)
 
 ### プロトタイプ アウトプット編
-[実際に手を動かしてプロトタイプを作成してみましょう！](https://www.figma.com/file/a2IGhlupZwZ1SLgnZU9h82/%E7%B7%A8%E9%9B%86%E7%A6%81%E6%AD%A2%EF%BC%81%EF%BC%81-(username)-Web-Design-Tutorial?type=design&node-id=3040-434&mode=design&t=OOzoeUJWfKkBXbZF-4)
+[実際に手を動かしてプロトタイプを作成してみましょう！]
+<img width="687" alt="スクリーンショット 2023-12-04 21 18 26" src="https://github.com/shinonome-inc/design-basic/assets/107894481/03aa9aa4-2a49-4416-8443-dab4dd3b8ccd">
 
 ### Figma Mirror
 
