@@ -59,7 +59,7 @@ assetsについては、後で説明します。
 
 定義：完成した画面。実際にありうるテキストや画像を流し込む。
 
-パーツ名がわからない場合は、[pinterest](https://www.pinterest.jp/)で「パーツ名　ui」とデザイン例を調べたり、[ここ](https://csslayout.io/)をチェックしたりしましょう。
+パーツ名がわからない場合は、[pinterest](https://www.pinterest.jp/)で「パーツ名　ui」とデザイン例を調べたり、[ここ](https://phuoc.ng/collection/css-layout/)をチェックしたりしましょう。
 
 
 ### 命名規則
