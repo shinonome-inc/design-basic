@@ -47,7 +47,7 @@ Shinonome ではテキストを`atoms/text`と位置付けてコンポーネン�
 
 | text-wrap                         | margin と padding                       |
 | --------------------------------- | --------------------------------------- |
-| ![Color Styles](./img/marginPadding.png) |
+| ![text-wrap](./img/text-wrap.png) | ![Text Styles](./img/marginPadding.png) |
 
 #### テキストの命名
 
