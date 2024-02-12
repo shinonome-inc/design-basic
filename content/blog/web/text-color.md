@@ -19,11 +19,19 @@ Figma では、以下のスタイルを登録することができます。
 - フォント
 
 登録することによって、使っているスタイルが可視化され、エンジニアが実装しやすく、サイト全体の統一感にも繋がります。  
+
+カラーやテキストの指定をしている部分をホバーすると`４つのドット`が出現し、すでに登録されているスタイルを選択・適用したり、`+`ボタンから新しく登録することができます。  
+使う際は必ず登録するようにしましょう。
+
 以下の画像を見てみましょう。
 
 | カラースタイル                         | テキストスタイル                     |
 | -------------------------------------- | ------------------------------------ |
-| ![Color Styles](./img/colorStyles.png) | ![Text Styles](./img/textStyles.png) |
+| ![Color Styles](./img/colorStyle1.png) | ![Text Styles](./img/textStyles.png) |
+| ![Color Styles](./img/colorStyle2.png) |
+| ![Color Styles](./img/colorStyle3.png) |
+| ![Color Styles](./img/colorStyle4.png) |
+| これでカラー登録は完了です！ |
 
 カラーやテキストの指定をしている部分をホバーすると`４つのドット`が出現し、すでに登録されているスタイルを選択・適用したり、`+`ボタンから新しく登録することができます。  
 使う際は必ず登録するようにしましょう。
@@ -41,7 +49,7 @@ Shinonome ではテキストを`atoms/text`と位置付けてコンポーネン�
 
 | text-wrap                         | margin と padding                       |
 | --------------------------------- | --------------------------------------- |
-| ![text-wrap](./img/text-wrap.png) | ![Text Styles](./img/marginPadding.png) |
+| ![Color Styles](./img/marginPadding.png) |
 
 #### テキストの命名
 
@@ -55,6 +63,8 @@ Shinonome 以外のフォントを使いたい場合は`フォント名/サイ�
 #### カラーの命名
 
 カラーの命名には[HTML CSS Color Picker](http://www.htmlcsscolor.com/)を使います。
+カラー登録をしたい色のHEXを検索すると、色名が表示されます。参考にしてください。
+![Color Styles](./img/colorStyle5.png) 
 
 命名規則は以下です。
 
