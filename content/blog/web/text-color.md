@@ -27,11 +27,15 @@ Figma では、以下のスタイルを登録することができます。
 
 | カラースタイル                         | テキストスタイル                     |
 | -------------------------------------- | ------------------------------------ |
-| ![Color Styles](./img/colorStyle1.png) | ![Text Styles](./img/textStyles.png) |
-| ![Color Styles](./img/colorStyle2.png) |
-| ![Color Styles](./img/colorStyle3.png) |
-| ![Color Styles](./img/colorStyle4.png) |
-| これでカラー登録は完了です！ |
+| 1, プロパティパネルの4つのドットを押す  | 1, プロパティパネルの4つのドットを押す |
+| ![Color Styles](./img/colorStyle1.png) | ![Text Styles](./img/textStyles1.png) |
+| 2, プラスボタンを押す | 2, プラスボタンを押す |
+| ![Color Styles](./img/colorStyle2.png) | ![Text Styles](./img/textStyles2.png) |
+| 3, カラーコードを確認して 基本色名_詳細色名 の形で命名する | 3, フォント名/サイズの形式で命名する |
+| ![Color Styles](./img/colorStyle3.png) | ![Text Styles](./img/textStyles3.png) |
+|  Color stylesから登録したカラーを確認できます！ | Text stylesから登録したカラーを確認できます！ |
+| ![Color Styles](./img/colorStyle4.png) | ![Text Styles](./img/textStyles4.png) |
+
 
 
 ### Shinonome のテキスト
