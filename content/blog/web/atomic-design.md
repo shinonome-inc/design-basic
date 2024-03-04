@@ -35,7 +35,7 @@ assetsについては、後で説明します。
 
 パーツ例：text-link , button , icon（default , hover , selectedなど状態管理）, text-field , text-area , badge , avator , chat bubble , divider , dropdown（1項目でのdefault , hover , selectedなど状態管理）, toggle , tooltip
 
-[[right | ![atoms](./img/atomic-design-atoms.png) ]]
+ ![atoms](./img/atomic-design-atoms.png)
 
 #### molecules
 
@@ -43,7 +43,7 @@ assetsについては、後で説明します。
 
 パーツ例：breadcrumb , card , list , check-box（icon+textの状態） , modal , snack-bar , pagination , progerss-bar , slider , tab
 
-[[right | ![molecules](./img/atomic-design-molecules.png) ]]
+ ![molecules](./img/atomic-design-molecules.png) 
 
 #### organisms
 
@@ -51,13 +51,13 @@ assetsについては、後で説明します。
 
 パーツ例：header , footer , cards , lists , calendar , carousel , chart , chat , table
 
-[[right | ![organisms](./img/atomic-design-organisms.png) ]]
+ ![organisms](./img/atomic-design-organisms.png) 
 
 #### templates
 
 定義：実際にありうるテキストや画像を入れる前の状態。ここでレイアウトの確認をする。
 
-[[right | ![templates](./img/atomic-design-templates.png) ]]
+ ![templates](./img/atomic-design-templates.png) 
 
 #### pages
 
@@ -65,7 +65,7 @@ assetsについては、後で説明します。
 
 パーツ名がわからない場合は、[pinterest](https://www.pinterest.jp/)で「パーツ名　ui」とデザイン例を調べたり、[ここ](https://phuoc.ng/collection/css-layout/)をチェックしたりしましょう。
 
-[[right | ![pages](./img/atomic-design-pages.png) ]]
+![pages](./img/atomic-design-pages.png) 
 
 ### 命名規則
 
