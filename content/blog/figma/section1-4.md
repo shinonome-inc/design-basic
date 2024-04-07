@@ -24,6 +24,7 @@ Frameは、`Constraints`（日本語設定では「制約」）と、`Auto layou
 ツールバーの#のようなアイコンをクリックするか、キーボードショートカット（FまたはA）を使用することで作成できます。
 <br/>また、すでにキャンバス上に作成した要素をフレーム化するキーボードショートカットは、Windowsの場合（Shift+Alt+G）、Macの場合（Shift+option+G）です。
 <br/>オートレイアウト化されたフレームを作成するキーボードショートカットは、（Shift+A）です。
+| ![frame](./img/add-frame.png)
 
 ### グループ
 
@@ -44,10 +45,10 @@ Section内にGroupやFrameを作ることはできる一方、**GroupやFrame内
 
 ### 切り替える
 
-[[right |右サイドバーから、Frame,Group,Sectionの切り替えができます。
+right |右サイドバーから、Frame,Group,Sectionの切り替えができます。
 <br/>Group, Frame, Sectionはデザインパネルから相互変換が可能ですが、「GroupやFrame内にSectionを作ることはできない」という制約により、親要素がFrameやGroupの場合には、子要素のFrameやGroupをSectionに変更することはできません。
 
-<br/>下の画像は frame を選択している時の右サイドバーの様子です。<br/>frame と書かれているプルダウンから group に変更することができます。<br/>逆も同様です。]]
+<br/>下の画像は frame を選択している時の右サイドバーの様子です。<br/>frame と書かれているプルダウンから group に変更することができます。<br/>逆も同様です。
 | ![frame-to-group](./img/frame-to-group.png)
 
 
