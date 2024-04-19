@@ -3,7 +3,7 @@ title: 配色課題
 index: 680
 date: "2020"
 labels: ["color scheme"]
-description: "デザインコンセプトの決める方法としてムードボードがあります。配色課題では実際にムードボードを作成してみましょう。"
+description: "デザインコンセプトを決める方法としてムードボードがあります。配色課題では実際にムードボードを作成してみましょう。"
 importance: "80"
 difficulty: "normal"
 time: "120 min"
