@@ -44,9 +44,7 @@ Figma では、以下のスタイルを登録することができます。
 
 
 Shinonome ではテキストをatoms/textと位置付けてコンポーネントを統一して使っています。  
-左サイドバーのAssetsのShinonome Text Stylesからtext-wrapを持ってきて構造を見てみましょう。  
-テキストがmarginとpaddingという名前の Auto layout でラップされているのがわかると思います。  
-これからテキストを使う際にはShinonomeのtext-wrapを使いましょう。
+テキストがmarginとpaddingという名前の Auto layout でラップされています。  
 
 - text-wrap--margin は外側の余白で他の要素との余白を取る際に用います。
 - text-wrap--padding は内側の余白で、自分の要素の余白を取る際に用います。  
@@ -55,6 +53,8 @@ Shinonome ではテキストをatoms/textと位置付けてコンポーネント
 | text-wrap                         | margin と padding                       |
 | --------------------------------- | --------------------------------------- |
 | ![text-wrap](./img/text-wrap.png) | ![Text Styles](./img/marginPadding.png) |
+
+**`Shinonome の text-wrapは廃止されました。スルーしてください。`**
 
 #### テキストの命名
 
