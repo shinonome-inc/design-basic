@@ -36,7 +36,7 @@ time: "185 min"
 
 1. [模範解答](https://www.figma.com/file/ah0c0rbDLSfuDoKFnuS7sl/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E8%AA%B2%E9%A1%8C%E6%A8%A1%E7%AF%84%E5%9B%9E%E7%AD%94?node-id=19688%3A3291&t=H4fQB8mWD6GC8g6k-0)を見て修正部分がないか自分で確認しましょう。
 2. メモで注意点を 1 つ 1 つ確認し、直しましょう。(書き換えるのではなく別のエリアに作り直しましょう！)
-3. Pgritで`#design_review`を付けてレビュー依頼をする。（修了生からのレビューの待機中では次の課題を進めてOK）
+3. PGritで`#design_review`を付けてレビュー依頼をする。（修了生からのレビューの待機中では次の課題を進めてOK）
 
 **レビュー依頼**
 > `#design_review`<br>Chapter43トップを作るのレビューお願いします！<br>Figmaのリンクを添付
@@ -47,5 +47,3 @@ time: "185 min"
 パーツを完成し終えてから自分のファイルに模範パーツをコピペしてパーツの中身を確認するのは OK です。
 
 分からないこと&考えたことは、[仕様メモ](https://www.figma.com/file/ah0c0rbDLSfuDoKFnuS7sl/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E8%AA%B2%E9%A1%8C%E6%A8%A1%E7%AF%84%E5%9B%9E%E7%AD%94?node-id=20224%3A5123&t=LvFG8CqZSR0wz1bo-4)や個人シートなどを使って自分の考えを残すようにしましょう。
-
-もし課題の仕上がりに不安があれば、Slack の[#dev_design](https://playground-universe.slack.com/archives/CJ3PDBCAZ)チャンネルまで`@channel`をつけてレビュー依頼を出してください。
