@@ -11,12 +11,17 @@ time: "20 min"
 ## フレームとグループとセクション
 
 Figmaの要素をグルーピングする機能は、Frame(フレーム)、Group(グループ)、Section(セクション)の3種類あります。場合に応じて、使い分けましょう。
+大まかな違いはこちらです。
+
+![frame](./img/frame-group-section.png)
 
 ### フレーム
 
- FrameはUI制作を行うために使われます。<br/>FrameはFillやStroke、Effectsといったデザイン上のプロパティ情報を持っており、Frame自身にこれらのプロパティ変更が適用されます。
+FrameはUI制作を行うために使われます。
+ 
+FrameはFillやStroke、Effects（＝色・枠線・シャドウをつける）といったデザイン上のプロパティ情報を持っており、Frame自身にこれらのプロパティ変更が適用されます。
 
-Frameは、`Constraints`（日本語設定では「制約」）と、`Auto layout`の二つの固有のプロパティを持ちます。<br/>ConstraintsはFrameのサイズが変わった場合に、Frame内の子要素がFrameに対してどのようなレイアウトの振る舞いをするのかを指定するプロパティです。<br/>Auto Layoutは、子要素の並びや配置、間隔や余白(Padding)、を設定するレイアウト機能です。Constraints、Auto layoutの詳細は後述します。
+Frameは、`Constraints`（日本語設定では「制約」）と、`Auto layout`の二つの配置に関する設定機能を持ちます。<br/>Constraints、Auto layoutの詳細はまた別のページで説明するので、ここでは簡単にだけ触れておきます。<br/>ConstraintsはFrame内の子要素がFrameの大きさが変わったときにどのようなレイアウト上の振る舞いをするのかを指定する機能です。<br/>Auto Layoutは、子要素の並びや配置、間隔や余白(Padding)、を設定するレイアウト機能です。
 
 
 ### フレームの作成方法
@@ -28,7 +33,8 @@ Frameは、`Constraints`（日本語設定では「制約」）と、`Auto layou
 
 ### グループ
 
-ただ単にグルーピングをしたい時はグループセレクションを使いましょう。  
+ただ単にグルーピングをしたい時はグループセレクションを使いましょう。
+アイコンやロゴを作成する際に使用することが多いです。
 複数のオブジェクトを１つのレイヤーとして扱うことができます。
 <br/>グループ化のキーボードショートカットは、（Ctrl+G）です。
 
@@ -45,13 +51,9 @@ Section内にGroupやFrameを作ることはできる一方、**GroupやFrame内
 
 ### 切り替える
 
-right |右サイドバーから、Frame,Group,Sectionの切り替えができます。
-<br/>Group, Frame, Sectionはデザインパネルから相互変換が可能ですが、「GroupやFrame内にSectionを作ることはできない」という制約により、親要素がFrameやGroupの場合には、子要素のFrameやGroupをSectionに変更することはできません。
+右サイドバーから、Frame,Group,Sectionの切り替えができます。<br/>Group, Frame, Sectionはデザインパネルから相互変換が可能ですが、「GroupやFrame内にSectionを作ることはできない」という制約により、親要素がFrameやGroupの場合には、子要素のFrameやGroupをSectionに変更することはできません。
 
-<br/>下の画像は frame を選択している時の右サイドバーの様子です。<br/>frame と書かれているプルダウンから group に変更することができます。<br/>逆も同様です。
-| ![frame-to-group](./img/frame-to-group.png)
-
-
+[[right | 右の画像は frame を選択している時の右サイドバーの様子です。<br/>frame と書かれているプルダウンからgroup に変更することができます。<br/>逆も同様です。]] | ![frame-to-group](./img/frame-to-group.png)
 
 ### 参考
 
