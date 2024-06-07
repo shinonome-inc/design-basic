@@ -43,7 +43,7 @@ time: "40 min"
 (username) Design Course Tutorial の`ロジックパーツ`というページにパーツの説明、サンプルを置いているので見てみましょう。  
 このパーツで作られた画面遷移図を元にエンジニアは実装をします。一種の仕様書と言えるでしょう。
 
-<img src="./img/logicparts-description.png" width="70%">
+<img src="./img/logicparts-description.png" width="80%">
 
 これらのロジックパーツはプロジェクト共通のものです。  
 パーツを使う際は、Figma 左サイドバーの`Assets`→`(New)Shinonome Logic parts` から使用しましょう。 
