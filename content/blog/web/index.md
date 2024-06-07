@@ -43,18 +43,15 @@ time: "40 min"
 (username) Design Course Tutorial の`ロジックパーツ`というページにパーツの説明、サンプルを置いているので見てみましょう。  
 このパーツで作られた画面遷移図を元にエンジニアは実装をします。一種の仕様書と言えるでしょう。
 
-| アイコンパーツ                | ラインパーツ                  |
-| ----------------------------- | ----------------------------- |
-| ![icon](./img/icon-parts.png) | ![line](./img/line-parts.png) |
+<img src="./img/logicparts-description.png" width="70%">
 
 これらのロジックパーツはプロジェクト共通のものです。  
-パーツを使う際は、Figma 左サイドバーの`Assets`→`Shinonome Logic parts` から使用しましょう。 
-ラインパーツは`Shinonome Logic parts`→`Logic Parts List`にあるラインパーツをコピペして使いましょう。
+パーツを使う際は、Figma 左サイドバーの`Assets`→`(New)Shinonome Logic parts` から使用しましょう。 
 また、オリジナルのアイコン等を作る場合は、必ずコンポーネント化しましょう。  
-**※Assets にローカルのパーツしかない場合は Assets の本のアイコンから、Shinonome Logic parts が適用されているか確認しましょう。**
+**※Assets にローカルのパーツしかない場合は Assets の本のアイコンから、(New)Shinonome Logic parts が適用されているか確認しましょう。**
 
 [[right | サンプルを置いていますので、作り方の参考にしてください。<br/>ヘッダー・フッターなど各パーツの説明は[こちら](https://csslayout.io/)。]]
-| ![sample](./img/sample.png)
+| ![sample](./img/sample-list.png)
 
 #### URL が一意に定まる？定まらない？？
 
