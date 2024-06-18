@@ -55,7 +55,7 @@ Figma がチュートリアルを用意してくれています。
 
 ![import](./img/create-tutorial-7.png) 
 
-もし操作がわからない場合は Slack の[#dev_design](https://playground-universe.slack.com/archives/CJ3PDBCAZ)チャンネルまで！
+もし操作がわからない場合は Discord の[#de-質問場所](https://discord.com/channels/598545479860748288/1245591184848719924)で投稿してください！
 
 ### Figma の機能のある場所
 
