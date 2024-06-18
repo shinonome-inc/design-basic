@@ -21,10 +21,17 @@ time: "2 month"
 - 最終発表: デザインカンプを発表し合格基準を満たしている場合はコース修了、満たしていないと判断された場合は再度修正
 
 あまり難しく考える必要はありません。自分の作るデザインに説得力やメッセージを持たせられる力を身につけることが目的です。  
-**最終課題に入ることを Discord の[#de-コース全体](https://discordapp.com/channels/598545479860748288/1245591416403660881)チャンネルで報告してください。メンターの手配を行います。**  
-**メンターから連絡をするので連絡が来るまで以下の準備をして待っていてください。**
+**最終課題に入るために以下の準備を行ってください**
 
-### 準備 1. 最終課題用のデザインファイル を用意する
+### 準備 1. 最終課題に入ることを報告する
+- Discordの[#de-コース全体](https://discordapp.com/channels/598545479860748288/1245591416403660881)チャンネルで最終課題に入ることを報告してください。メンターの手配を行います。
+- また、以下4つのファイルのアクセス権限を付与してもらってください。4nonomeのメールアドレスの記載もお願いします。
+  - [ski 要件定義書](https://docs.google.com/document/d/1EWbLhFxiUNIF38WkLQWhJY18SL3OuDxeT6-NE3yrt9I/edit#heading=h.30j0zll)
+  - [ski　機能仕様書](https://docs.google.com/document/d/1J-IS4ZAQcl91rUKKjJNXLZf44gyblkY-WneLKy4HpN4/edit#heading=h.gjdgxs)
+  - [Swimmy　要件定義書](https://docs.google.com/document/d/16CAvIvFSg-im7AZe02Wae7tBs9XicBvrZJLzw3VCZK4/edit#heading=h.30j0zll)
+  - [Swimmy　機能仕様書](https://docs.google.com/document/d/1NoOVgS-BqW0Ettp0dQcbaPsVN8Bj4FbNIjFM4Zl6TyI/edit#heading=h.30j0zll)
+
+### 準備 2. 最終課題用のデザインファイル を用意する
 
 ![import](./img/create-finalfile-1.png)
 
@@ -32,7 +39,7 @@ time: "2 month"
 
 ![import](./img/create-finalfile-3.png)
 
-### 準備 2. 大まかな製作の流れを把握する
+### 準備 3. 大まかな製作の流れを把握する
 
 #### 画面遷移図を元にワイヤーフレームを作る
 
