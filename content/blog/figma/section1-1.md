@@ -40,9 +40,9 @@ time: "18 min"
 
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360039825314-Getting-started-with-comments)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
@@ -50,4 +50,4 @@ time: "18 min"
 - コメントの CRUD(クラッド)機能 (調ベテミテネ)
 - コメントの解決
 
-できたら次に進みましょう。
+次の課題へ進みましょう！
