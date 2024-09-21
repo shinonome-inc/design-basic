@@ -115,13 +115,14 @@ letter-spacing(文字間隔)を指定できます。
 
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360039956634-Explore-text-properties)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
+
 Word のような感覚ですね！どんどん覚えましょう〜〜
 
 #### 今回やったこと
 
 - テキストの設定
 
-できたら次に進みましょう。
+次の課題へ進みましょう！
