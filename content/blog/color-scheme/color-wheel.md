@@ -78,9 +78,9 @@ time: "20min"
 - [デザイナーじゃなくても知っておきたい色と配色の基本](https://baigie.me/officialblog/2021/01/27/color_theory/)
 - [デザイン戦略](https://twitter.com/arai_yusaku/status/1485768024632492033?t=5PmbOrzUgzSqZvOlFsDm-Q&s=19)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
@@ -89,4 +89,4 @@ time: "20min"
 - 色相環の見方
 - 色相環から考える配色
 
-できたら次に進みましょう。
+次の課題へ進みましょう！
