@@ -58,13 +58,13 @@ Hex または RGB が無難でしょう。
 - [公式ドキュメント ~smart selection~](https://help.figma.com/hc/en-us/articles/360040667874-Create-unique-effects-with-Blend-modes)
 - [色彩基本](https://www.swtoo.com/support/cube/tech-cube/10-1/)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
 - オブジェクトに色を塗る方法と塗り方のパターン
 - ブレンドモード
 
-できたら次に進みましょう。
+次の課題へ進みましょう！
