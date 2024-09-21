@@ -90,9 +90,9 @@ Gutter: マージン
 - [公式ドキュメント ~view settings~](https://help.figma.com/hc/en-us/articles/360041065034-Adjust-your-view-settings-in-the-Editor)
 - [公式ドキュメント ~ruler~](https://help.figma.com/hc/en-us/articles/360040449713-Add-Guides-to-the-Canvas-or-a-Frame)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
@@ -100,4 +100,4 @@ Gutter: マージン
 - レイアウトの設定
 - ルーラーの設定
 
-できたら次に進みましょう。
+次の課題へ進みましょう！
