@@ -24,7 +24,7 @@ time: "2 month"
 **最終課題に入るために以下の準備を行ってください**
 
 ### 準備 1. 最終課題に入ることを報告する
-- Discordの[#de-コース全体](https://discordapp.com/channels/598545479860748288/1245591416403660881)チャンネルで最終課題に入ることを報告してください。メンターの手配を行います。
+- Discordの[#コース全体](https://discordapp.com/channels/598545479860748288/1245591416403660881)チャンネルで最終課題に入ることを報告してください。メンターの手配を行います。
 - また、以下4つのファイルのアクセス権限を付与してもらってください。4nonomeのメールアドレスの記載もお願いします。
   - [ski 要件定義書](https://docs.google.com/document/d/1EWbLhFxiUNIF38WkLQWhJY18SL3OuDxeT6-NE3yrt9I/edit#heading=h.30j0zll)
   - [ski　機能仕様書](https://docs.google.com/document/d/1J-IS4ZAQcl91rUKKjJNXLZf44gyblkY-WneLKy4HpN4/edit#heading=h.gjdgxs)

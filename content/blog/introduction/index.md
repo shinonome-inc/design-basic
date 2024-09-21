@@ -29,10 +29,10 @@ FigmaのShinonomeチームの招待をお願いします。
 ```
 5. Figma Educationプランに参加する。 [マニュアル](https://www.notion.so/shinonome-inc/Figma-Education-3c0f8529e2c0419686b2674219777b89)のリンクに従って進めてください。
  
-### 個人シートにチェックを入れましょう！
+### PGwebで課題を完了しましょう！
 
 #### 今回やったこと
 
 - Figma アカウントの作成
 
-チェックを入れたら次に進みましょう。
+次の課題へ進みましょう！

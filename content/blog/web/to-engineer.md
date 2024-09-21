@@ -141,9 +141,10 @@ Web ページの幅は可変です。
 - [interactive components](https://help.figma.com/hc/en-us/articles/360061175334-Create-interactive-components-with-variants)
 - [エンジニアが知りたいアニメーション](https://qiita.com/7968/items/812d6a21fc4dd9ae9c75)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
+
 地道で面倒な作業に思えるかもしれませんがこれをしないとエンジニアの確認するコストが増え、負荷がかかってしまいます。  
 デザインをするということは使うユーザーやサービスを実装するエンジニアを思いやることです。
 
@@ -153,4 +154,4 @@ Web ページの幅は可変です。
 - マウスアクション・タップアクションを伝える
 - パターンを伝える
 
-できたら次に進みましょう。
+次のチャプターに進む前に、つどいの場に参加しましょう。[つどいの場とは？](https://www.notion.so/shinonome-inc/92952612de464f22b3c5cde79d7211b5)
