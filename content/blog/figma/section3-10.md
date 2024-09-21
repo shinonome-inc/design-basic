@@ -76,9 +76,9 @@ Figmaの課題ファイルに「AutoLayout~アウトプット編~」というペ
 
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-layout)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
@@ -86,4 +86,4 @@ Figmaの課題ファイルに「AutoLayout~アウトプット編~」というペ
 - Advanced layout
 - Resizing
 
-できたら次に進みましょう。
+次の課題へ進みましょう！
