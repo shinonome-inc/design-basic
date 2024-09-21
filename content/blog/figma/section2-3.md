@@ -53,9 +53,9 @@ time: "13 min"
 - [公式ドキュメント ~file~](https://help.figma.com/hc/en-us/articles/360038006474-Interact-with-files#Access_the_file_menu)
 - [公式ドキュメント ~version history~](https://help.figma.com/hc/en-us/articles/360038006754-View-a-file-s-version-history)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
@@ -63,4 +63,4 @@ time: "13 min"
 - ファイルのバージョン確認
 - ファイルの書き出し
 
-できたら次に進みましょう。
+次の課題へ進みましょう！
