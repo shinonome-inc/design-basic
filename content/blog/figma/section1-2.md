@@ -82,9 +82,9 @@ before はカード 3 枚が見切れていたり、下に余分な余白があ�
 - [公式ドキュメント ~Frame~](https://help.figma.com/hc/en-us/articles/360041539473-Frames-in-Figma)
 - [公式ドキュメント ~Object~](https://help.figma.com/hc/en-us/articles/360041064174-Access-tools-in-the-Editor-with-the-toolbar#Shape_tools)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。  
 
-![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 
