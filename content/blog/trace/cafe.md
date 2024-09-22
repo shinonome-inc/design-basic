@@ -47,3 +47,5 @@ time: "125 min"
 パーツを完成し終えてから自分のファイルに模範パーツをコピペしてパーツの中身を確認するのは OK です。
 
 分からないこと&考えたことは、[仕様メモ](https://www.figma.com/file/ah0c0rbDLSfuDoKFnuS7sl/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E8%AA%B2%E9%A1%8C%E6%A8%A1%E7%AF%84%E5%9B%9E%E7%AD%94?node-id=20224%3A5123&t=LvFG8CqZSR0wz1bo-4)などを使って自分の考えを残すようにしましょう。
+
+**※Shinonome チームの Design Course Tutorial を編集しないように気をつけてください！万が一してしまった場合は気づいたらすぐに教えてください！**
