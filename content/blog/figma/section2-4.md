@@ -71,9 +71,9 @@ Figma のコンポーネント・インスタンス機能では、作成した�
 - (username) Design Course Tutorial の`Component , Instanceの参考`と書かれたページ
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-Components-in-Figma)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
@@ -82,4 +82,4 @@ Figma のコンポーネント・インスタンス機能では、作成した�
 - コンポーネントの置き換え
 
 このセクションはとても重要なので理解できるまでしっかりと復習しましょう。  
-できたら次に進みましょう。
+次の課題へ進みましょう！

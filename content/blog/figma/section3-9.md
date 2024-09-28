@@ -33,12 +33,12 @@ constraints を設定することによって、フレームのサイズが変�
 - [公式ドキュメント 1](https://help.figma.com/hc/en-us/articles/360039957734-Apply-Constraints-to-define-how-layers-resize)
 - [公式ドキュメント 2](https://help.figma.com/hc/en-us/articles/360039957934-Combine-Layout-Grids-and-Constraints)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
 - constraints 機能
 
-できたら次に進みましょう。
+次のチャプターに進む前に、つどいの場に参加しましょう。[つどいの場とは？](https://www.notion.so/shinonome-inc/92952612de464f22b3c5cde79d7211b5)

@@ -48,9 +48,9 @@ Pages は前の段階で学びましたね、今回は Layer について学び�
 
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360039831974-View-layers-and-assets-in-the-Layers-Panel)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
-![sheet](../../assets/sheet.png)
 
 #### 今回やったこと
 
@@ -58,4 +58,4 @@ Pages は前の段階で学びましたね、今回は Layer について学び�
 - レイヤーの重なり
 - レイヤーの管理
 
-できたら次に進みましょう。
+次の課題へ進みましょう！

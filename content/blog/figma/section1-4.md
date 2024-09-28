@@ -59,9 +59,9 @@ Section内にGroupやFrameを作ることはできる一方、**GroupやFrame内
 
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360039832054-Frames-and-Groups)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
@@ -69,4 +69,4 @@ Section内にGroupやFrameを作ることはできる一方、**GroupやFrame内
 - グループセレクション
 - フレームセレクション ⇄ グループセレクション
 
-できたら次に進みましょう。
+次の課題へ進みましょう！

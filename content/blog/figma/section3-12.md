@@ -18,8 +18,7 @@ time: "48 min"
 1. バージョンを保存する。[参考](https://design-basic.netlify.app/figma/section2-3/)
 2. 以下の解説動画を見て、自分の解答と答え合わせをする。
 3. 復習をする。
-4. 個人シートに間違っていたところ、学んだことや調べたサイトなどを記載する。
-5. 個人シートにチェックを入れる。
+4. PGwebで "課題を完了済みにする" ボタンを押す。
+5. 次のチャプターに進む前に、つどいの場に参加しましょう。[つどいの場とは？](https://www.notion.so/shinonome-inc/92952612de464f22b3c5cde79d7211b5)
 
 `youtube:https://www.youtube.com/embed/XsFH1orBIUw`
-**※Shinonome チームの Design Course Tutorial を編集しないように気をつけてください！万が一してしまった場合は気づいたらすぐに教えてください！**

@@ -91,15 +91,16 @@ Shinonome 以外のフォントを使いたい場合は`フォント名/サイ�
 - [公式ドキュメント ~text styles~](https://help.figma.com/hc/en-us/articles/360039957034-Create-and-Apply-Text-Styles)
 - [公式ドキュメント ~color styles~](https://help.figma.com/hc/en-us/articles/360038746534-Create-styles-for-colors-text-effects-and-layout-grids#Text)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
+
 カラーはなぜこの命名規則でしょうか？  
-自分なりに考えて 個人シート に書いてみてください。
+自分なりに考えてみてください。
 
 #### 今回やったこと
 
 - テキスト・カラーの登録
 - カラー・テキストの命名規則
 
-できたら次に進みましょう。
+次の課題へ進みましょう！

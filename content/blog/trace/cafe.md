@@ -36,14 +36,16 @@ time: "125 min"
 
 1. [模範解答](https://www.figma.com/file/ah0c0rbDLSfuDoKFnuS7sl/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E8%AA%B2%E9%A1%8C%E6%A8%A1%E7%AF%84%E5%9B%9E%E7%AD%94?node-id=19688%3A3291&t=H4fQB8mWD6GC8g6k-0)を見て修正部分がないか自分で確認しましょう。
 2. メモで注意点を 1 つ 1 つ確認し、直しましょう。(書き換えるのではなく別のエリアに作り直しましょう！)
-3. PGritで`#design_review`を付けてレビュー依頼をする。（修了生からのレビューの待機中では次の課題を進めてOK）
+3. Discordの[#課題レビュー](https://discord.com/channels/598545479860748288/1263076994430799943)で`@Design-ノーマル` `@Design-アシスタント`にメンションしてレビュー依頼をする。（修了生からのレビューの待機中では次の課題を進めてOK）
 
 **レビュー依頼**
-> `#design_review`<br>Chapter44カフェ紹介を作るのレビューお願いします！<br>Figmaのリンクを添付
+> `@Design-ノーマル` `@Design-アシスタント`<br>Chapter44カフェ紹介を作るのレビューお願いします！<br>Figmaのリンクを添付
 
-4. この章の個人シートの進捗管理タブに終了日と学んだことを記述する。(振り返りの時に役立つよ！)
+4. PGwebで "課題を完了済みにする" ボタンを押す。
 
 **※模範解答をコピペするのはやめましょう。（小声）レビュワーは Show version history で確認できます。**
 パーツを完成し終えてから自分のファイルに模範パーツをコピペしてパーツの中身を確認するのは OK です。
 
-分からないこと&考えたことは、[仕様メモ](https://www.figma.com/file/ah0c0rbDLSfuDoKFnuS7sl/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E8%AA%B2%E9%A1%8C%E6%A8%A1%E7%AF%84%E5%9B%9E%E7%AD%94?node-id=20224%3A5123&t=LvFG8CqZSR0wz1bo-4)や個人シートなどを使って自分の考えを残すようにしましょう。
+分からないこと&考えたことは、[仕様メモ](https://www.figma.com/file/ah0c0rbDLSfuDoKFnuS7sl/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E8%AA%B2%E9%A1%8C%E6%A8%A1%E7%AF%84%E5%9B%9E%E7%AD%94?node-id=20224%3A5123&t=LvFG8CqZSR0wz1bo-4)などを使って自分の考えを残すようにしましょう。
+
+**※Shinonome チームの Design Course Tutorial を編集しないように気をつけてください！万が一してしまった場合は気づいたらすぐに教えてください！**

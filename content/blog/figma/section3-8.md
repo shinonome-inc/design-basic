@@ -30,12 +30,12 @@ time: "6 min"
 
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360055203533-Use-the-Inspect-panel#Export_assets)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
 - export 機能
 
-できたら次に進みましょう。
+次の課題へ進みましょう！

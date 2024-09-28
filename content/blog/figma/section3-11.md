@@ -50,12 +50,12 @@ Variants 機能はコンポーネントの管理をよりわかりやすくで�
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360055471353-Prepare-for-variants)
 - [Variants と component の使い分け(とても重要！！)](https://blog.shinonome.io/component-variants/)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
 - Variants 機能
 
-できたら次に進みましょう。
+次の課題へ進みましょう！

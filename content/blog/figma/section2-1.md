@@ -81,13 +81,13 @@ time: "18 min"
 
 - [公式ドキュメント](https://help.figma.com/hc/en-us/articles/360041064174-Access-tools-in-the-Editor-with-the-toolbar)
 
-### 個人シートに学んだことを記入しましょう！
+### PGwebで課題を完了しましょう！
 
-![sheet](../../assets/sheet.png)
+PGwebで "課題を完了済みにする" ボタンを押してこの課題は完了です。
 
 #### 今回やったこと
 
 - ツールバーの基本操作
 - ツールバーの機能
 
-できたら次に進みましょう。
+次の課題へ進みましょう！
