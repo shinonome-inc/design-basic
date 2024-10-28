@@ -19,6 +19,5 @@ time: "33 min"
 2. 以下の解説動画を見て、自分の解答と答え合わせをする。
 3. 復習をする。
 4. PGwebで "課題を完了済みにする" ボタンを押す。
-5. 次のチャプターに進む前に、つどいの場に参加しましょう。[つどいの場とは？](https://www.notion.so/shinonome-inc/92952612de464f22b3c5cde79d7211b5)
 
 `youtube:https://www.youtube.com/embed/-XF5kCHfck0`
